@@ -1,0 +1,1012 @@
+2026-03-04 10:12:50.742 INFO  [27072] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 10:12:50.867 INFO  [27072] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 10:12:50.868 INFO  [27072] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:12:50.889 INFO  [27072] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:12:50.914 INFO  [27072] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:12:50.915 INFO  [27072] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:12:50.978 INFO  [27072] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:12:50.980 INFO  [27072] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 10:12:50.980 INFO  [27072] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 10:12:50.981 INFO  [27072] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 10:12:50.983 INFO  [27072] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 10:12:50.983 INFO  [27072] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 10:12:50.986 INFO  [16916] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 10:12:51.043 INFO  [16916] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 10:12:51.045 INFO  [16916] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:12:51.055 INFO  [16916] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:12:51.075 INFO  [16916] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:12:51.075 INFO  [16916] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:12:51.120 INFO  [16916] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:12:51.334 INFO  [27072] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 10:12:51.334 INFO  [27072] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 10:12:51.334 INFO  [27072] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 10:12:51.334 INFO  [27072] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 10:12:51.334 INFO  [27072] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 10:12:51.334 INFO  [27072] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 10:12:51.344 INFO  [3780] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 10:12:51.344 INFO  [3780] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 10:12:51.344 INFO  [3780] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 10:49:24.134 INFO  [26944] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 10:49:24.245 INFO  [26944] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 10:49:24.246 INFO  [26944] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:49:24.272 INFO  [26944] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:49:24.300 INFO  [26944] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:49:24.301 INFO  [26944] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:49:24.479 INFO  [26944] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:49:24.483 INFO  [26944] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 10:49:24.483 INFO  [26944] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 10:49:24.483 INFO  [26944] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 10:49:24.483 INFO  [26944] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 10:49:24.487 INFO  [26944] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 10:49:24.496 INFO  [2880] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 10:49:24.631 INFO  [2880] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 10:49:24.631 INFO  [2880] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:49:24.651 INFO  [2880] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:49:24.675 INFO  [2880] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:49:24.676 INFO  [2880] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:49:24.736 INFO  [2880] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:49:24.513 INFO  [26944] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 10:49:24.513 INFO  [26944] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 10:49:24.513 INFO  [26944] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 10:49:24.513 INFO  [26944] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 10:49:24.513 INFO  [26944] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 10:49:24.513 INFO  [26944] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 10:49:24.524 INFO  [21732] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 10:49:24.524 INFO  [21732] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 10:49:24.524 INFO  [21732] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 10:49:53.320 INFO  [24420] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 10:49:53.444 INFO  [24420] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 10:49:53.446 INFO  [24420] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:49:53.464 INFO  [24420] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:49:53.486 INFO  [24420] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:49:53.486 INFO  [24420] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:49:53.543 INFO  [24420] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:49:53.544 INFO  [24420] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 10:49:53.546 INFO  [24420] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 10:49:53.549 INFO  [24420] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 10:49:53.549 INFO  [24420] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 10:49:53.549 INFO  [24420] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 10:49:53.551 INFO  [7192] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 10:49:53.680 INFO  [7192] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 10:49:53.681 INFO  [7192] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:49:53.701 INFO  [7192] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:49:53.739 INFO  [7192] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:49:53.739 INFO  [7192] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:49:53.834 INFO  [7192] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:49:53.560 INFO  [24420] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 10:49:53.560 INFO  [24420] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 10:49:53.560 INFO  [24420] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 10:49:53.560 INFO  [24420] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 10:49:53.560 INFO  [24420] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 10:49:53.560 INFO  [24420] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 10:49:53.566 INFO  [5144] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 10:49:53.566 INFO  [5144] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 10:49:53.566 INFO  [5144] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 10:55:28.657 INFO  [11864] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 10:55:28.782 INFO  [11864] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 10:55:28.784 INFO  [11864] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:55:28.810 INFO  [11864] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:55:28.832 INFO  [11864] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:55:28.832 INFO  [11864] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:55:28.928 INFO  [11864] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:55:28.929 INFO  [11864] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 10:55:28.929 INFO  [11864] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 10:55:28.932 INFO  [11864] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 10:55:28.934 INFO  [11864] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 10:55:28.934 INFO  [11864] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 10:55:28.941 INFO  [26044] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 10:55:29.063 INFO  [26044] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 10:55:29.064 INFO  [26044] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:55:29.088 INFO  [26044] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:55:29.114 INFO  [26044] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:55:29.114 INFO  [26044] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:55:29.192 INFO  [26044] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:55:28.949 INFO  [11864] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 10:55:28.949 INFO  [11864] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 10:55:28.949 INFO  [11864] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 10:55:28.949 INFO  [11864] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 10:55:28.949 INFO  [11864] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 10:55:28.949 INFO  [11864] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 10:55:28.959 INFO  [11244] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 10:55:28.959 INFO  [11244] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 10:55:28.959 INFO  [11244] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 10:57:04.089 INFO  [12724] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 10:57:04.222 INFO  [12724] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 10:57:04.222 INFO  [12724] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:57:04.248 INFO  [12724] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:57:04.285 INFO  [12724] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:57:04.285 INFO  [12724] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:57:04.392 INFO  [12724] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:57:04.394 INFO  [12724] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 10:57:04.395 INFO  [12724] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 10:57:04.400 INFO  [12724] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 10:57:04.400 INFO  [12724] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 10:57:04.400 INFO  [12724] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 10:57:04.403 INFO  [10784] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 10:57:04.504 INFO  [10784] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 10:57:04.504 INFO  [10784] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 10:57:04.527 INFO  [10784] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 10:57:04.552 INFO  [10784] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 10:57:04.552 INFO  [10784] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 10:57:04.665 INFO  [10784] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 10:57:04.411 INFO  [12724] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 10:57:04.411 INFO  [12724] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 10:57:04.411 INFO  [12724] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 10:57:04.411 INFO  [12724] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 10:57:04.411 INFO  [12724] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 10:57:04.411 INFO  [12724] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 10:57:04.414 INFO  [19668] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 10:57:04.414 INFO  [19668] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 10:57:04.414 INFO  [19668] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 10:59:05.254 INFO  [10784] [CAuthorization::SendAuthState2PlugMgr@424] SendAuthState2PlugMgr begin
+
+2026-03-04 10:59:05.260 INFO  [10784] [CAuthorization::SendAuthState2PlugMgr@426] SendAuthState2PlugMgr end
+
+2026-03-04 11:00:50.908 INFO  [21976] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 11:00:51.049 INFO  [21976] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 11:00:51.053 INFO  [21976] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 11:00:51.066 INFO  [21976] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 11:00:51.086 INFO  [21976] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 11:00:51.087 INFO  [21976] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 11:00:51.190 INFO  [21976] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 11:00:51.193 INFO  [21976] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 11:00:51.193 INFO  [21976] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 11:00:51.195 INFO  [21976] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 11:00:51.195 INFO  [21976] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 11:00:51.196 INFO  [21976] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 11:00:51.204 INFO  [25300] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 11:00:51.330 INFO  [25300] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 11:00:51.335 INFO  [25300] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 11:00:51.344 INFO  [25300] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 11:00:51.373 INFO  [25300] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 11:00:51.376 INFO  [25300] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 11:00:51.473 INFO  [25300] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 11:00:51.217 INFO  [21976] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 11:00:51.217 INFO  [21976] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 11:00:51.218 INFO  [21976] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 11:00:51.218 INFO  [21976] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 11:00:51.218 INFO  [21976] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 11:00:51.218 INFO  [21976] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 11:00:51.230 INFO  [11328] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 11:00:51.230 INFO  [11328] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 11:00:51.230 INFO  [11328] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 11:05:27.125 INFO  [7288] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 11:05:27.248 INFO  [7288] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 11:05:27.250 INFO  [7288] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 11:05:27.270 INFO  [7288] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 11:05:27.300 INFO  [7288] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 11:05:27.300 INFO  [7288] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 11:05:27.391 INFO  [7288] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 11:05:27.393 INFO  [7288] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 11:05:27.393 INFO  [7288] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 11:05:27.393 INFO  [7288] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 11:05:27.393 INFO  [7288] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 11:05:27.395 INFO  [7288] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 11:05:27.399 INFO  [18064] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 11:05:27.513 INFO  [18064] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 11:05:27.513 INFO  [18064] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 11:05:27.535 INFO  [18064] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 11:05:27.558 INFO  [18064] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 11:05:27.558 INFO  [18064] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 11:05:27.650 INFO  [18064] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 11:05:27.424 INFO  [7288] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 11:05:27.424 INFO  [7288] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 11:05:27.425 INFO  [7288] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 11:05:27.425 INFO  [7288] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 11:05:27.425 INFO  [7288] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 11:05:27.425 INFO  [7288] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 11:05:27.441 INFO  [27484] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 11:05:27.441 INFO  [27484] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 11:05:27.441 INFO  [27484] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 11:48:24.398 INFO  [3660] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 11:48:24.525 INFO  [3660] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 11:48:24.526 INFO  [3660] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 11:48:24.548 INFO  [3660] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 11:48:24.575 INFO  [3660] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 11:48:24.576 INFO  [3660] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 11:48:24.654 INFO  [3660] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 11:48:24.656 INFO  [3660] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 11:48:24.657 INFO  [3660] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 11:48:24.658 INFO  [3660] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 11:48:24.660 INFO  [3660] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 11:48:24.660 INFO  [3660] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 11:48:24.666 INFO  [10576] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 11:48:24.777 INFO  [10576] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 11:48:24.778 INFO  [10576] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 11:48:24.801 INFO  [10576] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 11:48:24.827 INFO  [10576] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 11:48:24.830 INFO  [10576] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 11:48:24.899 INFO  [10576] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 11:48:24.678 INFO  [3660] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 11:48:24.678 INFO  [3660] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 11:48:24.678 INFO  [3660] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 11:48:24.678 INFO  [3660] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 11:48:24.678 INFO  [3660] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 11:48:24.678 INFO  [3660] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 11:48:24.679 INFO  [20256] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 11:48:24.679 INFO  [20256] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 11:48:24.679 INFO  [20256] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 12:13:37.813 INFO  [10300] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 12:13:37.951 INFO  [10300] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 12:13:37.955 INFO  [10300] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 12:13:37.976 INFO  [10300] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 12:13:37.993 INFO  [10300] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 12:13:37.993 INFO  [10300] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 12:13:38.062 INFO  [10300] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 12:13:38.063 INFO  [10300] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 12:13:38.063 INFO  [10300] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 12:13:38.063 INFO  [10300] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 12:13:38.063 INFO  [10300] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 12:13:38.065 INFO  [10300] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 12:13:38.073 INFO  [18204] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 12:13:38.166 INFO  [18204] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 12:13:38.172 INFO  [18204] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 12:13:38.202 INFO  [18204] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 12:13:38.233 INFO  [18204] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 12:13:38.235 INFO  [18204] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 12:13:38.319 INFO  [18204] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 12:13:38.082 INFO  [10300] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 12:13:38.082 INFO  [10300] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 12:13:38.082 INFO  [10300] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 12:13:38.082 INFO  [10300] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 12:13:38.082 INFO  [10300] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 12:13:38.082 INFO  [10300] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 12:13:38.083 INFO  [18356] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 12:13:38.083 INFO  [18356] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 12:13:38.083 INFO  [18356] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 12:58:36.626 INFO  [16988] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 12:58:36.739 INFO  [16988] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 12:58:36.748 INFO  [16988] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 12:58:36.771 INFO  [16988] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 12:58:36.800 INFO  [16988] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 12:58:36.803 INFO  [16988] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 12:58:36.897 INFO  [16988] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 12:58:36.899 INFO  [16988] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 12:58:36.899 INFO  [16988] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 12:58:36.899 INFO  [16988] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 12:58:36.899 INFO  [16988] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 12:58:36.899 INFO  [16988] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 12:58:36.900 INFO  [11236] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 12:58:37.013 INFO  [11236] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 12:58:37.016 INFO  [11236] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 12:58:37.029 INFO  [11236] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 12:58:37.056 INFO  [11236] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 12:58:37.058 INFO  [11236] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 12:58:37.165 INFO  [11236] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 12:58:36.919 INFO  [16988] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 12:58:36.919 INFO  [16988] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 12:58:36.919 INFO  [16988] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 12:58:36.919 INFO  [16988] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 12:58:36.919 INFO  [16988] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 12:58:36.919 INFO  [16988] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 12:58:36.928 INFO  [27428] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 12:58:36.928 INFO  [27428] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 12:58:36.928 INFO  [27428] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 13:14:11.397 INFO  [27480] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 13:14:11.490 INFO  [27480] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 13:14:11.492 INFO  [27480] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:14:11.500 INFO  [27480] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:14:11.525 INFO  [27480] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:14:11.527 INFO  [27480] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:14:11.591 INFO  [27480] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:14:11.592 INFO  [27480] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 13:14:11.592 INFO  [27480] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 13:14:11.594 INFO  [27480] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 13:14:11.594 INFO  [27480] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 13:14:11.594 INFO  [27480] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 13:14:11.598 INFO  [13480] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 13:14:11.698 INFO  [13480] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 13:14:11.699 INFO  [13480] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:14:11.721 INFO  [13480] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:14:11.746 INFO  [13480] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:14:11.746 INFO  [13480] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:14:11.812 INFO  [13480] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:14:11.607 INFO  [27480] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 13:14:11.607 INFO  [27480] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 13:14:11.607 INFO  [27480] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 13:14:11.607 INFO  [27480] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 13:14:11.607 INFO  [27480] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 13:14:11.609 INFO  [27480] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 13:14:11.612 INFO  [9416] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 13:14:11.612 INFO  [9416] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 13:14:11.612 INFO  [9416] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 13:19:14.518 INFO  [3724] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 13:19:14.626 INFO  [3724] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 13:19:14.629 INFO  [3724] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:19:14.646 INFO  [3724] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:19:14.660 INFO  [3724] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:19:14.660 INFO  [3724] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:19:14.740 INFO  [3724] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:19:14.742 INFO  [3724] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 13:19:14.742 INFO  [3724] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 13:19:14.742 INFO  [3724] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 13:19:14.742 INFO  [3724] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 13:19:14.742 INFO  [3724] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 13:19:14.748 INFO  [23520] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 13:19:14.851 INFO  [23520] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 13:19:14.855 INFO  [23520] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:19:14.878 INFO  [23520] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:19:14.902 INFO  [23520] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:19:14.904 INFO  [23520] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:19:14.982 INFO  [23520] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:19:14.771 INFO  [3724] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 13:19:14.771 INFO  [3724] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 13:19:14.771 INFO  [3724] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 13:19:14.771 INFO  [3724] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 13:19:14.771 INFO  [3724] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 13:19:14.771 INFO  [3724] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 13:19:14.776 INFO  [18276] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 13:19:14.777 INFO  [18276] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 13:19:14.777 INFO  [18276] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 13:21:24.689 INFO  [4512] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 13:21:24.839 INFO  [4512] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 13:21:24.845 INFO  [4512] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:21:24.865 INFO  [4512] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:21:24.891 INFO  [4512] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:21:24.891 INFO  [4512] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:21:24.975 INFO  [4512] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:21:24.978 INFO  [4512] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 13:21:24.980 INFO  [4512] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 13:21:24.985 INFO  [4512] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 13:21:24.986 INFO  [4512] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 13:21:24.986 INFO  [4512] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 13:21:24.996 INFO  [23476] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 13:21:25.130 INFO  [23476] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 13:21:25.131 INFO  [23476] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:21:25.153 INFO  [23476] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:21:25.176 INFO  [23476] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:21:25.176 INFO  [23476] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:21:25.245 INFO  [23476] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:21:25.002 INFO  [4512] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 13:21:25.002 INFO  [4512] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 13:21:25.003 INFO  [4512] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 13:21:25.003 INFO  [4512] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 13:21:25.003 INFO  [4512] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 13:21:25.003 INFO  [4512] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 13:21:25.008 INFO  [10440] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 13:21:25.008 INFO  [10440] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 13:21:25.008 INFO  [10440] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 13:28:09.693 INFO  [26260] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 13:28:09.808 INFO  [26260] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 13:28:09.812 INFO  [26260] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:28:09.836 INFO  [26260] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:28:09.860 INFO  [26260] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:28:09.861 INFO  [26260] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:28:09.949 INFO  [26260] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:28:09.953 INFO  [26260] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 13:28:09.956 INFO  [26260] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 13:28:09.959 INFO  [26260] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 13:28:09.960 INFO  [26260] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 13:28:09.960 INFO  [26260] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 13:28:09.968 INFO  [21176] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 13:28:10.080 INFO  [21176] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 13:28:10.082 INFO  [21176] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:28:10.106 INFO  [21176] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:28:10.123 INFO  [21176] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:28:10.125 INFO  [21176] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:28:10.213 INFO  [21176] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:28:09.985 INFO  [26260] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 13:28:09.985 INFO  [26260] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 13:28:09.985 INFO  [26260] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 13:28:09.985 INFO  [26260] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 13:28:09.985 INFO  [26260] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 13:28:09.985 INFO  [26260] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 13:28:09.991 INFO  [22708] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 13:28:09.991 INFO  [22708] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 13:28:09.991 INFO  [22708] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 13:38:41.219 INFO  [27788] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 13:38:41.348 INFO  [27788] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 13:38:41.350 INFO  [27788] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:38:41.375 INFO  [27788] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:38:41.400 INFO  [27788] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:38:41.400 INFO  [27788] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:38:41.482 INFO  [27788] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:38:41.486 INFO  [27788] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 13:38:41.486 INFO  [27788] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 13:38:41.486 INFO  [27788] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 13:38:41.487 INFO  [27788] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 13:38:41.487 INFO  [27788] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 13:38:41.492 INFO  [14164] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 13:38:41.580 INFO  [14164] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 13:38:41.582 INFO  [14164] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 13:38:41.601 INFO  [14164] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 13:38:41.635 INFO  [14164] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 13:38:41.635 INFO  [14164] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 13:38:41.705 INFO  [14164] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 13:38:41.501 INFO  [27788] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 13:38:41.501 INFO  [27788] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 13:38:41.501 INFO  [27788] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 13:38:41.501 INFO  [27788] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 13:38:41.501 INFO  [27788] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 13:38:41.501 INFO  [27788] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 13:38:41.504 INFO  [12940] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 13:38:41.504 INFO  [12940] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 13:38:41.504 INFO  [12940] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 14:00:11.548 INFO  [28476] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 14:00:11.664 INFO  [28476] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 14:00:11.664 INFO  [28476] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 14:00:11.688 INFO  [28476] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 14:00:11.711 INFO  [28476] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 14:00:11.711 INFO  [28476] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 14:00:11.771 INFO  [28476] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 14:00:11.771 INFO  [28476] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 14:00:11.771 INFO  [28476] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 14:00:11.774 INFO  [28476] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 14:00:11.774 INFO  [28476] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 14:00:11.774 INFO  [28476] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 14:00:11.785 INFO  [12148] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 14:00:11.886 INFO  [12148] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 14:00:11.891 INFO  [12148] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 14:00:11.904 INFO  [12148] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 14:00:11.932 INFO  [12148] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 14:00:11.934 INFO  [12148] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 14:00:12.017 INFO  [12148] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 14:00:11.831 INFO  [28476] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 14:00:11.831 INFO  [28476] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 14:00:11.833 INFO  [28476] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 14:00:11.833 INFO  [28476] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 14:00:11.833 INFO  [28476] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 14:00:11.833 INFO  [28476] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 14:00:11.834 INFO  [16904] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 14:00:11.834 INFO  [16904] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 14:00:11.834 INFO  [16904] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 14:07:41.814 INFO  [26952] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 14:07:41.952 INFO  [26952] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 14:07:41.953 INFO  [26952] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 14:07:41.971 INFO  [26952] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 14:07:41.992 INFO  [26952] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 14:07:41.992 INFO  [26952] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 14:07:42.055 INFO  [26952] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 14:07:42.057 INFO  [26952] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 14:07:42.057 INFO  [26952] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 14:07:42.057 INFO  [26952] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 14:07:42.057 INFO  [26952] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 14:07:42.057 INFO  [26952] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 14:07:42.066 INFO  [23536] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 14:07:42.167 INFO  [23536] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 14:07:42.168 INFO  [23536] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 14:07:42.187 INFO  [23536] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 14:07:42.213 INFO  [23536] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 14:07:42.213 INFO  [23536] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 14:07:42.281 INFO  [23536] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 14:07:42.066 INFO  [26952] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 14:07:42.066 INFO  [26952] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 14:07:42.066 INFO  [26952] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 14:07:42.066 INFO  [26952] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 14:07:42.066 INFO  [26952] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 14:07:42.066 INFO  [26952] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 14:07:42.077 INFO  [20556] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 14:07:42.077 INFO  [20556] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 14:07:42.077 INFO  [20556] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-04 14:08:13.576 INFO  [15532] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-04 14:08:13.680 INFO  [15532] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-04 14:08:13.683 INFO  [15532] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 14:08:13.703 INFO  [15532] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 14:08:13.728 INFO  [15532] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 14:08:13.729 INFO  [15532] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 14:08:13.795 INFO  [15532] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 14:08:13.796 INFO  [15532] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-04 14:08:13.796 INFO  [15532] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-04 14:08:13.798 INFO  [15532] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-04 14:08:13.798 INFO  [15532] [CAuthorization::Init@106] [Init] End.
+
+2026-03-04 14:08:13.798 INFO  [15532] [InitPluginInstance@29] [Init] [End]
+
+2026-03-04 14:08:13.799 INFO  [5948] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-04 14:08:13.893 INFO  [5948] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-04 14:08:13.898 INFO  [5948] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-04 14:08:13.921 INFO  [5948] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-04 14:08:13.945 INFO  [5948] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-04 14:08:13.947 INFO  [5948] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-04 14:08:14.052 INFO  [5948] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-04 14:08:13.810 INFO  [15532] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-04 14:08:13.810 INFO  [15532] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-04 14:08:13.812 INFO  [15532] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-04 14:08:13.812 INFO  [15532] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-04 14:08:13.812 INFO  [15532] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-04 14:08:13.812 INFO  [15532] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-04 14:08:13.818 INFO  [25796] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-04 14:08:13.818 INFO  [25796] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-04 14:08:13.818 INFO  [25796] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+

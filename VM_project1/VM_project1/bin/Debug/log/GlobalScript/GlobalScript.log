@@ -1,0 +1,1015 @@
+﻿2026-03-04 10:12:51.583 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:50.578 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 10:12:55.660 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:55.618 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 10:12:55.661 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:55.629 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:12:56.664 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:55.897 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:12:55:897 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:12:56.666 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:56.034 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:12:56.666 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:56.034 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:12:56.666 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:56.034 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 10:12:57.668 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:57.462 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 10:12:57.668 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:57.467 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 10:12:58.669 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:57.990 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 10:12:58.669 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.056 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 10:12:58.669 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.056 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 10:12:58.669 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.059 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:12:58.669 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.061 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:12:58.671 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.061 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:12:58:061 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:12:58.671 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.062 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:12:58.671 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.062 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:12:58.671 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.064 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:12:58.671 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.064 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:12:58.671 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.064 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:12:58.673 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.064 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:12:58.673 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.064 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:12:58.673 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.415 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 10:12:58.673 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.415 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 10:12:58.673 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:12:58.415 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 10:13:40.714 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:13:40.204 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 10:13:40.714 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:13:40.204 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 10:13:40.714 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:13:40.205 [6] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 10:13:40.714 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:13:40.205 [6] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 10:13:40.714 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:13:40.213 [6] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 10:14:13.747 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.463 [25] [GlobalManager::HandleCmd] Receive:SaveSolution
+
+2026-03-04 10:14:13.747 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.465 [25] [UserGlobalScriptManger::SaveSolutionByMap] Save IsDefaultContent:[True]
+
+2026-03-04 10:14:13.747 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.466 [25] [UserGlobalScriptManger::SaveSolutionByMap] save solution byte len:4497
+
+2026-03-04 10:14:13.747 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.466 [25] [GlobalManager::HandleCmd] Receive end:SaveSolution
+
+2026-03-04 10:14:13.747 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.466 [25] [GlobalManager::HandleCmd] Receive:SaveSolution
+
+2026-03-04 10:14:13.748 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.466 [25] [UserGlobalScriptManger::SaveSolutionByMap] Save IsDefaultContent:[True]
+
+2026-03-04 10:14:13.748 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.466 [25] [UserGlobalScriptManger::SaveSolutionByMap] save solution byte len:4497
+
+2026-03-04 10:14:13.748 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-3908-,2026-03-04 10:14:13.468 [25] [GlobalManager::HandleCmd] Receive end:SaveSolution
+
+2026-03-04 10:49:25.009 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:23.983 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 10:49:29.049 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:29.011 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 10:49:29.049 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:29.017 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:49:30.052 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:29.238 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:49:29:238 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:49:30.052 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:29.341 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:49:30.052 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:29.341 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:49:30.052 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-23388-,2026-03-04 10:49:29.341 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 10:49:54.157 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:53.128 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 10:49:58.193 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:58.162 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 10:49:58.193 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:58.170 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:49:59.198 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:58.412 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:49:58:412 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:49:59.198 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:58.519 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:49:59.198 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:58.519 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:49:59.198 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:49:58.519 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 10:50:00.201 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.068 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 10:50:00.201 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.071 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 10:50:01.204 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.575 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 10:50:01.204 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.630 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 10:50:01.204 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.630 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 10:50:01.204 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.635 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:50:01.204 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.635 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.637 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:50:00:637 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.637 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.638 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.647 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.647 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.647 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.649 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:00.649 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:50:01.206 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:01.007 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 10:50:01.207 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:01.007 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 10:50:01.207 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:01.007 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 10:50:02.208 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:02.049 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 10:50:02.208 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:02.049 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 10:50:02.209 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:02.049 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 10:50:02.209 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:02.050 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 10:50:02.209 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:50:02.057 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 10:52:06.568 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:51:57.009 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 10:52:06.570 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:51:57.009 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 10:52:06.570 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:51:57.009 [14] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 10:52:06.580 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:51:57.011 [14] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 10:52:06.580 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14640-,2026-03-04 10:51:57.012 [14] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 10:55:28.403 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:28.400 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 10:55:33.482 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:33.443 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 10:55:33.482 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:33.451 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:55:34.488 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:33.753 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:55:33:753 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:55:34.488 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:33.880 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:55:34.488 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:33.880 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:55:34.488 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:33.880 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 10:55:39.519 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:39.215 [26] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 10:55:39.521 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:39.218 [26] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 10:55:40.522 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:39.971 [26] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 10:55:40.522 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.038 [26] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 10:55:40.522 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.038 [26] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 10:55:40.522 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.043 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:55:40.522 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.044 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:55:40:044 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.052 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.052 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.052 [26] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.057 [26] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.057 [26] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.057 [26] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:55:40.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.057 [26] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:55:40.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.057 [26] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:55:40.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.149 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 10:55:40.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.151 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 10:55:40.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:40.151 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 10:55:41.528 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:41.088 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 10:55:41.528 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:41.088 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 10:55:41.528 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:41.088 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 10:55:41.528 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:41.090 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 10:55:41.528 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-12888-,2026-03-04 10:55:41.115 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 10:57:04.929 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:03.895 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 10:57:08.986 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:08.930 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 10:57:08.986 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:08.937 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:57:09.988 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:09.176 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:57:09:176 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:57:09.988 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:09.297 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:57:09.988 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:09.297 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:57:09.988 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:09.297 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 10:57:11.992 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.193 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 10:57:11.994 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.196 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 10:57:11.994 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.400 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 10:57:11.994 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.541 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 10:57:11.994 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.542 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 10:57:11.994 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.545 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 10:57:11.995 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.547 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 10:57:11:547 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 10:57:11.995 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.547 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:57:11.995 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.547 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 10:57:11.995 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.547 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 10:57:11.995 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.550 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:57:11.995 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.550 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:57:12.000 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.550 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 10:57:12.001 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.550 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 10:57:12.001 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:11.550 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 10:57:13.004 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.083 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 10:57:13.004 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.083 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 10:57:13.004 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.083 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 10:57:13.004 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.779 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 10:57:13.004 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.779 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 10:57:13.006 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.781 [19] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 10:57:13.006 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.781 [19] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 10:57:13.006 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18676-,2026-03-04 10:57:12.786 [19] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 11:00:51.794 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:50.762 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 11:00:55.825 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:55.791 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 11:00:55.827 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:55.797 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 11:00:56.828 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:56.040 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 11:00:56:040 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 11:00:56.828 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:56.165 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 11:00:56.828 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:56.165 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 11:00:56.828 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:56.165 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 11:00:57.830 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.136 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 11:00:57.831 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.139 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 11:00:57.831 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.175 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 11:00:57.831 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.237 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.237 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.241 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.243 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.243 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 11:00:57:243 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.244 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.244 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 11:00:57.833 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.246 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 11:00:57.834 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.246 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 11:00:57.834 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.246 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 11:00:57.834 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.246 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 11:00:57.834 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.246 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 11:00:58.835 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.993 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 11:00:58.835 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.993 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 11:00:58.835 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:57.993 [3] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 11:00:58.835 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:58.473 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 11:00:58.835 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:58.473 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 11:00:58.835 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:58.473 [18] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 11:00:58.837 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:58.474 [18] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 11:00:58.837 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-20008-,2026-03-04 11:00:58.481 [18] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 11:05:27.907 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:26.892 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 11:05:31.966 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:31.928 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 11:05:31.986 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:31.937 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 11:05:32.990 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:32.216 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 11:05:32:216 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 11:05:32.990 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:32.342 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 11:05:32.990 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:32.343 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 11:05:32.990 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:32.343 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 11:05:35.993 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.412 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 11:05:35.993 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.416 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 11:05:35.993 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.489 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 11:05:35.993 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.549 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 11:05:35.993 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.549 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.552 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.554 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.555 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 11:05:35:555 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 11:05:35.995 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 11:05:35.996 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 11:05:35.996 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 11:05:35.996 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:35.557 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 11:05:36.998 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:36.348 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 11:05:36.998 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:36.348 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 11:05:36.998 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:36.350 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 11:05:38.001 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:37.192 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 11:05:38.001 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:37.192 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 11:05:38.001 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:37.193 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 11:05:38.001 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:37.193 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 11:05:38.001 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-27340-,2026-03-04 11:05:37.201 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 11:48:25.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:24.219 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 11:48:29.289 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:29.254 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 11:48:29.291 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:29.264 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 11:48:30.295 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:29.531 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 11:48:29:531 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 11:48:30.295 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:29.663 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 11:48:30.295 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:29.663 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 11:48:30.295 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:29.663 [6] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 11:48:35.300 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.566 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 11:48:35.304 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.571 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 11:48:35.304 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.708 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 11:48:35.304 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.769 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 11:48:35.306 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.769 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 11:48:35.306 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.775 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 11:48:35.306 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.775 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 11:48:35.306 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.776 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 11:48:34:776 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 11:48:35.306 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.776 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 11:48:35.306 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.776 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 11:48:35.307 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.778 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 11:48:35.307 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.778 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 11:48:35.307 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.778 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 11:48:35.307 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.778 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 11:48:35.307 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:34.778 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 11:48:36.309 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:35.548 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 11:48:36.309 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:35.548 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 11:48:36.309 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:35.548 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 11:48:36.309 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:36.102 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 11:48:36.309 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:36.102 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 11:48:36.310 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:36.102 [19] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 11:48:36.310 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:36.104 [19] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 11:48:36.310 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-26264-,2026-03-04 11:48:36.111 [19] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 12:13:38.648 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:37.606 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 12:13:42.686 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:42.652 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 12:13:42.687 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:42.659 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 12:13:43.693 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:42.891 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 12:13:42:891 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 12:13:43.693 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:42.991 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 12:13:43.693 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:42.993 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 12:13:43.693 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:13:42.993 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 12:14:58.762 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:58.625 [7] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 12:14:58.762 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:58.628 [7] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 12:14:59.765 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.175 [7] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 12:14:59.765 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.266 [7] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 12:14:59.765 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.267 [7] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.292 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.292 [7] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.294 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 12:14:59:294 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.294 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.294 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.297 [7] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.297 [7] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 12:14:59.766 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.297 [7] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 12:14:59.768 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.297 [7] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 12:14:59.768 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.297 [7] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 12:14:59.768 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.477 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 12:14:59.768 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.477 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 12:14:59.768 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:14:59.477 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 12:15:00.770 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:15:00.476 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 12:15:00.770 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:15:00.476 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 12:15:00.770 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:15:00.478 [6] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 12:15:00.770 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:15:00.478 [6] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 12:15:00.770 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2016-,2026-03-04 12:15:00.484 [6] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 12:58:37.475 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:36.461 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 12:58:41.517 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:41.492 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 12:58:41.517 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:41.500 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 12:58:42.520 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:41.738 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 12:58:41:738 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 12:58:42.520 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:41.866 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 12:58:42.520 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:41.866 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 12:58:42.520 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:41.866 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 12:58:43.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:42.913 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 12:58:43.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:42.916 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 12:58:44.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.911 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 12:58:44.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.962 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 12:58:44.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.962 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 12:58:44.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.967 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 12:58:44.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.967 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 12:58:43:967 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 12:58:44.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.968 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.968 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.968 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.970 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.970 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.970 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.970 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.970 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 12:58:44.529 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.970 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 12:58:44.530 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.971 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 12:58:44.530 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:43.971 [4] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 12:58:56.543 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:56.211 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 12:58:56.543 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:56.213 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 12:58:56.543 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:56.213 [7] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 12:58:56.543 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:56.215 [7] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 12:58:56.543 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-18516-,2026-03-04 12:58:56.221 [7] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 13:14:12.246 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:11.243 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 13:14:16.284 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:16.274 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 13:14:16.284 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:16.279 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:14:17.286 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:16.560 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:14:16:560 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:14:17.286 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:16.701 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:14:17.286 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:16.701 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:14:17.286 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:16.701 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 13:14:19.289 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.098 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 13:14:19.289 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.102 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 13:14:20.291 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.651 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 13:14:20.291 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.746 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 13:14:20.291 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.746 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 13:14:20.291 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.751 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:14:20.291 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.752 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.752 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:14:19:752 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.752 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.752 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.754 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.755 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.755 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:14:20.292 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.755 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:14:20.294 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:19.755 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:14:20.294 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:20.022 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 13:14:20.294 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:20.022 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 13:14:20.294 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-2744-,2026-03-04 13:14:20.022 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 13:19:14.309 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:14.291 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 13:19:19.376 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:19.333 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 13:19:19.376 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:19.354 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:19:20.377 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:19.591 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:19:19:591 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:19:20.377 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:19.713 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:19:20.377 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:19.713 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:19:20.377 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:19.713 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 13:19:22.381 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.566 [26] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 13:19:22.381 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.568 [26] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 13:19:22.381 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.817 [26] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 13:19:22.382 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.915 [26] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 13:19:22.384 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.915 [26] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 13:19:22.399 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.919 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:19:22.399 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.919 [26] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:19:22.401 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.919 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:19:21:919 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:19:22.401 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.925 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:19:22.401 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.925 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:19:22.401 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.928 [26] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:19:22.401 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.928 [26] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:19:22.401 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.928 [26] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:19:22.402 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.928 [26] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:19:22.402 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:21.928 [26] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:19:23.403 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:22.499 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 13:19:23.403 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:22.499 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 13:19:23.403 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-4556-,2026-03-04 13:19:22.500 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 13:21:25.550 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:24.529 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 13:21:29.594 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:29.556 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 13:21:29.596 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:29.562 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:21:30.599 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:29.812 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:21:29:812 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:21:30.599 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:29.918 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:21:30.599 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:29.920 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:21:30.600 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:29.920 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 13:21:31.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:31.074 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 13:21:31.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:31.077 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 13:21:32.606 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:31.987 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 13:21:32.606 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.052 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 13:21:32.606 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.052 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 13:21:32.606 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.057 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:21:32.606 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.059 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.059 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:21:32:059 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.060 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.060 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.062 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.062 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.062 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.062 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:21:32.607 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.063 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:21:32.609 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.063 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 13:21:32.609 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.063 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 13:21:32.609 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-8036-,2026-03-04 13:21:32.063 [3] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 13:28:10.538 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:09.512 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 13:28:14.586 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:14.544 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 13:28:14.587 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:14.552 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:28:15.592 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:14.793 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:28:14:793 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:28:15.592 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:14.896 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:28:15.592 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:14.896 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:28:15.592 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:14.896 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 13:28:16.594 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:16.127 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 13:28:16.594 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:16.130 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 13:28:17.601 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:16.941 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 13:28:17.603 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.027 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 13:28:17.603 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.027 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 13:28:17.603 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.042 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:28:17.603 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.045 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:28:17.603 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.045 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:28:17:045 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:28:17.603 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.045 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.047 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.056 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.056 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.056 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.056 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.056 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.061 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 13:28:17.604 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.061 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 13:28:17.606 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.062 [8] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 13:28:18.628 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.833 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 13:28:18.630 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.833 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 13:28:18.630 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.833 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 13:28:18.630 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.835 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 13:28:18.630 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19100-,2026-03-04 13:28:17.842 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 13:38:42.068 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:41.049 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 13:38:46.101 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:46.078 [18] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 13:38:46.104 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:46.084 [18] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:38:47.106 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:46.298 [18] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:38:46:298 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:38:47.106 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:46.400 [18] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:38:47.106 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:46.400 [18] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:38:47.106 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:38:46.400 [18] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 13:40:45.230 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:44.672 [8] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 13:40:45.230 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:44.676 [8] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 13:40:46.232 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.575 [8] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 13:40:46.233 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.623 [8] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.623 [8] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.627 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.630 [8] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.630 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 13:40:45:630 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.630 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.630 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.633 [8] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:40:46.235 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.633 [8] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:40:46.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.633 [8] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 13:40:46.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.633 [8] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 13:40:46.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.633 [8] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 13:40:46.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.633 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 13:40:46.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.635 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 13:40:46.237 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:45.635 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 13:40:50.241 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:49.259 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 13:40:50.241 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:49.259 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 13:40:50.241 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:49.259 [4] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 13:40:50.241 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:49.261 [4] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 13:40:50.242 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-19700-,2026-03-04 13:40:49.271 [4] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 14:00:12.359 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:11.333 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 14:00:16.399 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:16.371 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 14:00:16.399 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:16.379 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 14:00:17.404 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:16.597 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 14:00:16:597 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 14:00:17.404 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:16.700 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 14:00:17.404 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:16.700 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 14:00:17.404 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:16.700 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 14:00:20.418 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.506 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 14:00:20.420 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.509 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 14:00:20.420 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.844 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.898 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.898 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.901 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.902 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.902 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 14:00:19:902 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.904 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 14:00:20.421 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.904 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 14:00:20.423 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.905 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 14:00:20.423 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.905 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 14:00:20.423 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.905 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 14:00:20.423 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.905 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 14:00:20.423 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:19.905 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 14:00:21.424 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:20.429 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 14:00:21.424 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:20.430 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 14:00:21.424 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:20.430 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 14:00:22.427 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:22.234 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 14:00:22.427 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:22.236 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 14:00:22.429 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:22.236 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 14:00:22.429 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:22.236 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 14:00:22.430 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:22.242 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 14:00:26.434 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:26.396 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 14:00:26.436 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:26.396 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 14:00:26.436 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:26.396 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 14:00:26.436 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:26.398 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 14:00:26.436 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-17540-,2026-03-04 14:00:26.407 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
+2026-03-04 14:07:41.515 INFO  [8] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-14784-,2026-03-04 14:07:41.513 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 14:08:14.455 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:13.441 [1] [GlobalScript::Init]  ====================================================V4.4.0 GlobalScript Start Print Log====================================================
+
+2026-03-04 14:08:18.478 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:18.466 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript begin
+
+2026-03-04 14:08:18.506 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:18.474 [3] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 14:08:19.508 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:18.703 [3] [UserGlobalScriptSupport::CompileCode] 2026-03-04 14:08:18:703 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 14:08:19.508 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:18.810 [3] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 14:08:19.508 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:18.810 [3] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 14:08:19.508 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:18.810 [3] [GlobalManager::objLoadDefaultScriptTime_Elapsed] Load default globalScript end
+
+2026-03-04 14:08:23.519 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.372 [25] [GlobalManager::HandleCmd] Receive:CloseScript
+
+2026-03-04 14:08:23.519 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.375 [25] [GlobalManager::HandleCmd] Receive end:CloseScript
+
+2026-03-04 14:08:24.521 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.840 [25] [GlobalManager::HandleCmd] Receive:LoadSolution
+
+2026-03-04 14:08:24.521 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.910 [25] [UserGlobalScriptManger::readScriptDataFromMapFile] Load IsDefaultContent:[True]
+
+2026-03-04 14:08:24.521 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.910 [25] [GlobalManager::HandleCmd] Receive end:LoadSolution
+
+2026-03-04 14:08:24.521 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.913 [6] [UserGlobalScriptManger::compileGlobalScript] Compile begin
+
+2026-03-04 14:08:24.521 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.914 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.914 [6] [UserGlobalScriptSupport::CompileCode] 2026-03-04 14:08:23:914 : Compile complete -- 0 Errors, 0 Warnings 
+
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.914 [6] [UserGlobalScriptManger::updateBackFile] Update BackFile end
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.914 [6] [UserGlobalScriptManger::compileGlobalScript] Compile end
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.917 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.917 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.917 [25] [GlobalManager::HandleCmd] Receive:GetMsgToUI
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.917 [25] [UserGlobalScriptManger::GetMsgToUI] GetRunState:0
+
+2026-03-04 14:08:24.523 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:23.917 [25] [GlobalManager::HandleCmd] Receive end:GetMsgToUI
+
+2026-03-04 14:08:24.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:24.345 [1] [GlobalManager::HandleCmd] Receive:LoadSolutionEnd
+
+2026-03-04 14:08:24.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:24.345 [1] [GlobalManager::HandleCmd] Receive end:LoadSolutionEnd
+
+2026-03-04 14:08:24.524 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:24.345 [6] [UserGlobalScriptManger::loadInitAction] ExecuteLoadInit start
+
+2026-03-04 14:08:26.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:25.975 [1] [GlobalManager::HandleCmd] Receive:ExcuteOnce
+
+2026-03-04 14:08:26.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:25.975 [1] [GlobalManager::HandleCmd] Receive end:ExcuteOnce
+
+2026-03-04 14:08:26.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:25.976 [3] [UserGlobalScriptManger::initSourceAndStartScript] InitSourceEndStartScript already init
+
+2026-03-04 14:08:26.526 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:25.976 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once start
+
+2026-03-04 14:08:26.527 INFO  [9] [VM.GlobalScript.LogHelper+<>c::<.cctor>b__8_0@0] ProcessID-28364-,2026-03-04 14:08:25.983 [3] [UserGlobalScriptManger::<StartOnce>b__64_0] GlobalScript execute once end
+
