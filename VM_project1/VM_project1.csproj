@@ -328,6 +328,7 @@
     <Reference Include="Apps.ColorFun, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cfdb8c430127f15b, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="VM.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=61600122bc9264b9, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
@@ -398,12 +399,6 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="IMVSParallelCalculateModuCs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c7e0f6a183706769, processorArchitecture=MSIL">
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="IMVSCnnRegisterAnomalyClassifyModuCCs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1c3404839818c92e, processorArchitecture=MSIL">
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="IMVSCnnRegisterAnomalyClassifyModuCs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adf62327dbbefa70, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
     <Reference Include="IMVSInspectModuCs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a54341d93c0fea08, processorArchitecture=MSIL">
