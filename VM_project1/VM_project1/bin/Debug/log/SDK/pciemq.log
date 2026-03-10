@@ -242,3 +242,19 @@
 
 2026-03-10 21:32:51.761 ERROR [2668] [CCommFactory::InitDevice@58] enum devs failed, nDevNum[0] nRet[0] 
 
+2026-03-10 21:45:37.725 INFO  [25192] [PCIE_MQ_Init@212] ----------------------PCIE MQ Successful Initialization----------------------
+
+2026-03-10 21:45:37.728 ERROR [25192] [CCommFactory::InitDevice@58] enum devs failed, nDevNum[0] nRet[0] 
+
+2026-03-10 21:59:14.722 INFO  [21448] [PCIE_MQ_Init@212] ----------------------PCIE MQ Successful Initialization----------------------
+
+2026-03-10 21:59:14.726 ERROR [21448] [CCommFactory::InitDevice@58] enum devs failed, nDevNum[0] nRet[0] 
+
+2026-03-10 22:00:13.433 INFO  [12212] [PCIE_MQ_Init@212] ----------------------PCIE MQ Successful Initialization----------------------
+
+2026-03-10 22:00:13.434 ERROR [12212] [CCommFactory::InitDevice@58] enum devs failed, nDevNum[0] nRet[0] 
+
+2026-03-10 22:07:37.070 INFO  [8632] [PCIE_MQ_Init@212] ----------------------PCIE MQ Successful Initialization----------------------
+
+2026-03-10 22:07:37.071 ERROR [8632] [CCommFactory::InitDevice@58] enum devs failed, nDevNum[0] nRet[0] 
+

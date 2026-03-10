@@ -1845,3 +1845,32 @@
 
 2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
 
+2026-03-10 21:45:37.986 ERROR [26516] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 21:59:15.090 ERROR [13888] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 22:00:13.772 ERROR [22920] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 22:07:37.315 ERROR [25964] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 22:08:00.526 ERROR [23376] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM10384ImgSrcTemp
+
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 22:08:00.732 ERROR [22312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 22:08:01.802 ERROR [8632] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 22:08:02.082 ERROR [8632] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+

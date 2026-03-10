@@ -13095,3 +13095,233 @@ Level：INFO  MSG：ProcessID-9780-,2026-03-10 21:33:59.153 [29] [VmSolution::MP
 
 Level：INFO  MSG：ProcessID-9780-,2026-03-10 21:33:59.176 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
 
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-15928-,2026-03-10 21:45:37.720 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-15928-,2026-03-10 21:45:38.228 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,170231883F0
+
+Level：INFO  MSG：ProcessID-15928-,2026-03-10 21:45:41.273 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-15928-,2026-03-10 21:45:41.955 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-26412-,2026-03-10 21:59:14.713 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-26412-,2026-03-10 21:59:15.282 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,1AE2B23EB90
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-23696-,2026-03-10 22:00:13.428 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-23696-,2026-03-10 22:00:14.020 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,2266BF73E00
+
+Level：INFO  MSG：ProcessID-23696-,2026-03-10 22:00:16.608 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-23696-,2026-03-10 22:00:17.355 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:07:37.065 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:07:37.554 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,22531DC5C00
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:07:43.134 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:07:43.726 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.648 [26] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调开始
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.648 [26] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 开始获取界面数据
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.655 [26] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 结束获取界面数据
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.655 [26] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调结束
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.704 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CalibData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.710 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为GUID
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.717 [1] [VmModule::PreAddModuleTo] Add module:流程1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.723 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取前
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.728 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取后
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.834 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.840 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.843 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取前
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.848 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取后
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.885 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为GUID
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.887 [1] [VmModule::PreAddModuleTo] Add module:图像源1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.888 [25] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------begin
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.888 [25] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------end
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.889 [25] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.897 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为GUID
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.898 [1] [VmModule::PreAddModuleTo] Add module:颜色转换1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.977 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为GUID
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.980 [1] [VmModule::PreAddModuleTo] Add module:字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.998 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为GUID
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:00.999 [1] [VmModule::PreAddModuleTo] Add module:格式化1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.009 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---begin
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.009 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---end
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.064 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.066 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.067 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.088 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsReady
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.090 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.091 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.173 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.176 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.201 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasOrignalPoint
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.204 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasWidthNum
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.205 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasHeightNum
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.211 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.229 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsReady
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.230 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.232 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsReady
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.232 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.234 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsReady
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.234 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.235 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsReady
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.239 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为PathPoints颜色转换1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.240 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为PathPoints字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.240 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为PathPoints格式化1
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:01.843 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.062 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.066 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%输出图像%_[Child]
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.066 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%原始图像%_[Child]
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.081 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.085 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.098 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.149 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.276 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.RoiSelect
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.282 [1] [ROISelecter::GetBinaryData] ComName：RoiType,valueLength:[2]
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.289 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.InheritWay
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.299 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.ExternRoiSelect
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.301 [1] [ROISelecter::GetBinaryData] ComName：ExternRoiType,valueLength:[2]
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.306 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.SelectWay
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.457 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.474 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.660 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunScaleY
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.687 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunScaleX
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.711 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunAngle
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.726 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunPointY
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.747 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunPointX
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.770 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@Assist0
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:02.920 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@OutputMaskImage
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:12.365 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.055 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData_CreatImageBuffer
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.070 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData_CreatImageBuffer
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.083 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_PointsData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.113 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_FlagsData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.739 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@BlobMinArea
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.744 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_BlobMinArea_SubData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.776 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@EdgeTolerance
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.777 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_EdgeTolerance_SubData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.796 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@DarkVarScale
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.797 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_DarkVarScale_SubData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.823 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@BrightVarScale
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.825 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_BrightVarScale_SubData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.838 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@DarkThreshold
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.839 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_DarkThreshold_SubData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.868 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@BrightThreshold
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.870 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_BrightThreshold_SubData
+
+Level：INFO  MSG：ProcessID-10384-,2026-03-10 22:08:13.880 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@FlawType
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-19152-,2026-03-10 22:09:23.008 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-19152-,2026-03-10 22:09:23.561 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,283665CD860
+
