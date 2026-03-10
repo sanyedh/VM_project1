@@ -1,0 +1,10 @@
+F:\c_program\VM\VM_project1\VM_project1\bin\Debug\VM_project1.exe.config
+F:\c_program\VM\VM_project1\VM_project1\bin\Debug\VM_project1.exe
+F:\c_program\VM\VM_project1\VM_project1\bin\Debug\VM_project1.pdb
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.csproj.AssemblyReference.cache
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.Properties.Resources.resources
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.csproj.GenerateResource.cache
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.csproj.CoreCompileInputs.cache
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.exe
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.pdb
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.Form1.resources
