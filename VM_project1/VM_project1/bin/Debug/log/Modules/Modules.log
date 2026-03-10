@@ -1,0 +1,1847 @@
+2026-03-04 10:12:50.751 ERROR [18128] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 10:12:57.978 ERROR [5176] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 10:12:57.990 ERROR [10764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM3908ImgSrcTemp
+
+
+2026-03-04 10:12:57.990 ERROR [10764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 10:12:57.990 ERROR [10764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 10:12:57.990 ERROR [10764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 10:12:57.990 ERROR [10764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 10:12:57.990 ERROR [10764] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 10:12:58.415 ERROR [27072] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 10:13:08.882 ERROR [27072] [IMVSL2CMeasureModu] [ModuId:3] [CIMVSL2CMeasureModu::SetParam@3162] ChooseCoordinate param error. pData = 0x1.
+
+2026-03-04 10:13:40.318 ERROR [17464] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 10:13:40.320 ERROR [17464] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 10:49:24.140 ERROR [16932] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 10:49:53.326 ERROR [9648] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 10:50:00.563 ERROR [16040] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 10:50:00.575 ERROR [23604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM14640ImgSrcTemp
+
+
+2026-03-04 10:50:00.575 ERROR [23604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 10:50:00.575 ERROR [23604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 10:50:00.575 ERROR [23604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 10:50:00.575 ERROR [23604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 10:50:00.575 ERROR [23604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 10:50:01.007 ERROR [24420] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 10:50:02.159 ERROR [15220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 10:50:02.163 ERROR [15220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 10:55:28.693 ERROR [2976] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 10:55:39.958 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 10:55:39.971 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM12888ImgSrcTemp
+
+
+2026-03-04 10:55:39.971 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 10:55:39.971 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 10:55:39.971 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 10:55:39.971 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 10:55:39.971 ERROR [13300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 10:55:40.149 ERROR [11864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 10:55:41.213 ERROR [8048] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 10:55:41.219 ERROR [8048] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 10:57:04.167 ERROR [21044] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 10:57:11.392 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 10:57:11.398 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM18676ImgSrcTemp
+
+
+2026-03-04 10:57:11.398 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 10:57:11.398 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 10:57:11.400 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 10:57:11.400 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 10:57:11.400 ERROR [27312] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 10:57:12.083 ERROR [12724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 10:57:12.890 ERROR [9736] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 10:57:12.894 ERROR [9736] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 11:00:50.979 ERROR [26816] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 11:00:57.164 ERROR [2968] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 11:00:57.175 ERROR [22076] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM20008ImgSrcTemp
+
+
+2026-03-04 11:00:57.175 ERROR [22076] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 11:00:57.175 ERROR [22076] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 11:00:57.175 ERROR [22076] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 11:00:57.175 ERROR [22076] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 11:00:57.175 ERROR [22076] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 11:00:57.993 ERROR [21976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 11:00:58.578 ERROR [23128] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 11:00:58.583 ERROR [23128] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 11:48:24.490 ERROR [19272] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 11:48:34.699 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 11:48:34.708 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM26264ImgSrcTemp
+
+
+2026-03-04 11:48:34.708 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 11:48:34.708 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 11:48:34.708 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 11:48:34.708 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 11:48:34.708 ERROR [8804] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 11:48:35.548 ERROR [3660] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 11:48:36.215 ERROR [24984] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 11:48:36.221 ERROR [24984] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 12:13:37.852 ERROR [26844] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 12:14:59.164 ERROR [7500] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 12:14:59.172 ERROR [24936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM2016ImgSrcTemp
+
+
+2026-03-04 12:14:59.172 ERROR [24936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 12:14:59.172 ERROR [24936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 12:14:59.172 ERROR [24936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 12:14:59.172 ERROR [24936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 12:14:59.172 ERROR [24936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 12:14:59.477 ERROR [10300] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 12:15:00.585 ERROR [5708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 12:15:00.588 ERROR [5708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 12:58:36.632 ERROR [13020] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 12:58:43.886 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 12:58:43.911 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM18516ImgSrcTemp
+
+
+2026-03-04 12:58:43.911 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 12:58:43.911 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 12:58:43.911 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 12:58:43.911 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 12:58:43.911 ERROR [27292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 12:58:43.968 ERROR [16988] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 13:19:14.537 ERROR [19944] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 13:19:21.759 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 13:19:21.783 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM4556ImgSrcTemp
+
+
+2026-03-04 13:19:21.783 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 13:19:21.783 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 13:19:21.783 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 13:19:21.783 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 13:19:21.783 ERROR [18412] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 13:19:22.499 ERROR [3724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 13:19:34.992 ERROR [3724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 13:19:34.997 ERROR [3724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 13:19:35.463 ERROR [3724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 13:19:35.468 ERROR [3724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 13:21:24.699 ERROR [2360] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 13:21:31.955 ERROR [5036] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 13:21:31.987 ERROR [23324] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM8036ImgSrcTemp
+
+
+2026-03-04 13:21:31.987 ERROR [23324] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 13:21:31.987 ERROR [23324] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 13:21:31.987 ERROR [23324] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 13:21:31.987 ERROR [23324] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 13:21:31.987 ERROR [23324] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 13:21:32.059 ERROR [4512] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 13:28:09.697 ERROR [28272] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 13:28:16.915 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 13:28:16.941 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM19100ImgSrcTemp
+
+
+2026-03-04 13:28:16.941 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 13:28:16.941 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 13:28:16.941 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 13:28:16.941 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 13:28:16.941 ERROR [23184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 13:28:17.061 ERROR [26260] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 13:28:17.569 ERROR [26260] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 13:28:17.943 ERROR [28252] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 13:38:41.231 ERROR [8972] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 13:40:45.549 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 13:40:45.575 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM19700ImgSrcTemp
+
+
+2026-03-04 13:40:45.575 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 13:40:45.575 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 13:40:45.575 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 13:40:45.575 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 13:40:45.575 ERROR [28572] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 13:40:45.630 ERROR [27788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 13:40:48.992 ERROR [27788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 13:40:49.372 ERROR [16980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 14:08:13.587 ERROR [24844] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 14:08:23.808 ERROR [8936] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 14:08:23.840 ERROR [20520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM28364ImgSrcTemp
+
+
+2026-03-04 14:08:23.840 ERROR [20520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 14:08:23.840 ERROR [20520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 14:08:23.840 ERROR [20520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 14:08:23.840 ERROR [20520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 14:08:23.840 ERROR [20520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 14:08:24.345 ERROR [15532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 14:08:25.633 ERROR [15532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 14:08:26.082 ERROR [22028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 14:49:33.600 ERROR [17532] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 14:49:53.886 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 14:49:53.918 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM28904ImgSrcTemp
+
+
+2026-03-04 14:49:53.918 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 14:49:53.918 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 14:49:53.918 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 14:49:53.918 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 14:49:53.918 ERROR [28276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 14:49:54.264 ERROR [10668] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 14:49:55.793 ERROR [6892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 14:49:55.803 ERROR [6892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 15:02:59.621 ERROR [25204] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 15:03:14.833 ERROR [22364] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 15:03:14.858 ERROR [19772] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23344ImgSrcTemp
+
+
+2026-03-04 15:03:14.858 ERROR [19772] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 15:03:14.858 ERROR [19772] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 15:03:14.858 ERROR [19772] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 15:03:14.858 ERROR [19772] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 15:03:14.858 ERROR [19772] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 15:03:15.367 ERROR [10472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 15:03:22.640 ERROR [14088] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 15:03:22.645 ERROR [14088] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 15:09:39.049 ERROR [8028] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 15:09:48.240 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 15:09:48.320 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM22660ImgSrcTemp
+
+
+2026-03-04 15:09:48.320 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 15:09:48.320 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 15:09:48.320 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 15:09:48.320 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 15:09:48.320 ERROR [23708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 15:09:49.050 ERROR [28988] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 15:09:57.134 ERROR [30304] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 15:09:57.140 ERROR [30304] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 15:13:50.820 ERROR [18540] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 15:23:37.480 ERROR [30900] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 15:23:45.658 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 15:23:45.695 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM1772ImgSrcTemp
+
+
+2026-03-04 15:23:45.695 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 15:23:45.695 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 15:23:45.695 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 15:23:45.695 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 15:23:45.695 ERROR [16892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 15:23:46.343 ERROR [200] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 15:23:46.437 ERROR [200] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 15:23:50.299 ERROR [8152] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 15:25:21.806 ERROR [1408] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 15:25:33.991 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 15:25:34.014 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM8372ImgSrcTemp
+
+
+2026-03-04 15:25:34.014 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 15:25:34.015 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 15:25:34.015 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 15:25:34.015 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 15:25:34.015 ERROR [31564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 15:25:34.281 ERROR [436] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 15:25:34.378 ERROR [436] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 15:25:54.389 ERROR [13292] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 15:44:19.641 ERROR [16256] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 15:46:26.759 ERROR [23252] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 19:40:51.187 ERROR [21228] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 19:41:19.559 ERROR [16956] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 19:41:19.736 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM21492ImgSrcTemp
+
+
+2026-03-04 19:41:19.736 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 19:41:19.736 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 19:41:19.736 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 19:41:19.737 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 19:41:19.737 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 19:41:19.737 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 19:41:19.737 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 19:41:19.737 ERROR [22604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 19:41:19.891 ERROR [30272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 19:41:20.003 ERROR [30272] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 19:41:25.401 ERROR [16956] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 19:41:25.404 ERROR [16956] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 19:41:25.404 ERROR [16956] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 19:41:25.404 ERROR [16956] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 19:41:25.418 ERROR [7480] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 19:41:30.539 ERROR [16956] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 19:41:30.539 ERROR [16956] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 19:41:30.539 ERROR [16956] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 19:41:30.539 ERROR [16956] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 19:46:23.734 ERROR [32724] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 19:46:32.943 ERROR [14932] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM13040ImgSrcTemp
+
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 19:46:33.128 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 19:46:33.255 ERROR [25740] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 19:46:33.353 ERROR [25740] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 19:46:50.393 ERROR [26832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 19:46:50.394 ERROR [26832] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 19:46:50.394 ERROR [26832] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 19:46:50.394 ERROR [26832] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 19:46:50.408 ERROR [28788] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:01:46.297 ERROR [3036] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:01:55.476 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24228ImgSrcTemp
+
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:01:55.640 ERROR [30388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:01:55.756 ERROR [27880] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:01:55.851 ERROR [27880] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:06:08.394 ERROR [5848] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:06:18.591 ERROR [21676] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM27364ImgSrcTemp
+
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:06:18.755 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:06:18.977 ERROR [30200] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:06:19.305 ERROR [30200] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:06:22.714 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:22.716 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:22.716 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:22.716 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:22.728 ERROR [25232] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:06:23.255 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:23.255 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:23.255 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:23.255 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:23.763 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:23.763 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:23.763 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:23.763 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:24.169 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:24.169 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:24.169 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:24.169 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:24.276 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:24.276 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:24.277 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:24.277 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:24.681 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:24.681 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:24.681 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:24.681 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:24.752 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:24.752 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:24.752 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:24.752 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:24.781 ERROR [31736] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:24.781 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:24.781 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:24.781 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:25.187 ERROR [29652] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:25.187 ERROR [29652] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:25.187 ERROR [29652] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:25.187 ERROR [29652] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:25.286 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:25.286 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:25.286 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:25.286 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:25.697 ERROR [31736] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:25.697 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:25.697 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:25.697 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:25.798 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:25.798 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:25.798 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:25.798 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:26.205 ERROR [31736] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:26.205 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:26.205 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:26.205 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:26.301 ERROR [29652] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:26.302 ERROR [29652] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:26.302 ERROR [29652] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:26.302 ERROR [29652] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:26.712 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:26.712 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:26.712 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:26.712 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:27.371 ERROR [31736] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:27.371 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:27.371 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:27.371 ERROR [31736] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:32.250 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:32.250 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:32.250 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:32.250 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:35.496 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:35.496 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:35.496 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:35.496 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:43.475 ERROR [5980] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:06:43.475 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:06:43.475 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:06:43.475 ERROR [5980] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:06:57.658 ERROR [30200] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 0
+
+2026-03-04 20:06:57.661 ERROR [30200] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 0
+
+2026-03-04 20:15:16.161 ERROR [24596] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:15:40.357 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM29072ImgSrcTemp
+
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:15:40.534 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:15:40.643 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:15:40.872 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:15:43.847 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:15:43.847 ERROR [30864] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:15:43.847 ERROR [30864] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:15:43.847 ERROR [30864] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:15:43.859 ERROR [10656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:15:45.103 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:15:45.103 ERROR [30864] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:15:45.103 ERROR [30864] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:15:45.103 ERROR [30864] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:17:21.524 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 0
+
+2026-03-04 20:17:21.527 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 0
+
+2026-03-04 20:17:40.586 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 20:17:46.897 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 20:17:46.899 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 20:17:46.900 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 20:17:50.982 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM29072ImgSrcTemp
+
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:17:51.160 ERROR [30864] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:17:51.307 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:17:51.504 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:17:56.609 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:17:56.913 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 0
+
+2026-03-04 20:17:56.913 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 0
+
+2026-03-04 20:18:00.089 ERROR [12204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@1757] m_ImitateCircleListTotal.GetSize() = 1
+
+2026-03-04 20:20:03.467 ERROR [6324] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:20:25.864 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM6892ImgSrcTemp
+
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:20:26.039 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:20:26.130 ERROR [7208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:20:26.337 ERROR [7208] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:20:30.064 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:20:30.064 ERROR [28596] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:20:30.064 ERROR [28596] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:20:30.064 ERROR [28596] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:20:30.078 ERROR [2844] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:20:31.291 ERROR [28596] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:20:31.292 ERROR [28596] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:20:31.292 ERROR [28596] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:20:31.292 ERROR [28596] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:24:56.692 ERROR [32540] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:25:04.858 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM3416ImgSrcTemp
+
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:25:05.038 ERROR [1792] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:25:05.883 ERROR [16564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:25:06.128 ERROR [16564] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:30:04.490 ERROR [8228] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:30:16.704 ERROR [29656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM8156ImgSrcTemp
+
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:30:16.874 ERROR [12664] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:30:17.421 ERROR [21372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:30:17.698 ERROR [21372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:30:27.203 ERROR [31524] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-04 20:30:27.205 ERROR [29656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:30:27.206 ERROR [29656] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:30:27.206 ERROR [29656] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:30:27.206 ERROR [29656] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:30:27.219 ERROR [31856] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:31:42.499 ERROR [31928] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:31:57.713 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:31:57.875 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM5496ImgSrcTemp
+
+
+2026-03-04 20:31:57.875 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:31:57.875 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:31:57.875 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:31:57.875 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:31:57.875 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:31:57.876 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:31:57.876 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:31:57.876 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:31:57.961 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:31:58.168 ERROR [30656] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:32:12.147 ERROR [29108] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-04 20:32:12.153 ERROR [28976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Process@453] local image path is empty
+
+2026-03-04 20:32:12.154 ERROR [28976] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 20:32:12.154 ERROR [28976] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 20:32:12.154 ERROR [28976] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 20:32:12.167 ERROR [15836] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 20:35:34.669 ERROR [13176] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 20:35:55.907 ERROR [14628] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 20:35:56.070 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM16112ImgSrcTemp
+
+
+2026-03-04 20:35:56.070 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 20:35:56.071 ERROR [31872] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 20:35:56.266 ERROR [25388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 20:35:56.490 ERROR [25388] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 20:37:31.320 ERROR [18064] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 21:18:36.219 ERROR [19808] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 21:18:50.416 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23996ImgSrcTemp
+
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 21:18:50.581 ERROR [6588] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 21:18:50.985 ERROR [32620] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 21:18:51.199 ERROR [32620] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 21:19:01.482 ERROR [28648] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 21:20:52.516 ERROR [6588] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-04 21:20:52.516 ERROR [6588] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-04 21:20:52.518 ERROR [6588] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-04 21:20:52.518 ERROR [6588] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-04 21:20:52.518 ERROR [6588] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-04 21:24:49.021 ERROR [32216] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 21:25:09.192 ERROR [16624] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM31312ImgSrcTemp
+
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 21:25:09.357 ERROR [28848] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 21:25:09.551 ERROR [27360] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 21:25:09.756 ERROR [27360] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 21:25:23.803 ERROR [17836] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-04 21:36:40.523 ERROR [21272] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-04 21:37:01.736 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM32516ImgSrcTemp
+
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-04 21:37:01.924 ERROR [17900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-04 21:37:02.723 ERROR [20900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-04 21:37:02.985 ERROR [20900] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-04 21:39:58.274 ERROR [23332] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 16:50:32.056 ERROR [24408] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 16:51:51.394 ERROR [32024] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM18372ImgSrcTemp
+
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 16:51:51.627 ERROR [5244] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 16:51:52.137 ERROR [7352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 16:51:52.423 ERROR [7352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 16:51:55.438 ERROR [9476] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 16:51:57.239 ERROR [5244] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 16:51:57.239 ERROR [5244] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 16:51:57.240 ERROR [5244] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 16:51:57.240 ERROR [5244] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 16:51:57.240 ERROR [5244] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:08:58.709 ERROR [25724] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:09:29.903 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:09:30.094 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM26400ImgSrcTemp
+
+
+2026-03-10 17:09:30.094 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:09:30.094 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:09:30.094 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:09:30.095 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:09:30.095 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:09:30.095 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:09:30.095 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:09:30.095 ERROR [18216] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:09:30.997 ERROR [19060] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:09:31.386 ERROR [19060] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:11:33.985 ERROR [22616] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 17:16:39.074 ERROR [17920] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:17:16.570 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM12460ImgSrcTemp
+
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:17:16.763 ERROR [22188] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:17:17.373 ERROR [33252] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:17:17.676 ERROR [33252] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:17:22.066 ERROR [14604] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 17:17:22.189 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:17:22.189 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:17:22.192 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:17:22.192 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:17:22.192 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:17:31.216 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:17:31.216 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:17:31.216 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:17:31.216 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:17:31.216 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:17:46.989 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:17:46.989 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:17:46.989 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:17:46.989 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:17:46.989 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:17:49.580 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:17:49.580 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:17:49.580 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:17:49.580 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:17:49.580 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:20:07.327 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:20:07.327 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:20:07.327 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:20:07.327 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:20:07.327 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:20:10.386 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:20:10.386 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:20:10.386 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:20:10.386 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:20:10.386 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:20:25.753 ERROR [21172] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:20:25.753 ERROR [21172] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:20:25.753 ERROR [21172] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:20:25.753 ERROR [21172] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:20:25.753 ERROR [21172] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:20:29.286 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:20:29.286 ERROR [22188] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:20:29.286 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:20:29.286 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:20:29.286 ERROR [22188] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:29:01.884 ERROR [28024] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:29:29.123 ERROR [5960] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM31824ImgSrcTemp
+
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:29:29.307 ERROR [27028] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:29:29.835 ERROR [10968] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:29:30.234 ERROR [10968] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:29:35.056 ERROR [31252] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 17:29:38.721 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:29:38.721 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:29:38.724 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:29:38.724 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:29:38.724 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:29:47.064 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:29:47.064 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:29:47.064 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:29:47.064 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:29:47.064 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:29:53.377 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:29:53.377 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:29:53.377 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:29:53.377 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:29:53.377 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:29:56.938 ERROR [19704] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:29:56.938 ERROR [19704] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:29:56.938 ERROR [19704] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:29:56.938 ERROR [19704] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:29:56.938 ERROR [19704] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:30:00.558 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:30:00.558 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:30:00.558 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:30:00.558 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:30:00.558 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:30:04.094 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:30:04.094 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:30:04.094 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:30:04.094 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:30:04.094 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:30:07.649 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:30:07.649 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:30:07.649 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:30:07.649 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:30:07.649 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:30:11.193 ERROR [27028] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:30:11.193 ERROR [27028] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:30:11.193 ERROR [27028] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:30:11.193 ERROR [27028] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:30:11.193 ERROR [27028] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:30:14.714 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:30:14.714 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:30:14.714 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:30:14.714 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:30:14.714 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:30:18.251 ERROR [27028] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:30:18.251 ERROR [27028] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:30:18.251 ERROR [27028] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:30:18.251 ERROR [27028] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:30:18.251 ERROR [27028] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:32:07.190 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:32:07.190 ERROR [5960] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:32:07.190 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:32:07.190 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:32:07.190 ERROR [5960] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:35:10.209 ERROR [9412] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:35:32.432 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24016ImgSrcTemp
+
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:35:32.601 ERROR [9120] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:35:33.060 ERROR [252] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:35:33.331 ERROR [252] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:35:52.126 ERROR [2096] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 17:35:52.248 ERROR [9120] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 17:35:52.248 ERROR [9120] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 17:35:52.248 ERROR [9120] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 17:35:52.248 ERROR [9120] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 17:35:52.248 ERROR [9120] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 17:50:18.417 ERROR [23056] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:50:30.621 ERROR [3600] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:50:30.798 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM7456ImgSrcTemp
+
+
+2026-03-10 17:50:30.798 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:50:30.800 ERROR [27748] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:50:31.633 ERROR [32080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:50:31.914 ERROR [32080] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:50:50.768 ERROR [28024] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 17:53:07.030 ERROR [6552] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:53:30.230 ERROR [26448] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:53:30.405 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM15484ImgSrcTemp
+
+
+2026-03-10 17:53:30.405 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:53:30.405 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:53:30.406 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:53:30.406 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:53:30.406 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:53:30.406 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:53:30.406 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:53:30.406 ERROR [25472] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:53:30.571 ERROR [9876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:53:30.930 ERROR [9876] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:53:48.061 ERROR [30552] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 17:55:53.654 ERROR [30252] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 17:56:00.880 ERROR [28500] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM428ImgSrcTemp
+
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 17:56:01.052 ERROR [26896] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 17:56:01.353 ERROR [7944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 17:56:01.686 ERROR [7944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 17:56:11.390 ERROR [2016] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 18:02:17.518 ERROR [2764] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 18:02:30.699 ERROR [13720] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM5888ImgSrcTemp
+
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 18:02:30.879 ERROR [28352] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 18:02:31.187 ERROR [30892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 18:02:31.542 ERROR [30892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 18:02:41.930 ERROR [19592] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 18:04:07.285 ERROR [30136] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 18:49:28.173 ERROR [14052] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 18:49:40.380 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24300ImgSrcTemp
+
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174613412.png is not exit
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\OK\Image_20250721174617329.png is not exit
+
+2026-03-10 18:49:40.560 ERROR [12532] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 18:49:41.179 ERROR [24204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 18:49:41.443 ERROR [24204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 18:49:52.297 ERROR [5516] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 20:27:00.647 ERROR [6012] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 20:27:15.816 ERROR [13184] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM4796ImgSrcTemp
+
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 20:27:16.001 ERROR [6992] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 20:27:16.515 ERROR [14516] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 20:27:16.801 ERROR [14516] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 20:27:43.389 ERROR [12692] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 20:27:43.682 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-10 20:27:43.682 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-10 20:27:43.682 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-10 20:27:43.682 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-10 20:28:04.675 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-10 20:28:04.675 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-10 20:28:04.675 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-10 20:28:04.675 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 20:28:05.797 ERROR [13184] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-10 20:28:05.797 ERROR [13184] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-10 20:43:47.115 ERROR [18600] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 20:44:04.276 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM18856ImgSrcTemp
+
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 20:44:04.467 ERROR [7204] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 20:44:04.787 ERROR [12100] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 20:44:05.063 ERROR [12100] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 20:44:18.722 ERROR [7400] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 20:46:48.315 ERROR [25324] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 20:47:05.490 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 20:47:05.671 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM16936ImgSrcTemp
+
+
+2026-03-10 20:47:05.671 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 20:47:05.671 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 20:47:05.671 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 20:47:05.671 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 20:47:05.671 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 20:47:05.673 ERROR [20944] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 20:47:05.757 ERROR [20180] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 20:47:05.967 ERROR [20180] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 20:47:11.090 ERROR [2104] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 20:54:13.293 ERROR [25872] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 20:54:25.485 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM15232ImgSrcTemp
+
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 20:54:25.643 ERROR [10276] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 20:54:25.742 ERROR [16776] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 20:54:25.965 ERROR [16776] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 20:54:38.455 ERROR [19164] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 20:59:36.655 ERROR [21916] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 21:00:56.904 ERROR [21832] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM21196ImgSrcTemp
+
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 21:00:57.090 ERROR [12584] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 21:00:57.177 ERROR [24708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 21:00:57.428 ERROR [24708] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 21:01:08.363 ERROR [20976] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 21:16:12.988 ERROR [3064] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 21:25:10.310 ERROR [8412] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 21:25:23.478 ERROR [16752] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM14164ImgSrcTemp
+
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 21:25:23.681 ERROR [21148] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 21:25:23.816 ERROR [12724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 21:25:24.175 ERROR [12724] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 21:25:36.250 ERROR [11516] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 21:32:52.079 ERROR [25820] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-10 21:33:21.280 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM9780ImgSrcTemp
+
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-10 21:33:21.439 ERROR [5196] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-10 21:33:21.565 ERROR [2668] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-10 21:33:21.752 ERROR [2668] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-10 21:33:34.964 ERROR [25744] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-10 21:33:48.254 ERROR [5196] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 21:33:48.254 ERROR [5196] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-10 21:33:48.257 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 21:33:52.515 ERROR [5196] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-10 21:33:52.515 ERROR [5196] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-10 21:33:53.625 ERROR [16240] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-10 21:33:53.625 ERROR [16240] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
