@@ -22,12 +22,13 @@
         private void InitializeComponent()
         {
             this.pnlMenu = new System.Windows.Forms.Panel();
+            this.btnNavModelConfig = new System.Windows.Forms.Button();
             this.btnNavLogs = new System.Windows.Forms.Button();
             this.btnNavConfig = new System.Windows.Forms.Button();
             this.btnNavDashboard = new System.Windows.Forms.Button();
             this.lblLogo = new System.Windows.Forms.Label();
             this.pnlTopBar = new System.Windows.Forms.Panel();
-            this.btnImportSample = new System.Windows.Forms.Button(); // 新增：导入样本图按钮
+            this.btnImportSample = new System.Windows.Forms.Button();
             this.btnStopRun = new System.Windows.Forms.Button();
             this.btnContinuousRun = new System.Windows.Forms.Button();
             this.Scheme_run = new System.Windows.Forms.Button();
@@ -58,9 +59,6 @@
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.groupBoxFlow = new System.Windows.Forms.GroupBox();
             this.vmProcedureConfigControl1 = new VMControls.Winform.Release.VmProcedureConfigControl();
-            this.groupBoxParams = new System.Windows.Forms.GroupBox();
-            this.vmParamsConfigWithRenderControl1 = new VMControls.Winform.Release.VmParamsConfigWithRenderControl();
-            this.vmParamsConfigControl1 = new VMControls.Winform.Release.VmParamsConfigControl();
             this.groupBoxConfigTop = new System.Windows.Forms.GroupBox();
             this.Select_path = new System.Windows.Forms.Button();
             this.Scheme_load = new System.Windows.Forms.Button();
@@ -70,6 +68,8 @@
             this.pnlLogs = new System.Windows.Forms.Panel();
             this.groupBoxLogs = new System.Windows.Forms.GroupBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.pnlModelConfig = new System.Windows.Forms.Panel();
+            this.vmParamsConfigWithRenderControl1 = new VMControls.Winform.Release.VmParamsConfigWithRenderControl();
             this.pnlMenu.SuspendLayout();
             this.pnlTopBar.SuspendLayout();
             this.pnlMain.SuspendLayout();
@@ -88,18 +88,18 @@
             this.pnlConfig.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
-            this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
             this.groupBoxFlow.SuspendLayout();
-            this.groupBoxParams.SuspendLayout();
             this.groupBoxConfigTop.SuspendLayout();
             this.pnlLogs.SuspendLayout();
             this.groupBoxLogs.SuspendLayout();
+            this.pnlModelConfig.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlMenu
             // 
             this.pnlMenu.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(53)))), ((int)(((byte)(65)))));
+            this.pnlMenu.Controls.Add(this.btnNavModelConfig);
             this.pnlMenu.Controls.Add(this.btnNavLogs);
             this.pnlMenu.Controls.Add(this.btnNavConfig);
             this.pnlMenu.Controls.Add(this.btnNavDashboard);
@@ -110,6 +110,22 @@
             this.pnlMenu.Size = new System.Drawing.Size(200, 850);
             this.pnlMenu.TabIndex = 0;
             // 
+            // btnNavModelConfig
+            // 
+            this.btnNavModelConfig.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(53)))), ((int)(((byte)(65)))));
+            this.btnNavModelConfig.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnNavModelConfig.FlatAppearance.BorderSize = 0;
+            this.btnNavModelConfig.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnNavModelConfig.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.btnNavModelConfig.ForeColor = System.Drawing.Color.White;
+            this.btnNavModelConfig.Location = new System.Drawing.Point(0, 190);
+            this.btnNavModelConfig.Name = "btnNavModelConfig";
+            this.btnNavModelConfig.Size = new System.Drawing.Size(200, 60);
+            this.btnNavModelConfig.TabIndex = 4;
+            this.btnNavModelConfig.Text = "建模配置";
+            this.btnNavModelConfig.UseVisualStyleBackColor = false;
+            this.btnNavModelConfig.Click += new System.EventHandler(this.btnNavModelConfig_Click);
+            // 
             // btnNavLogs
             // 
             this.btnNavLogs.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(53)))), ((int)(((byte)(65)))));
@@ -118,7 +134,7 @@
             this.btnNavLogs.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNavLogs.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnNavLogs.ForeColor = System.Drawing.Color.White;
-            this.btnNavLogs.Location = new System.Drawing.Point(0, 190);
+            this.btnNavLogs.Location = new System.Drawing.Point(0, 250);
             this.btnNavLogs.Name = "btnNavLogs";
             this.btnNavLogs.Size = new System.Drawing.Size(200, 60);
             this.btnNavLogs.TabIndex = 3;
@@ -174,7 +190,7 @@
             // pnlTopBar
             // 
             this.pnlTopBar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(50)))), ((int)(((byte)(50)))), ((int)(((byte)(55)))));
-            this.pnlTopBar.Controls.Add(this.btnImportSample); // 新增控件
+            this.pnlTopBar.Controls.Add(this.btnImportSample);
             this.pnlTopBar.Controls.Add(this.btnStopRun);
             this.pnlTopBar.Controls.Add(this.btnContinuousRun);
             this.pnlTopBar.Controls.Add(this.Scheme_run);
@@ -321,6 +337,7 @@
             this.pnlMain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
             this.pnlMain.Controls.Add(this.pnlDashboard);
             this.pnlMain.Controls.Add(this.pnlConfig);
+            this.pnlMain.Controls.Add(this.pnlModelConfig);
             this.pnlMain.Controls.Add(this.pnlLogs);
             this.pnlMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlMain.Location = new System.Drawing.Point(200, 70);
@@ -541,6 +558,7 @@
             this.pnlConfig.Name = "pnlConfig";
             this.pnlConfig.Size = new System.Drawing.Size(1262, 760);
             this.pnlConfig.TabIndex = 1;
+            this.pnlConfig.Visible = false;
             // 
             // splitContainer1
             // 
@@ -551,10 +569,6 @@
             // splitContainer1.Panel1
             // 
             this.splitContainer1.Panel1.Controls.Add(this.groupBoxFlow);
-            // 
-            // splitContainer1.Panel2
-            // 
-            this.splitContainer1.Panel2.Controls.Add(this.groupBoxParams);
             this.splitContainer1.Size = new System.Drawing.Size(1262, 680);
             this.splitContainer1.SplitterDistance = 600;
             this.splitContainer1.TabIndex = 1;
@@ -579,47 +593,6 @@
             this.vmProcedureConfigControl1.Name = "vmProcedureConfigControl1";
             this.vmProcedureConfigControl1.Size = new System.Drawing.Size(594, 651);
             this.vmProcedureConfigControl1.TabIndex = 0;
-            // 
-            // groupBoxParams
-            // 
-            this.groupBoxParams.Controls.Add(this.vmParamsConfigWithRenderControl1);
-            this.groupBoxParams.Controls.Add(this.vmParamsConfigControl1);
-            this.groupBoxParams.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupBoxParams.Font = new System.Drawing.Font("微软雅黑", 10.2F);
-            this.groupBoxParams.Location = new System.Drawing.Point(0, 0);
-            this.groupBoxParams.Name = "groupBoxParams";
-            this.groupBoxParams.Size = new System.Drawing.Size(658, 680);
-            this.groupBoxParams.TabIndex = 0;
-            this.groupBoxParams.TabStop = false;
-            this.groupBoxParams.Text = "算子参数配置";
-            // 
-            // vmParamsConfigWithRenderControl1
-            // 
-            this.vmParamsConfigWithRenderControl1.BackColor = System.Drawing.Color.White;
-            this.vmParamsConfigWithRenderControl1.CoordinateInfoVisible = true;
-            this.vmParamsConfigWithRenderControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.vmParamsConfigWithRenderControl1.ImageSource = null;
-            this.vmParamsConfigWithRenderControl1.Location = new System.Drawing.Point(3, 300);
-            this.vmParamsConfigWithRenderControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.vmParamsConfigWithRenderControl1.ModuleSource = null;
-            this.vmParamsConfigWithRenderControl1.MultiImageButtonVisible = false;
-            this.vmParamsConfigWithRenderControl1.Name = "vmParamsConfigWithRenderControl1";
-            this.vmParamsConfigWithRenderControl1.ParamsConfig = null;
-            this.vmParamsConfigWithRenderControl1.ROIVisible = true;
-            this.vmParamsConfigWithRenderControl1.Size = new System.Drawing.Size(652, 377);
-            this.vmParamsConfigWithRenderControl1.TabIndex = 1;
-            // 
-            // vmParamsConfigControl1
-            // 
-            this.vmParamsConfigControl1.BackColor = System.Drawing.Color.White;
-            this.vmParamsConfigControl1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.vmParamsConfigControl1.Location = new System.Drawing.Point(3, 26);
-            this.vmParamsConfigControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.vmParamsConfigControl1.ModuleSource = null;
-            this.vmParamsConfigControl1.Name = "vmParamsConfigControl1";
-            this.vmParamsConfigControl1.ParamsConfig = null;
-            this.vmParamsConfigControl1.Size = new System.Drawing.Size(652, 274);
-            this.vmParamsConfigControl1.TabIndex = 0;
             // 
             // groupBoxConfigTop
             // 
@@ -690,7 +663,8 @@
             this.pnlLogs.Location = new System.Drawing.Point(10, 10);
             this.pnlLogs.Name = "pnlLogs";
             this.pnlLogs.Size = new System.Drawing.Size(1262, 760);
-            this.pnlLogs.TabIndex = 2;
+            this.pnlLogs.TabIndex = 3;
+            this.pnlLogs.Visible = false;
             // 
             // groupBoxLogs
             // 
@@ -713,6 +687,32 @@
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(1256, 731);
             this.listBox1.TabIndex = 0;
+            // 
+            // pnlModelConfig
+            // 
+            this.pnlModelConfig.Controls.Add(this.vmParamsConfigWithRenderControl1);
+            this.pnlModelConfig.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlModelConfig.Location = new System.Drawing.Point(10, 10);
+            this.pnlModelConfig.Name = "pnlModelConfig";
+            this.pnlModelConfig.Size = new System.Drawing.Size(1262, 760);
+            this.pnlModelConfig.TabIndex = 2;
+            this.pnlModelConfig.Visible = false;
+            // 
+            // vmParamsConfigWithRenderControl1
+            // 
+            this.vmParamsConfigWithRenderControl1.BackColor = System.Drawing.Color.White;
+            this.vmParamsConfigWithRenderControl1.CoordinateInfoVisible = true;
+            this.vmParamsConfigWithRenderControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.vmParamsConfigWithRenderControl1.ImageSource = null;
+            this.vmParamsConfigWithRenderControl1.Location = new System.Drawing.Point(0, 0);
+            this.vmParamsConfigWithRenderControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.vmParamsConfigWithRenderControl1.ModuleSource = null;
+            this.vmParamsConfigWithRenderControl1.MultiImageButtonVisible = true;
+            this.vmParamsConfigWithRenderControl1.Name = "vmParamsConfigWithRenderControl1";
+            this.vmParamsConfigWithRenderControl1.ParamsConfig = null;
+            this.vmParamsConfigWithRenderControl1.ROIVisible = true;
+            this.vmParamsConfigWithRenderControl1.Size = new System.Drawing.Size(1262, 760);
+            this.vmParamsConfigWithRenderControl1.TabIndex = 0;
             // 
             // Form1
             // 
@@ -742,15 +742,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.pbStandardDetail)).EndInit();
             this.pnlConfig.ResumeLayout(false);
             this.splitContainer1.Panel1.ResumeLayout(false);
-            this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
             this.groupBoxFlow.ResumeLayout(false);
-            this.groupBoxParams.ResumeLayout(false);
             this.groupBoxConfigTop.ResumeLayout(false);
             this.groupBoxConfigTop.PerformLayout();
             this.pnlLogs.ResumeLayout(false);
             this.groupBoxLogs.ResumeLayout(false);
+            this.pnlModelConfig.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -763,6 +762,7 @@
         private System.Windows.Forms.Button btnNavLogs;
         private System.Windows.Forms.Button btnNavConfig;
         private System.Windows.Forms.Button btnNavDashboard;
+        private System.Windows.Forms.Button btnNavModelConfig;
 
         private System.Windows.Forms.Panel pnlTopBar;
         private System.Windows.Forms.Label labelTitle;
@@ -774,7 +774,7 @@
         private System.Windows.Forms.Button Scheme_run;
         private System.Windows.Forms.Button btnContinuousRun;
         private System.Windows.Forms.Button btnStopRun;
-        private System.Windows.Forms.Button btnImportSample; // 新增：导入样本图按钮变量
+        private System.Windows.Forms.Button btnImportSample;
 
         private System.Windows.Forms.Panel pnlMain;
 
@@ -811,11 +811,12 @@
         private System.Windows.Forms.SplitContainer splitContainer1;
         private System.Windows.Forms.GroupBox groupBoxFlow;
         private VMControls.Winform.Release.VmProcedureConfigControl vmProcedureConfigControl1;
-        private System.Windows.Forms.GroupBox groupBoxParams;
-        private VMControls.Winform.Release.VmParamsConfigControl vmParamsConfigControl1;
+
+        // 子页面3：建模配置
+        private System.Windows.Forms.Panel pnlModelConfig;
         private VMControls.Winform.Release.VmParamsConfigWithRenderControl vmParamsConfigWithRenderControl1;
 
-        // 子页面3：系统日志
+        // 子页面4：系统日志
         private System.Windows.Forms.Panel pnlLogs;
         private System.Windows.Forms.GroupBox groupBoxLogs;
         private System.Windows.Forms.ListBox listBox1;

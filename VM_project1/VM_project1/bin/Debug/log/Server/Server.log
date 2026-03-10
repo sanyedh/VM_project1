@@ -53494,4 +53494,849 @@
 
 2026-03-10 22:09:23.175 INFO  [9912] [FilterNodeManagerForSP::Init@127] [Init] VM_PROXY_SetServerCallBack finish
 
-2026-03-10 22:09:23.175 INFO  [9912] [FilterNodeManagerForSP::Init@135] [Init] Module manager init finis
+2026-03-10 22:09:23.175 INFO  [9912] [FilterNodeManagerForSP::Init@135] [Init] Module manager init finis2026-03-10 22:38:21.537 INFO  [3960] [PF_M_Init@33] ===========PF_M_Init main begin. Version[V5.0.0, build Apr  9 2025, 17:22:58] ===========
+
+2026-03-10 22:38:21.537 INFO  [3960] [GetCurrentProcessName@189] Process name [VM_project1]
+
+2026-03-10 22:38:21.537 INFO  [3960] [PF_M_Init@39] [Init] [Begin], Process[VM_project1.exe]
+
+2026-03-10 22:38:21.537 INFO  [3960] [CClientOperateMng::Init@57] [Init] Init begin.
+
+2026-03-10 22:38:21.537 INFO  [27592] [LogDllOpr::ClearInvalidUiMapFileDir@455] [Init] Clear invalid ui mapping file dir begin, currunt pid[23932]
+
+2026-03-10 22:38:21.537 INFO  [3960] [CUiParamSetBase::SetChunkDataThreshold@663] ChunkDataThreshold[20971520]
+
+2026-03-10 22:38:21.537 INFO  [3960] [CUiParamSetBase::SetUiChunkMapWhenLoad@881] UiChunkDataMap[0] when load
+
+2026-03-10 22:38:21.537 INFO  [3960] [CClientOperateMng::LoadCfgParam@277] [Init] Load config param success
+
+2026-03-10 22:38:21.537 INFO  [3960] [CPluginMgr::LoadCfgParam@668] Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\Server\ServerAuthConfig.ini]
+
+2026-03-10 22:38:21.537 INFO  [3960] [CPluginMgr::LoadCfgParam@698] Now dongle type[2]
+
+2026-03-10 22:38:21.539 INFO  [3960] [CFileHandlerMng::ParseParam@191] [Init] Get config param, loadTimeoutmin[300000] loadTimeoutmax[600000] AutoLoadSoluDelay[30000] EnableCheckSolutionMd5[1]
+
+2026-03-10 22:38:21.539 WARN  [3960] [CFileHandlerMng::InitAutoSaveSol@807] [Init] Can not find file, use default value
+
+2026-03-10 22:38:21.539 INFO  [3960] [CFileSolutionHandler::SetSolCfgParam@285] Not support cross plat modules[GlobalCameraModuleV2*IMVSOcrDlModuN*LedControlModule]
+
+2026-03-10 22:38:21.539 INFO  [3960] [IsProcessInSession0@1911] ProcessId[23932] in SessionId [1]
+
+2026-03-10 22:38:21.539 INFO  [3960] [IsProcessInSession0@1911] ProcessId[23932] in SessionId [1]
+
+2026-03-10 22:38:21.539 INFO  [3960] [IsProcessInSession0@1911] ProcessId[23932] in SessionId [1]
+
+2026-03-10 22:38:21.539 INFO  [3960] [IsProcessInSession0@1911] ProcessId[23932] in SessionId [1]
+
+2026-03-10 22:38:21.539 INFO  [3960] [CClientOperateMng::Init@103] [Init] Process mode[0]
+
+2026-03-10 22:38:21.539 INFO  [3960] [CPluginMgr::Init@54] [Init] Plugin manager init begin
+
+2026-03-10 22:38:21.539 INFO  [3960] [CPluginMgr::Init@108] 3D authorize file does not exist
+
+2026-03-10 22:38:21.539 INFO  [3960] [CPluginMgr::Init@111] Dongle check order [1], 1:2d only, 2:2d first, 3:3d first
+
+2026-03-10 22:38:21.539 INFO  [3960] [CPluginMgr::CheckAuthorityPlugFile@719] [Init] Read 2D file begin
+
+2026-03-10 22:38:21.540 INFO  [27596] [FilterNodeManagerForSP::Init@87] [Init] Module manager init begin
+
+2026-03-10 22:38:21.540 INFO  [27596] [FilterNodeManagerForSP::LoadCfgParam@264] [Init] Now procedure count[64], proxy path[../ModuleProxy/x64/ModuleProxy.exe] min port[10000] max port[10040]
+
+2026-03-10 22:38:21.540 INFO  [27596] [CDynamicParam::GetMaxModuleCount@148] Max module count [2048]
+
+2026-03-10 22:38:21.540 INFO  [27596] [FilterNodeManagerForSP::Init@102] [Init] Load proxy dll
+
+2026-03-10 22:38:21.542 INFO  [27600] [CFileHandlerMng::DoSolutionOperate@439] DoSolutionOperate begin.
+
+2026-03-10 22:38:21.543 INFO  [27596] [CLoadProxyDll::LoadDll@47] Load [F:/apps/VM5.0/VisionMaster5.0.0/Applications/ModuleProxy/x64/ModuleProxy.dll] success.
+
+2026-03-10 22:38:21.543 INFO  [27596] [IsProcessInSession0@1911] ProcessId[23932] in SessionId [1]
+
+2026-03-10 22:38:21.548 INFO  [3960] [CPluginMgr::CheckAuthorityPlugFile@726] [Init] Read 2D file end
+
+2026-03-10 22:38:21.551 INFO  [27592] [LogDllOpr::ClearInvalidUiMapFileDir@487] [Init] Pid[19152] does not exist, now remove it,[F:\apps\VM5.0\VisionMaster5.0.0\Applications\UiMapFile\19152]
+
+2026-03-10 22:38:21.557 INFO  [27596] [FilterNodeManagerForSP::Init@119] [Init] VM_PROXY_Init finish [SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2]
+
+2026-03-10 22:38:21.557 INFO  [27596] [FilterNodeManagerForSP::Init@127] [Init] VM_PROXY_SetServerCallBack finish
+
+2026-03-10 22:38:21.557 INFO  [27596] [FilterNodeManagerForSP::Init@135] [Init] Module manager init finish
+
+2026-03-10 22:38:21.570 INFO  [27592] [LogDllOpr::ClearInvalidUiMapFileDir@492] [Init] Pid[23932] already exist
+
+2026-03-10 22:38:21.570 INFO  [27592] [LogDllOpr::ClearInvalidUiMapFileDir@500] [Init] Clear invalid ui mapping file dir end
+
+2026-03-10 22:38:21.582 INFO  [3960] [CPluginMgr::CheckAuthorityPlugFile@728] [Init] convert data end
+
+2026-03-10 22:38:21.838 INFO  [3960] [CPluginMgr::LoadComponent@324] StartComponent finish
+
+2026-03-10 22:38:21.838 INFO  [3960] [CPluginMgr::Init@226] Now use 2D plugin file
+
+2026-03-10 22:38:21.838 INFO  [3960] [FilterNodeManagerForSP::InitProxyMvdDongle@9200] [Init] init mvd dongle info, dongle[2] file type[2].
+
+2026-03-10 22:38:21.855 INFO  [3960] [CPluginMgr::LoadComponent@324] StartComponent finish
+
+2026-03-10 22:38:21.855 INFO  [3960] [CClientOperateSP::Init@164] [Init] begin, client type[2], 0:vm, 1:export process, 2:other.
+
+2026-03-10 22:38:21.855 INFO  [3960] [CClientOperateSP::Init@194] [Init] end.
+
+2026-03-10 22:38:21.855 INFO  [3960] [CClientOperateMng::Init@147] [Init] Now dongle state [0]
+
+2026-03-10 22:38:21.855 INFO  [3960] [FilterNodeManagerForSP::UpdateDongleInfoToProxy@7973] Dongle state[0] camera count[10000]
+
+2026-03-10 22:38:21.855 INFO  [3960] [CClientOperateMng::Init@168] [Init] Init end.
+
+2026-03-10 22:38:21.855 INFO  [3960] [PF_M_Init@47] [Init] [End] PF_M_Init end.
+
+2026-03-10 22:38:21.855 INFO  [3960] [CGlobalSriptMng::SetCallback4Single@518] pCallback[00007FFB55A2BE80] userdata[000002B72947F4D0]
+
+2026-03-10 22:38:21.855 INFO  [3960] [CClientOperateBase::ControlGetDeviceInfo@1196] Client get device info begin.
+
+2026-03-10 22:38:21.855 INFO  [3960] [CClientOperateBase::ControlGetDeviceInfo@1207] Client get device info end. [OK*50	]
+
+2026-03-10 22:38:21.857 INFO  [3960] [CClientOperateSP::SetReportModuResult_V42@4298] Client send[2-0-0], 1:close all, 2:open all, 3:single(id, is report).
+
+2026-03-10 22:38:21.857 INFO  [3960] [CClientOperateBase::DevelopSetReportResultAll@275] Open all module result
+
+2026-03-10 22:38:21.857 INFO  [3960] [FilterNodeManagerForSP::SPSetReportModuResult@7103] bReportAll[1].
+
+2026-03-10 22:38:21.858 INFO  [3960] [CClientOperateSP::SetReportModuleMsgCallback@4936] Begin
+
+2026-03-10 22:38:21.858 INFO  [3960] [FilterNodeManagerForSP::SetModuReportDataSDKCallBack2Proxy@8856] Set module report data SDK callback
+
+2026-03-10 22:38:21.858 INFO  [3960] [CClientOperateSP::SetReportModuleMsgCallback@4938] End
+
+2026-03-10 22:38:21.858 INFO  [3960] [FilterNodeManagerForSP::SPSetSdkCallback@7876] SPSetSdkCallback
+
+2026-03-10 22:38:21.865 INFO  [3960] [CClientOperateSP::SetPubMsgCallback@4573] Begin
+
+2026-03-10 22:38:21.865 INFO  [3960] [CClientOperateSP::SetPubMsgCallback@4577] End
+
+2026-03-10 22:38:21.948 INFO  [3960] [CClientOperateSP::ControlGetAllProcedure@2801] Client get all procedure begin.
+
+2026-03-10 22:38:21.948 INFO  [3960] [CClientOperateSP::ControlGetAllProcedure@2842] Client get all procedure end.
+
+2026-03-10 22:38:21.949 INFO  [3960] [CClientOperateSP::ControlGetAllGlobalModules@4406] Control get all global modules.
+
+2026-03-10 22:38:26.808 INFO  [26696] [CClientOperateSP::ControlGetAllProcedure@2801] Client get all procedure begin.
+
+2026-03-10 22:38:26.808 INFO  [26696] [CClientOperateSP::ControlGetAllProcedure@2842] Client get all procedure end.
+
+2026-03-10 22:38:34.243 INFO  [3960] [CClientOperateBase::ControlCheckVersionFromXml@1065] Client check solution version begin.
+
+2026-03-10 22:38:34.243 INFO  [3960] [CDogEncryptFile::CheckFileEncrypt@117] Begin.
+
+2026-03-10 22:38:34.271 INFO  [3960] [CDogEncryptFile::CheckFileEncrypt@125] MVDP_GetDataEncryptionFlag nRet[0].
+
+2026-03-10 22:38:34.271 INFO  [3960] [CDogEncryptFile::CheckFileEncrypt@133] End.
+
+2026-03-10 22:38:34.271 INFO  [3960] [CFileSolutionHandler::ControlCheckSolutionVersion@974] Client check solution version begin.
+
+2026-03-10 22:38:34.271 INFO  [3960] [CClientOperateBase::ControlCheckVersionFromXml@1091] Client check solution version end, [0*V5.0.0*V5.0.0*1*1].
+
+2026-03-10 22:38:34.271 INFO  [3960] [CClientOperateSP::ControlLoadSolutionLocalhost@2430] Client load solution localhost begin !!!
+
+2026-03-10 22:38:34.271 INFO  [3960] [CFileSolutionHandler::ImportFileLocalhost@800] [Load Solution] LoadSolutionLocalhost client type[1] old file[] new file[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol] ReportSilenceRunFlag[1].
+
+2026-03-10 22:38:34.271 INFO  [3960] [CFileSolutionHandler::ImportFileLocalhost@811] [Load Solution] Client load solution localhost end !!!
+
+2026-03-10 22:38:34.271 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1407] [Load Solution] [Asyn Begin] Asnyc load solution begin !!! [F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol]
+
+2026-03-10 22:38:34.271 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1426] The real sol path[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol]
+
+2026-03-10 22:38:34.271 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2024-1	F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol]
+
+2026-03-10 22:38:34.275 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:34.275 INFO  [27600] [CFileHandlerMng::ResetFrameEventForLoad@569] ResetFrameEventForLoad
+
+2026-03-10 22:38:34.275 INFO  [27600] [CFileExportBase::UncompressXmlData@117] Uncompress xml data begin.
+
+2026-03-10 22:38:34.275 INFO  [27600] [CFileExportBase::UncompressXmlData@145] File digest [version=V5.0.0 | dongleSeries=PRO | dongleNo= | language=CN | devName=7210 | date=2026-03-10 19:18:35 | timeStamp=444030.400000 | platform=x86 | clientName=VisionMaster.exe]
+
+2026-03-10 22:38:34.275 INFO  [27600] [CFileExportBase::UncompressXmlData@205] Uncompress xml data end.
+
+2026-03-10 22:38:34.277 INFO  [27600] [CFileSolutionHandler::IsThisFileMd5SameWithCurrentSol@2623] [Load Solution, import]Check solution file digest begin
+
+2026-03-10 22:38:34.277 INFO  [27600] [CFileSolutionHandler::IsThisFileMd5SameWithCurrentSol@2635] [Load Solution, import]Current sol data len is 0, need load
+
+2026-03-10 22:38:34.277 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-15]
+
+2026-03-10 22:38:34.277 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:34.277 INFO  [27600] [CFileHandlerMng::ResetFrameEventForCloseSol@602] ResetFrameEventForCloseSol, close flag[1]
+
+2026-03-10 22:38:34.277 INFO  [27600] [CFileSolutionHandler::ClearSolutionResource@333] Clear solution resource.
+
+2026-03-10 22:38:34.277 INFO  [27600] [CFileSolutionHandler::ResetSolFileMd5@2694] Reset sol file md5
+
+2026-03-10 22:38:34.277 INFO  [27600] [CFileSolutionHandler::ClearSolutionResource@348] Notify client procedure stop execute, state is idle
+
+2026-03-10 22:38:34.277 INFO  [27600] [FilterNodeManagerForSP::DeleteAllModule@934] DeleteAllModule begin.
+
+2026-03-10 22:38:34.277 INFO  [27600] [CModuleManagerBase::DeleteAllModule@464] DeleteAllModule.
+
+2026-03-10 22:38:34.277 INFO  [27600] [FilterNodeManagerForSP::DeleteAllModule@936] DeleteAllModule end.
+
+2026-03-10 22:38:34.277 INFO  [27600] [FilterNodeManagerForSP::DeleteAllProcedureMngPtr@2727] Delete all procedureMngPtr 
+
+2026-03-10 22:38:34.277 INFO  [27600] [FilterNodeManagerForSP::NotifyCloseSolu@4582] Notify frame close solution.
+
+2026-03-10 22:38:34.282 INFO  [27600] [CGlobalSriptMng::CallbackFun@534] Callback command[4007] ret[0]
+
+2026-03-10 22:38:34.282 INFO  [27600] [CGlobalSriptMng::CloseSolution@347] Global script close solution end, ret[0].
+
+2026-03-10 22:38:34.282 INFO  [27600] [CDogEncryptFile::ResetSaveEncryption@313] Reset save encryption
+
+2026-03-10 22:38:34.282 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1466] [Load Solution] AsnycLoadSolution ParseSolutionXml begin.
+
+2026-03-10 22:38:34.283 INFO  [27600] [CDogEncryptFile::CheckFileEncrypt@117] Begin.
+
+2026-03-10 22:38:34.283 INFO  [27600] [CDogEncryptFile::CheckFileEncrypt@125] MVDP_GetDataEncryptionFlag nRet[0].
+
+2026-03-10 22:38:34.283 INFO  [27600] [CDogEncryptFile::CheckFileEncrypt@133] End.
+
+2026-03-10 22:38:34.283 INFO  [27600] [CFileExportBase::EnableAllModuleCallbackWhen3rd@607] Now is develop mode, enable all module callback state
+
+2026-03-10 22:38:34.283 INFO  [27600] [FilterNodeManagerForSP::CreateProcedureObjectsWhenLoad@2459] Create inner procedure objects end
+
+2026-03-10 22:38:34.283 INFO  [27600] [FilterNodeManagerForSP::CreateModuleObjectWhenLoad@5288] Create inner module objects end.
+
+2026-03-10 22:38:34.283 INFO  [27600] [FilterNodeManagerForSP::ImportModuleConnFromFile@5433] Add inner connects end.
+
+2026-03-10 22:38:34.283 INFO  [27600] [FilterNodeManagerForSP::ImportModuleSubFromFile@5462] Add inner subscribe end.
+
+2026-03-10 22:38:34.283 INFO  [27600] [CFileExportBase::GetWaitTime@268] Wait time[300000]
+
+2026-03-10 22:38:34.285 INFO  [18720] [SolUncompressUiData@111] begin
+
+2026-03-10 22:38:34.285 INFO  [18720] [CFileSolutionHandler::UncompressUiParamDataV42@2530] Uncompress ui param begin.
+
+2026-03-10 22:38:34.289 INFO  [4368] [UncompressPicThread@81] begin
+
+2026-03-10 22:38:34.289 INFO  [4368] [FilterNodeManagerForSP::GetUserTempDir@5606] The temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23932ImgSrcTemp].
+
+2026-03-10 22:38:34.289 INFO  [4368] [CFileExportBase::UncompressPicFile@463] Decompress pic file to[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23932ImgSrcTemp] end, ret[0].
+
+2026-03-10 22:38:34.289 INFO  [4368] [CFileExportBase::SetPictureWaitEvent@646] SetPictureWaitEvent
+
+2026-03-10 22:38:34.289 INFO  [4368] [UncompressPicThread@99] end
+
+2026-03-10 22:38:34.456 INFO  [18720] [CFileSolutionHandler::UncompressUiParamDataV42@2533] Uncompress ui param end [0].
+
+2026-03-10 22:38:34.456 INFO  [18720] [CFileSolutionHandler::NotifyUiGetParam@2291] Notify client get data
+
+2026-03-10 22:38:34.456 INFO  [18720] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2032]
+
+2026-03-10 22:38:34.467 INFO  [18720] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:34.467 INFO  [18720] [SolUncompressUiData@148] UncompressUiParam end
+
+2026-03-10 22:38:34.467 INFO  [18720] [CFileExportBase::SetUiDataWaitEvent@623] Set ui data wait event
+
+2026-03-10 22:38:34.467 INFO  [18720] [SolUncompressUiData@153] end
+
+2026-03-10 22:38:34.470 INFO  [3960] [CClientOperateSP::ControlGetAllProcedure@2801] Client get all procedure begin.
+
+2026-03-10 22:38:34.470 INFO  [3960] [CClientOperateSP::ControlGetAllProcedure@2842] Client get all procedure end.
+
+2026-03-10 22:38:34.515 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[CalibData], ret[e0000001]
+
+2026-03-10 22:38:34.518 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[GUID] value len[16], success
+
+2026-03-10 22:38:34.525 INFO  [3960] [CClientOperateSP::ControlGetAllGlobalModules@4406] Control get all global modules.
+
+2026-03-10 22:38:34.541 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[10000	SourceIndex	1]
+
+2026-03-10 22:38:34.541 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[10000	TargetIndex	1]
+
+2026-03-10 22:38:34.541 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[10000	Position	0]
+
+2026-03-10 22:38:34.541 ERROR [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@607] GetUiParamByKeyInMultiObj fail.
+
+2026-03-10 22:38:34.608 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[IsOpenSubscriptionView], ret[e0000001]
+
+2026-03-10 22:38:34.611 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[IsOpenSubscriptionView], ret[e0000001]
+
+2026-03-10 22:38:34.654 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[0] key[GUID] value len[16], success
+
+2026-03-10 22:38:34.665 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[1] key[GUID] value len[16], success
+
+2026-03-10 22:38:34.754 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[2] key[GUID] value len[16], success
+
+2026-03-10 22:38:34.775 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[3] key[GUID] value len[16], success
+
+2026-03-10 22:38:34.775 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[0,1,2,3	SourceIndex	1]
+
+2026-03-10 22:38:34.777 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[0,1,2,3	TargetIndex	1]
+
+2026-03-10 22:38:34.777 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[0,1,2,3	Position	0]
+
+2026-03-10 22:38:34.778 INFO  [3960] [CClientOperateSP::GetMultiModuleState@3222] Client send[0,1,2,3]
+
+2026-03-10 22:38:34.837 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[ProceZoomIndex], ret[e0000001]
+
+2026-03-10 22:38:34.839 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[CanvasType] value len[2], success
+
+2026-03-10 22:38:34.839 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[CanvasType] value len[2], success
+
+2026-03-10 22:38:34.852 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[IsReady] value len[1], success
+
+2026-03-10 22:38:34.853 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[ProceZoomIndex], ret[e0000001]
+
+2026-03-10 22:38:34.855 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[IsOpenSubscriptionView], ret[e0000001]
+
+2026-03-10 22:38:34.858 INFO  [27628] [FilterNodeManagerForSP::SPReportCloseSoluStatus@4594] Frame close solution finish.
+
+2026-03-10 22:38:34.858 INFO  [27628] [CFileHandlerMng::SetFrameEventForCloseSol@593] SetFrameEventForCloseSol, frame return[0]
+
+2026-03-10 22:38:34.858 INFO  [27600] [FilterNodeManagerForSP::SPSetLoadingSolFlag@5618] SPSetLoadingSolFlag [1], ret[0].
+
+2026-03-10 22:38:34.858 INFO  [27600] [FilterNodeManagerForSP::ModuleFrameAddProcedureList@2493] ModuleFrameAddProcedureList end
+
+2026-03-10 22:38:34.858 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1555] [Load Solution] Module frame add procedures finish !!!
+
+2026-03-10 22:38:34.858 INFO  [27600] [FilterNodeManagerForSP::SPAddModuleList@3120] Notify frame add module list end. Module count[5] return[0]
+
+2026-03-10 22:38:34.858 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-30]
+
+2026-03-10 22:38:34.858 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:34.869 INFO  [27632] [FilterNodeManagerForSP::SPReportAddModuleListFinish@5243] Frame add module list finish.
+
+2026-03-10 22:38:34.869 INFO  [27632] [CFileHandlerMng::SetFrameEventForLoad@554] SetFrameEventForLoad
+
+2026-03-10 22:38:34.869 INFO  [27600] [FilterNodeManagerForSP::SPSetContainerRelateModule@8647] Set container ralate module, container id[10000], module id[26000] type[26].
+
+2026-03-10 22:38:34.871 INFO  [27600] [FilterNodeManagerForSP::SPSetContainerRelateModule@8654] Set container ralate module End.
+
+2026-03-10 22:38:34.871 INFO  [27600] [FilterNodeManagerForSP::SPFrameAddSonModules@5660] SPAddSonModules Start.
+
+2026-03-10 22:38:34.871 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-50]
+
+2026-03-10 22:38:34.871 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:34.871 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1593] [Load Solution] Frame create modules finish !!!
+
+2026-03-10 22:38:34.871 INFO  [27600] [CFileHandlerMng::ResetFrameEventForLoad@569] ResetFrameEventForLoad
+
+2026-03-10 22:38:34.871 INFO  [27600] [CFileSolutionHandler::NotifyFrameLoadData@1857] File path[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol], version[V5.0.0]
+
+2026-03-10 22:38:34.919 INFO  [3960] [CClientOperateSP::GetProcedureShieldGlobalCtrl@3078] Get Shield procedure by global control begin.
+
+2026-03-10 22:38:34.919 INFO  [3960] [CClientOperateSP::GetProcedureShieldGlobalCtrl@3109] Get Shield procedure by global control end.
+
+2026-03-10 22:38:34.931 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[IsOpenSubscriptionView], ret[e0000001]
+
+2026-03-10 22:38:34.933 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[IsOpenSubscriptionView], ret[e0000001]
+
+2026-03-10 22:38:34.959 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[10000	DynamicPolymer_Items	1]
+
+2026-03-10 22:38:34.959 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[10000	DynamicCombinationFold_Items	1]
+
+2026-03-10 22:38:34.961 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[CanvasOrignalPoint], ret[e0000001]
+
+2026-03-10 22:38:34.964 INFO  [3960] [CUiParamHandler::GetUiParamByKeyInMultiObjSp@598] Recv msg[10000	DynamicComment_Items	1]
+
+2026-03-10 22:38:34.965 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[CanvasWidthNum], ret[e0000001]
+
+2026-03-10 22:38:34.967 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[CanvasHeightNum], ret[e0000001]
+
+2026-03-10 22:38:34.973 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[0] key[IsNoted], ret[e0000001]
+
+2026-03-10 22:38:34.974 INFO  [3960] [CClientOperateSP::GetMultiModuleLoadState@3260] Client get[0]
+
+2026-03-10 22:38:34.976 INFO  [3960] [CClientOperateBase::ClientGetMultiModuConn@373] Client send[1,2,3,0].
+
+2026-03-10 22:38:34.988 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[0] key[IsReady] value len[1], success
+
+2026-03-10 22:38:34.990 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[1] key[IsNoted], ret[e0000001]
+
+2026-03-10 22:38:34.990 INFO  [3960] [CClientOperateSP::GetMultiModuleLoadState@3260] Client get[1]
+
+2026-03-10 22:38:34.991 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[1] key[IsReady] value len[1], success
+
+2026-03-10 22:38:34.991 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[IsNoted], ret[e0000001]
+
+2026-03-10 22:38:34.991 INFO  [3960] [CClientOperateSP::GetMultiModuleLoadState@3260] Client get[2]
+
+2026-03-10 22:38:34.993 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[2] key[IsReady] value len[1], success
+
+2026-03-10 22:38:34.993 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[3] key[IsNoted], ret[e0000001]
+
+2026-03-10 22:38:34.993 INFO  [3960] [CClientOperateSP::GetMultiModuleLoadState@3260] Client get[3]
+
+2026-03-10 22:38:34.994 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[3] key[IsReady] value len[1], success
+
+2026-03-10 22:38:34.999 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[0] key[PathPoints颜色转换1], ret[e0000001]
+
+2026-03-10 22:38:35.001 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[1] key[PathPoints字符缺陷检测1], ret[e0000001]
+
+2026-03-10 22:38:35.001 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[PathPoints格式化1], ret[e0000001]
+
+2026-03-10 22:38:35.055 INFO  [27600] [CFileSolutionHandler::NotifyGlobalscriptLoadData@1903] Notify global script begin
+
+2026-03-10 22:38:35.057 INFO  [27600] [CFileSolutionHandler::UncompressGlobalscriptData@1896] UncompressOtherData end.
+
+2026-03-10 22:38:35.057 INFO  [27600] [CDogEncryptFile::CheckFileEncrypt@117] Begin.
+
+2026-03-10 22:38:35.057 INFO  [27600] [CDogEncryptFile::CheckFileEncrypt@125] MVDP_GetDataEncryptionFlag nRet[0].
+
+2026-03-10 22:38:35.057 INFO  [27600] [CDogEncryptFile::CheckFileEncrypt@133] End.
+
+2026-03-10 22:38:35.158 INFO  [27600] [CGlobalSriptMng::CallbackFun@534] Callback command[4006] ret[0]
+
+2026-03-10 22:38:35.158 INFO  [27600] [CFileSolutionHandler::NotifyGlobalscriptLoadData@1938] Notify global script end
+
+2026-03-10 22:38:35.158 INFO  [27600] [FilterNodeManagerForSP::SPSetSaveImageModuleBigfile@8791] Set save image module big file[0] [].
+
+2026-03-10 22:38:35.169 INFO  [26704] [CClientOperateSP::ControlGetAllProcedure@2801] Client get all procedure begin.
+
+2026-03-10 22:38:35.169 INFO  [26704] [CClientOperateSP::ControlGetAllProcedure@2842] Client get all procedure end.
+
+2026-03-10 22:38:35.202 INFO  [27628] [FilterNodeManagerForSP::SPReportModuleLoadFinish@4487] Frame load module file finish.
+
+2026-03-10 22:38:35.202 INFO  [27628] [CFileHandlerMng::SetFrameEventForLoad@554] SetFrameEventForLoad
+
+2026-03-10 22:38:35.202 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-75]
+
+2026-03-10 22:38:35.202 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.202 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1620] [Load Solution] Module frame load param end.
+
+2026-03-10 22:38:35.202 INFO  [27600] [FilterNodeManagerForSP::ModuleConnectWhenLoadSolution@1051] Notify module frame connect list end. return[0]
+
+2026-03-10 22:38:35.202 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-85]
+
+2026-03-10 22:38:35.202 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.202 INFO  [27600] [FilterNodeManagerForSP::ModuleSubWhenLoadSolution@1066] Notify module frame sub list[32] end, return[0].
+
+2026-03-10 22:38:35.202 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-90]
+
+2026-03-10 22:38:35.204 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.204 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1653] [Load Solution] Uncompress picture end.
+
+2026-03-10 22:38:35.204 INFO  [27600] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[0]
+
+2026-03-10 22:38:35.204 INFO  [27600] [CClientOperateBase::DevelopSetReportResultAll@275] Open all module result
+
+2026-03-10 22:38:35.204 INFO  [27600] [FilterNodeManagerForSP::SPSetReportModuResult@7103] bReportAll[1].
+
+2026-03-10 22:38:35.204 INFO  [27600] [CFileSolutionHandler::SaveSolFileDigest@2607] File[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol] save digest[version=V5.0.0 | dongleSeries=PRO | dongleNo= | language=CN | devName=7210 | date=2026-03-10 19:18:35 | timeStamp=444030.400000 | platform=x86 | clientName=VisionMaster.exe] begin
+
+2026-03-10 22:38:35.204 INFO  [27600] [CFileSolutionHandler::SaveSolFileDigest@2612] File save digest end
+
+2026-03-10 22:38:35.204 INFO  [27600] [FilterNodeManagerForSP::SPSetLoadingSolFlag@5618] SPSetLoadingSolFlag [0], ret[0].
+
+2026-03-10 22:38:35.204 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2026-100]
+
+2026-03-10 22:38:35.204 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.204 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2025-1*0*F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol]
+
+2026-03-10 22:38:35.207 ERROR [27600] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[10000] key[IsOpenSubscriptionView], ret[e0000001]
+
+2026-03-10 22:38:35.207 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.207 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2030-0]
+
+2026-03-10 22:38:35.207 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.207 INFO  [27600] [CFileSolutionHandler::ReportSilenceRun@2156] Process execute flag[0], (0: need silence run, 1: need not)
+
+2026-03-10 22:38:35.207 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1749] [Load Solution] import, report procedure state
+
+2026-03-10 22:38:35.207 INFO  [27600] [CProcedureMngForSp::GetContinueExecuteState@388] Get procedure[10000] state from frame, ret[false]
+
+2026-03-10 22:38:35.207 INFO  [27600] [CGlobalSriptMng::GetParam@242] Get param begin
+
+2026-03-10 22:38:35.214 INFO  [27600] [CGlobalSriptMng::CallbackFun@534] Callback command[4009] ret[e0000012]
+
+2026-03-10 22:38:35.214 INFO  [27600] [CGlobalSriptMng::CallbackFun@534] Callback command[4009] ret[0]
+
+2026-03-10 22:38:35.216 INFO  [27600] [CGlobalSriptMng::GetParam@262] Get param end
+
+2026-03-10 22:38:35.216 INFO  [27600] [CGlobalSriptMng::GetContinueExecuteFlag@550] GetRunState ret[0] data[0]
+
+2026-03-10 22:38:35.216 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2035-10000?0-10999?0]
+
+2026-03-10 22:38:35.216 INFO  [27600] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:38:35.216 INFO  [27600] [FilterNodeManagerForSP::PubProcedureState@8970] Pub process state msg[2035-10000?0-10999?0]
+
+2026-03-10 22:38:35.216 INFO  [27600] [CFileSolutionHandler::AsnycImportFile@1761] [Load Solution] [Asyn end] AsnycLoadSolution end[0]!!! Used time[936.580500]ms
+
+
+2026-03-10 22:38:35.216 INFO  [27600] [CFileSolutionHandler::CheckAutoLoadLastSolCfg@2710] The client type[1] is not VM, need not check auto load config
+
+2026-03-10 22:38:35.425 INFO  [3960] [FilterNodeManagerForSP::SPLoadReadyEvent@6188] Load solution finish event [1]
+
+2026-03-10 22:38:35.425 INFO  [3960] [CGlobalSriptMng::LoadSolutionEndSignal@354] Global script LoadSolutionEndSignal begin
+
+2026-03-10 22:38:35.427 INFO  [3960] [CGlobalSriptMng::CallbackFun@534] Callback command[4014] ret[0]
+
+2026-03-10 22:38:35.427 INFO  [3960] [CGlobalSriptMng::LoadSolutionEndSignal@360] Global script LoadSolutionEndSignal end
+
+2026-03-10 22:38:35.459 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[DynamicObject], ret[e0000001]
+
+2026-03-10 22:38:35.462 INFO  [3960] [CUiParamHandler::GetUiParamByIdSp@400] Id[2]
+
+2026-03-10 22:38:35.462 ERROR [3960] [CUiParamHandler::GetUiParamByIdSp@428] nDataSize[1024] < nDataLen[96533568]
+
+2026-03-10 22:38:35.479 INFO  [3960] [CUiParamHandler::GetUiParamByIdSp@400] Id[2]
+
+2026-03-10 22:38:35.699 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[DynamicOutData]
+
+2026-03-10 22:38:35.727 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[DynamicInData]
+
+2026-03-10 22:38:35.750 INFO  [3960] [CClientOperateSP::SetReportModuResult@4248] Client send[1*2].
+
+2026-03-10 22:38:35.750 INFO  [3960] [CClientOperateSP::SetReportModuResult@4277] Develop set type open all
+
+2026-03-10 22:38:35.750 INFO  [3960] [FilterNodeManagerForSP::SPSetReportModuResult@7103] bReportAll[1].
+
+2026-03-10 22:38:35.750 INFO  [3960] [CClientOperateSP::SetReportModuResult@4291] End
+
+2026-03-10 22:38:35.758 INFO  [3960] [CClientOperateSP::GetMultiModuleLoadState@3260] Client get[10000]
+
+2026-03-10 22:38:35.764 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[DynamicObject] value len[30], success
+
+2026-03-10 22:38:35.765 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[DynamicObject_%输出图像%_[Child]] value len[31], success
+
+2026-03-10 22:38:35.765 INFO  [3960] [CUiParamHandler::GetUiParamByKeySp@298] Obj id[10000] key[DynamicObject_%原始图像%_[Child]] value len[31], success
+
+2026-03-10 22:38:35.765 INFO  [3960] [CUiParamHandler::GetUiParamByIdSp@400] Id[10000]
+
+2026-03-10 22:38:35.765 ERROR [3960] [CUiParamHandler::GetUiParamByIdSp@428] nDataSize[1024] < nDataLen[2309]
+
+2026-03-10 22:38:35.765 INFO  [3960] [CUiParamHandler::GetUiParamByIdSp@400] Id[10000]
+
+2026-03-10 22:38:35.771 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[10000] param[DynamicOutData]
+
+2026-03-10 22:38:35.776 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[10000] param[DynamicInData]
+
+2026-03-10 22:38:35.784 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[0] key[DynamicObject], ret[e0000001]
+
+2026-03-10 22:38:35.784 INFO  [3960] [CUiParamHandler::GetUiParamByIdSp@400] Id[0]
+
+2026-03-10 22:38:35.784 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[0] param[DynamicOutData]
+
+2026-03-10 22:38:35.788 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[1] key[DynamicObject], ret[e0000001]
+
+2026-03-10 22:38:35.788 INFO  [3960] [CUiParamHandler::GetUiParamByIdSp@400] Id[1]
+
+2026-03-10 22:38:35.788 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[1] param[DynamicOutData]
+
+2026-03-10 22:38:35.790 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[1] param[DynamicInData]
+
+2026-03-10 22:38:35.796 INFO  [3960] [CClientOperateBase::ClientGetMultiModuSub@404] Client send[2].
+
+2026-03-10 22:38:35.805 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[CheckedImages], ret[e0000001]
+
+2026-03-10 22:38:35.943 INFO  [3960] [CClientOperateBase::GetContainerRelateModuleInfo@835] Control modify sub input name [1	10000	25].
+
+2026-03-10 22:38:35.943 WARN  [3960] [FilterNodeManagerForSP::GetContainerRelatedModuleInfo@8480] Container type[1] id[10000] relate module type[25] can not find
+
+2026-03-10 22:38:35.943 ERROR [3960] [CClientOperateBase::GetContainerRelateModuleInfo@849] Find relate module fail
+
+2026-03-10 22:38:35.956 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[OutputMaskImage]
+
+2026-03-10 22:38:35.959 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ROIAreaType]
+
+2026-03-10 22:38:35.963 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[Param.RoiSelect], ret[e0000001]
+
+2026-03-10 22:38:35.968 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[RoiType]
+
+2026-03-10 22:38:35.968 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[RoiType]
+
+2026-03-10 22:38:35.974 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[Param.InheritWay], ret[e0000001]
+
+2026-03-10 22:38:35.985 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[Param.ExternRoiSelect], ret[e0000001]
+
+2026-03-10 22:38:35.986 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[ExternRoiType]
+
+2026-03-10 22:38:35.986 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[ExternRoiType]
+
+2026-03-10 22:38:35.992 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[Param.SelectWay], ret[e0000001]
+
+2026-03-10 22:38:36.020 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[MinCharArea]
+
+2026-03-10 22:38:36.023 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[MinCharWidth]
+
+2026-03-10 22:38:36.024 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[BinarizeScale]
+
+2026-03-10 22:38:36.027 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[BinarizeWinSize]
+
+2026-03-10 22:38:36.029 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[HardThreshold]
+
+2026-03-10 22:38:36.033 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[TextPolarity]
+
+2026-03-10 22:38:36.035 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[SegmentMode]
+
+2026-03-10 22:38:36.036 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[PyramidScaleFlag]
+
+2026-03-10 22:38:36.038 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[PyramidScaleFine]
+
+2026-03-10 22:38:36.039 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[PyramidScaleRough]
+
+2026-03-10 22:38:36.041 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[EdgeThresholdFlag]
+
+2026-03-10 22:38:36.044 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[EdgeThreshold]
+
+2026-03-10 22:38:36.046 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchMinScore]
+
+2026-03-10 22:38:36.049 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchAngleStart]
+
+2026-03-10 22:38:36.049 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchAngleEnd]
+
+2026-03-10 22:38:36.049 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchAngleEnd]
+
+2026-03-10 22:38:36.052 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchPolarity]
+
+2026-03-10 22:38:36.053 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchMinScore]
+
+2026-03-10 22:38:36.055 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchAngleStart]
+
+2026-03-10 22:38:36.055 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchAngleEnd]
+
+2026-03-10 22:38:36.056 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchAngleEnd]
+
+2026-03-10 22:38:36.058 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchMatchThresholdFlag]
+
+2026-03-10 22:38:36.059 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchMatchThresholdHigh]
+
+2026-03-10 22:38:36.061 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchCorrectFlag]
+
+2026-03-10 22:38:36.062 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchToleranceX]
+
+2026-03-10 22:38:36.064 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchToleranceY]
+
+2026-03-10 22:38:36.065 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[FlawType]
+
+2026-03-10 22:38:36.067 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[BrightThreshold]
+
+2026-03-10 22:38:36.069 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[DarkThreshold]
+
+2026-03-10 22:38:36.071 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[BrightVarScale]
+
+2026-03-10 22:38:36.072 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[DarkVarScale]
+
+2026-03-10 22:38:36.074 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[EdgeTolerance]
+
+2026-03-10 22:38:36.076 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[BlobMinArea]
+
+2026-03-10 22:38:36.080 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchMinScore]
+
+2026-03-10 22:38:36.083 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchAngleStart]
+
+2026-03-10 22:38:36.083 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchAngleEnd]
+
+2026-03-10 22:38:36.083 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchAngleEnd]
+
+2026-03-10 22:38:36.086 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchScaleXStart]
+
+2026-03-10 22:38:36.086 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchScaleXEnd]
+
+2026-03-10 22:38:36.086 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchScaleXEnd]
+
+2026-03-10 22:38:36.089 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchScaleYStart]
+
+2026-03-10 22:38:36.089 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchScaleYEnd]
+
+2026-03-10 22:38:36.089 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchScaleYEnd]
+
+2026-03-10 22:38:36.091 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchMatchThresholdFlag]
+
+2026-03-10 22:38:36.092 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchMatchThresholdHigh]
+
+2026-03-10 22:38:36.095 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchCorrectFlag]
+
+2026-03-10 22:38:36.097 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchToleranceX]
+
+2026-03-10 22:38:36.099 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[ExactMatchToleranceY]
+
+2026-03-10 22:38:36.102 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchMinScore]
+
+2026-03-10 22:38:36.103 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchPolarity]
+
+2026-03-10 22:38:36.105 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchAngleStart]
+
+2026-03-10 22:38:36.105 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchAngleEnd]
+
+2026-03-10 22:38:36.105 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchAngleEnd]
+
+2026-03-10 22:38:36.108 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchScaleXStart]
+
+2026-03-10 22:38:36.108 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchScaleXEnd]
+
+2026-03-10 22:38:36.109 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchScaleXEnd]
+
+2026-03-10 22:38:36.111 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchScaleYStart]
+
+2026-03-10 22:38:36.111 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchScaleYEnd]
+
+2026-03-10 22:38:36.111 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchScaleYEnd]
+
+2026-03-10 22:38:36.114 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchMatchThresholdFlag]
+
+2026-03-10 22:38:36.115 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3333] Get name[RoughMatchMatchThresholdHigh]
+
+2026-03-10 22:38:36.132 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[CheckedImages], ret[e0000001]
+
+2026-03-10 22:38:36.135 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[RoiType]
+
+2026-03-10 22:38:36.135 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[RoiType]
+
+2026-03-10 22:38:36.139 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[ExternRoiType]
+
+2026-03-10 22:38:36.139 INFO  [3960] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[2] param[ExternRoiType]
+
+2026-03-10 22:38:36.263 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[IsExpressionMode_RunScaleY], ret[e0000001]
+
+2026-03-10 22:38:36.297 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[IsExpressionMode_RunScaleX], ret[e0000001]
+
+2026-03-10 22:38:36.313 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[IsExpressionMode_RunAngle], ret[e0000001]
+
+2026-03-10 22:38:36.334 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[IsExpressionMode_RunPointY], ret[e0000001]
+
+2026-03-10 22:38:36.350 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[IsExpressionMode_RunPointX], ret[e0000001]
+
+2026-03-10 22:38:36.377 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[@Assist0], ret[e0000001]
+
+2026-03-10 22:38:36.526 ERROR [3960] [CUiParamHandler::GetUiParamByKeySp@302] Obj id[2] key[@OutputMaskImage], ret[e0000001]
+
+2026-03-10 22:38:54.068 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ImageSourceType] value[1]
+
+2026-03-10 22:38:54.070 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:38:54.070 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ClearImage] value[]
+
+2026-03-10 22:38:54.070 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:38:54.071 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[AddImageCheck] value[F:\竞赛资料\智启杯\样本图\NG\Image_20250721174613412.png]
+
+2026-03-10 22:38:54.071 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:01.117 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ImageSourceType] value[1]
+
+2026-03-10 22:39:01.117 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:01.117 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ClearImage] value[]
+
+2026-03-10 22:39:01.117 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:01.119 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[AddImageCheck] value[F:\竞赛资料\智启杯\样本图\NG\Image_20250721174613412.png]
+
+2026-03-10 22:39:01.125 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:01.127 INFO  [3960] [CGlobalSriptMng::ExcuteOnce@100] [Run once] Global sript execute once begin
+
+2026-03-10 22:39:01.127 INFO  [3960] [CGlobalSriptMng::CallbackFun@534] Callback command[4002] ret[0]
+
+2026-03-10 22:39:01.127 INFO  [3960] [CGlobalSriptMng::ExcuteOnce@133] [Run once] Global sript execute once end
+
+2026-03-10 22:39:01.128 INFO  [3960] [CClientOperateSP::GetAllProcedureShieldState@3143] Get all procedure shield state[0].
+
+2026-03-10 22:39:01.128 INFO  [3960] [CClientOperateSP::GetAllProcedureShieldState@3152] Get Shield procedure by global control end.
+
+2026-03-10 22:39:01.131 INFO  [26696] [CProcedureMngForSp::GetContinueExecuteState@388] Get procedure[10000] state from frame, ret[false]
+
+2026-03-10 22:39:01.506 INFO  [22888] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[0] param[DynamicInData]
+
+2026-03-10 22:39:01.821 INFO  [22888] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[3] param[DynamicInData]
+
+2026-03-10 22:39:01.821 INFO  [22888] [FilterNodeManagerForSP::SPGetBinaryData@7939] Module id[3] param[DynamicOutData]
+
+2026-03-10 22:39:01.834 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2010-10000-1-1]
+
+2026-03-10 22:39:01.834 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:39:01.834 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2065-0]
+
+2026-03-10 22:39:01.834 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:39:03.881 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ImageSourceType] value[1]
+
+2026-03-10 22:39:03.881 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:03.881 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ClearImage] value[]
+
+2026-03-10 22:39:03.881 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:03.883 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[AddImageCheck] value[F:\竞赛资料\智启杯\样本图\OK\Image_20250721174617329.png]
+
+2026-03-10 22:39:03.883 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:05.194 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ImageSourceType] value[1]
+
+2026-03-10 22:39:05.194 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:05.194 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ClearImage] value[]
+
+2026-03-10 22:39:05.194 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:05.196 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[AddImageCheck] value[F:\竞赛资料\智启杯\样本图\OK\Image_20250721174617329.png]
+
+2026-03-10 22:39:05.196 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:05.196 INFO  [3960] [CGlobalSriptMng::ExcuteOnce@100] [Run once] Global sript execute once begin
+
+2026-03-10 22:39:05.196 INFO  [3960] [CGlobalSriptMng::CallbackFun@534] Callback command[4002] ret[0]
+
+2026-03-10 22:39:05.196 INFO  [3960] [CGlobalSriptMng::ExcuteOnce@133] [Run once] Global sript execute once end
+
+2026-03-10 22:39:05.197 INFO  [3960] [CClientOperateSP::GetAllProcedureShieldState@3143] Get all procedure shield state[0].
+
+2026-03-10 22:39:05.197 INFO  [3960] [CClientOperateSP::GetAllProcedureShieldState@3152] Get Shield procedure by global control end.
+
+2026-03-10 22:39:05.197 INFO  [26696] [CProcedureMngForSp::GetContinueExecuteState@388] Get procedure[10000] state from frame, ret[false]
+
+2026-03-10 22:39:05.217 INFO  [27600] [CFileHandlerMng::CheckModuleUiChunkData@767] CheckModuleUiChunkData begin
+
+2026-03-10 22:39:05.217 INFO  [27600] [CUiParamSetBase::DoCheckChunkData@618] Mapping data begin, Id[2] Key[IMVSMarkInspModuVA_TrainData], len[76046864]
+
+2026-03-10 22:39:05.217 INFO  [27600] [CShmFileMapping::WriteData@333] Write file, path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\UiMapFile\23932\2_IMVSMarkInspModuVA_TrainData] data len[76046864]
+
+2026-03-10 22:39:05.217 INFO  [27600] [CShmFileMapping::Reset@137] Reset begin, len[0].
+
+2026-03-10 22:39:05.217 INFO  [27600] [CShmFileMapping::Reset@163] Reset end.
+
+2026-03-10 22:39:05.277 INFO  [27600] [CUiParamSetBase::DoCheckChunkData@631] Mapping data end
+
+2026-03-10 22:39:05.277 INFO  [27600] [CFileHandlerMng::CheckModuleUiChunkData@796] CheckModuleUiChunkData end
+
+2026-03-10 22:39:05.626 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2010-10000-2-1]
+
+2026-03-10 22:39:05.626 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:39:05.626 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2484] Callback msg to client begin, [2065-0]
+
+2026-03-10 22:39:05.626 INFO  [27628] [CClientOperateSP::SendMainPubMsg@2491] Callback msg to client end, ret[0]
+
+2026-03-10 22:39:07.477 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ImageSourceType] value[1]
+
+2026-03-10 22:39:07.477 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:07.477 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ClearImage] value[]
+
+2026-03-10 22:39:07.477 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:07.478 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[AddImageCheck] value[F:\竞赛资料\智启杯\样本图\NG\Image_20250721174613412.png]
+
+2026-03-10 22:39:07.478 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:09.085 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ImageSourceType] value[1]
+
+2026-03-10 22:39:09.085 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:09.085 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[ClearImage] value[]
+
+2026-03-10 22:39:09.085 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:09.085 INFO  [3960] [FilterNodeManagerForSP::AlgorithmParamSortDeal@3317] Set name[AddImageCheck] value[F:\竞赛资料\智启杯\样本图\NG\Image_20250721174613412.png]
+
+2026-03-10 22:39:09.085 INFO  [3960] [CFileHandlerMng::SetCurrentSolModifyFlag@912] SolModifyFlag[1]
+
+2026-03-10 22:39:09.086 INFO  [3960] [CGlobalSriptMng:

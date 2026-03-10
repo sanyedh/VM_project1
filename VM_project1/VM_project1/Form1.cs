@@ -115,6 +115,8 @@ namespace VM_project1
         // --- 导航按钮功能 ---
         private void btnNavDashboard_Click(object sender, EventArgs e) => SwitchPage(pnlDashboard);
         private void btnNavConfig_Click(object sender, EventArgs e) => SwitchPage(pnlConfig);
+        // 新增：导航到建模配置页面
+        private void btnNavModelConfig_Click(object sender, EventArgs e) => SwitchPage(pnlModelConfig);
         private void btnNavLogs_Click(object sender, EventArgs e) => SwitchPage(pnlLogs);
 
         private void SwitchPage(Panel targetPage)
@@ -122,6 +124,7 @@ namespace VM_project1
             pnlDashboard.Visible = false;
             pnlConfig.Visible = false;
             pnlLogs.Visible = false;
+            pnlModelConfig.Visible = false; // 隐藏建模配置页面
 
             targetPage.Visible = true;
             targetPage.BringToFront();
@@ -196,7 +199,7 @@ namespace VM_project1
                         var defaultModule = (VMControls.Interface.IVmModule)VmSolution.Instance["流程1.字符缺陷检测1"];
                         if (defaultModule != null)
                         {
-                            vmParamsConfigControl1.ModuleSource = defaultModule;
+                            // 删除了 vmParamsConfigControl1 的绑定
                             vmParamsConfigWithRenderControl1.ModuleSource = defaultModule;
                         }
                     }

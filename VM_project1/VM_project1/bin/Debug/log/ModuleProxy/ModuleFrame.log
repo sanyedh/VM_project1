@@ -50972,4 +50972,798 @@ Src var: module id=2, var name=InImagePixe
 
 2026-03-10 22:09:23.199 INFO  [19024] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/ShellModule/ShellModuleAlgorithm.xml
 
-2026-03-10 22:09:23.199 INFO  [19024] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not c
+2026-03-10 22:09:23.199 INFO  [19024] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not c2026-03-10 22:38:21.551 INFO  [27596] [VM_M_Initialize@70] [Init][Begin]SDK Version: win64 v5.0.0 build Jun  3 2025, 11:52:01
+
+2026-03-10 22:38:21.553 INFO  [27596] [VM_M_Initialize@72] [Init] Log Mode Async. Default history result count[40], History result count when loop[10000]
+
+2026-03-10 22:38:21.553 INFO  [27596] [VM_M_Initialize@77] [Init]LoadModuleData path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23932ImgSrcTemp]
+
+2026-03-10 22:38:21.553 INFO  [27596] [VM_M_Initialize@92] [Init]Set the module path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64
+
+2026-03-10 22:38:21.553 INFO  [27596] [VM_M_Initialize@105] [Init] CallbackMgr
+
+2026-03-10 22:38:21.553 INFO  [27596] [CShareMemoryResMgr::ReleaseMemoryRes@21] ReleaseMemoryRes start 
+
+2026-03-10 22:38:21.553 INFO  [27596] [VM_M_Initialize@113] [Init] ThreadPool
+
+2026-03-10 22:38:21.553 INFO  [27596] [CVmThreadPool::Init@27] Processor num is 12
+
+2026-03-10 22:38:21.556 INFO  [27596] [VM_M_Initialize@120] [Init] TopoDataMgr
+
+2026-03-10 22:38:21.556 INFO  [27596] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 1, procedure 10999, module -1, rstStatus 1, ret 0
+
+2026-03-10 22:38:21.556 INFO  [27596] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 1, module -1, rstStatus 0
+
+2026-03-10 22:38:21.556 INFO  [27596] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 1, procedure 10999, module -1, rstStatus 0,
+
+2026-03-10 22:38:21.556 INFO  [27596] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 1, procedure 100000, module -1, rstStatus 1, ret 0
+
+2026-03-10 22:38:21.556 INFO  [27596] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 1, module -1, rstStatus 0
+
+2026-03-10 22:38:21.556 INFO  [27596] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 1, procedure 100000, module -1, rstStatus 0,
+
+2026-03-10 22:38:21.556 INFO  [27596] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 1, procedure 150000, module -1, rstStatus 1, ret 0
+
+2026-03-10 22:38:21.557 INFO  [27596] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 1, module -1, rstStatus 0
+
+2026-03-10 22:38:21.557 INFO  [27596] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 1, procedure 150000, module -1, rstStatus 0,
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@127] [Init] ModuleRstCache
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@134] [Init] ModuleGlobalVarCache
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@141] [Init] UserInputCache
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@148] [Init] ModuleInputValueCache
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@155] [Init] ModuleLoader
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@162] [Init] SubscribeMappingMgr
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@169] [Init] ModuleStatusRecord
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@176] [Init] MemPoolForProcess
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@183] [Init] GetWatchSysInfo
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@191] [Init] FrameRuntimeInfo
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@198] [Init] ProcedureLinkage
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@205] [Init] ReentrantObjMgr
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@212] [Init] DelayQueue
+
+2026-03-10 22:38:21.557 INFO  [27596] [CModuleRstDispatcher::PromotePriority@408] Set thread[tid=34] sched param: policy=0, priority=15
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@235] [Init] Singleton
+
+2026-03-10 22:38:21.557 INFO  [27596] [CRunningPolicy::SetProcedureRunningPolicy@47] Running policy mode=1, ensure time stability is false
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@246] [Init]Module path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64, char set=1, version=12, preload=1
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_Initialize@247] [Init][End]Initialize finished, VmVersion=12
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_EnableSharedMemGlobalPrefix@2140] Shared memory global preifx is not enabled
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_EnableReentrant@2971] VM_M_EnableReentrant(enable=false)
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_EnableReentrant@2975] return code: 0x00000000
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetBufferNodeNum@3007] VM_M_SetBufferNodeNum(bufferNum=2)
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetBufferNodeNum@3011] return code: 0x00000000
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetUnsupportReentrantModules@2983] VM_M_SetUnsupportReentrantModules(pData=ImageSourceModule)
+
+2026-03-10 22:38:21.557 INFO  [27596] [CReentrantObjMgr::SetUnsupportReentrantModules@395] Unsupport reenrant module list, size=1:
+
+2026-03-10 22:38:21.557 INFO  [27596] [CReentrantObjMgr::SetUnsupportReentrantModules@398] [0]:ImageSourceModule
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetUnsupportReentrantModules@2987] return code: 0x00000000
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetReentrantMaxTimes@2995] VM_M_SetReentrantMaxTimes(nMaxTimes=5)
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetReentrantMaxTimes@2999] return code: 0x00000000
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_ForceDeepCopyImage@3076] VM_M_ForceDeepCopyImage(force=true)
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_ForceDeepCopyImage@3080] return code: 0x00000000
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_EnableProcedureCallbackAsync@3293] VM_M_EnableProcedureCallbackAsync false
+
+2026-03-10 22:38:21.557 INFO  [27596] [VM_M_SetExcludeModuleName@3088] SetExcludeModuleName ImageCollectModu
+
+2026-03-10 22:38:21.557 INFO  [27624] [CModulePathResolver::Init@28] CModulePathResolver Init Begin
+
+2026-03-10 22:38:21.557 INFO  [27628] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [1]
+
+2026-03-10 22:38:21.557 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Calculation/CalculatorModule/CalculatorModuleAlgorithm.xml
+
+2026-03-10 22:38:21.559 INFO  [27632] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [2]
+
+2026-03-10 22:38:21.559 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Calculation/IMVSSinglePointAlignModu/IMVSSinglePointAlignModuAlgorithm.xml
+
+2026-03-10 22:38:21.559 INFO  [27636] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [3]
+
+2026-03-10 22:38:21.559 INFO  [27640] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [4]
+
+2026-03-10 22:38:21.560 INFO  [27644] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [5]
+
+2026-03-10 22:38:21.560 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Collection/ImageBufferModule/ImageBufferModuleAlgorithm.xml
+
+2026-03-10 22:38:21.562 INFO  [26644] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [6]
+
+2026-03-10 22:38:21.562 INFO  [26664] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [7]
+
+2026-03-10 22:38:21.563 INFO  [21976] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [8]
+
+2026-03-10 22:38:21.565 INFO  [22684] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [9]
+
+2026-03-10 22:38:21.565 INFO  [5236] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [10]
+
+2026-03-10 22:38:21.565 INFO  [17252] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [11]
+
+2026-03-10 22:38:21.567 INFO  [3216] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [12]
+
+2026-03-10 22:38:21.568 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/DefectDetection/IMVSEdgeInspGroupModu/IMVSEdgeInspGroupModuAlgorithm.xml
+
+2026-03-10 22:38:21.568 INFO  [10368] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [13]
+
+2026-03-10 22:38:21.568 INFO  [22980] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [14]
+
+2026-03-10 22:38:21.570 INFO  [21744] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [15]
+
+2026-03-10 22:38:21.570 INFO  [7576] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [16]
+
+2026-03-10 22:38:21.571 INFO  [18044] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [1]
+
+2026-03-10 22:38:21.571 INFO  [22912] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [2]
+
+2026-03-10 22:38:21.571 INFO  [11180] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [3]
+
+2026-03-10 22:38:21.573 INFO  [21336] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [4]
+
+2026-03-10 22:38:21.573 INFO  [10700] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [5]
+
+2026-03-10 22:38:21.573 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/GlobalTriggerModule/GlobalTriggerModuleAlgorithm.xml
+
+2026-03-10 22:38:21.573 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/GlobalVariableModule/GlobalVariableModuleAlgorithm.xml
+
+2026-03-10 22:38:21.573 INFO  [25316] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [6]
+
+2026-03-10 22:38:21.574 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/LightControl/LightControlAlgorithm.xml
+
+2026-03-10 22:38:21.574 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/LocalVariableModule/LocalVariableModuleAlgorithm.xml
+
+2026-03-10 22:38:21.574 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/ProcedureComm/ProcedureCommAlgorithm.xml
+
+2026-03-10 22:38:21.574 ERROR [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@98] Open file 'F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/ProcedureModule/ProcedureModuleAlgorithm.xml' failed
+
+2026-03-10 22:38:21.574 ERROR [27624] [CModulePathResolver::TraverseSecDir@127] modulename[ProcedureModule] xmlfile[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/ProcedureModule/ProcedureModuleAlgorithm.xml] can not find
+
+2026-03-10 22:38:21.574 ERROR [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@98] Open file 'F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/SolutionModule/SolutionModuleAlgorithm.xml' failed
+
+2026-03-10 22:38:21.574 INFO  [6236] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [7]
+
+2026-03-10 22:38:21.574 ERROR [27624] [CModulePathResolver::TraverseSecDir@127] modulename[SolutionModule] xmlfile[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Global/SolutionModule/SolutionModuleAlgorithm.xml] can not find
+
+2026-03-10 22:38:21.574 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/ImageGeneration/GeometryCreate/GeometryCreateAlgorithm.xml
+
+2026-03-10 22:38:21.576 INFO  [21876] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [8]
+
+2026-03-10 22:38:21.576 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/ImageProcessing/IMVSImageCombineProcessModu/IMVSImageCombineProcessModuAlgorithm.xml
+
+2026-03-10 22:38:21.576 INFO  [23856] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [9]
+
+2026-03-10 22:38:21.577 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/ImageProcessing/IMVSImageFixtureModu/IMVSImageFixtureModuAlgorithm.xml
+
+2026-03-10 22:38:21.577 INFO  [24376] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [10]
+
+2026-03-10 22:38:21.579 INFO  [25204] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [11]
+
+2026-03-10 22:38:21.579 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Location/IMVSAngleBisectorFindModu/IMVSAngleBisectorFindModuAlgorithm.xml
+
+2026-03-10 22:38:21.579 INFO  [6848] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [12]
+
+2026-03-10 22:38:21.579 INFO  [9136] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [17]
+
+2026-03-10 22:38:21.579 INFO  [6640] [CConcurrentThreadPoolImpl::IncWorkNum@220] [ThreadPool] Thread start,curNum = [18]
+
+2026-03-10 22:38:21.579 INFO  [22888] [DispatchThread@16] Module result dispatcher, tid=34
+
+2026-03-10 22:38:21.582 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Location/IMVSMedianLineFindModu/IMVSMedianLineFindModuAlgorithm.xml
+
+2026-03-10 22:38:21.582 ERROR [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@98] Open file 'F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Location/IMVSStringLocationModu/IMVSStringLocationModuAlgorithm.xml' failed
+
+2026-03-10 22:38:21.582 ERROR [27624] [CModulePathResolver::TraverseSecDir@127] modulename[IMVSStringLocationModu] xmlfile[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Location/IMVSStringLocationModu/IMVSStringLocationModuAlgorithm.xml] can not find
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/DataClassificationModule/DataClassificationModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/DataFilterModule/DataFilterModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/DataRecordModule/DataRecordModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/DataSetModule/DataSetModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/DataSortModule/DataSortModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/FormatModule/FormatModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/GraphicsSetModule/GraphicsSetModuleAlgorithm.xml
+
+2026-03-10 22:38:21.584 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/IfBranchModule/IfBranchModuleAlgorithm.xml
+
+2026-03-10 22:38:21.585 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/PyShellModule/PyShellModuleAlgorithm.xml
+
+2026-03-10 22:38:21.585 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/ShellModule/ShellModuleAlgorithm.xml
+
+2026-03-10 22:38:21.585 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/Logic/TimeStatisticModule/TimeStatisticModuleAlgorithm.xml
+
+2026-03-10 22:38:21.590 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/SplitCombination/IMVSBoxOverlapCalculationModu/IMVSBoxOverlapCalculationModuAlgorithm.xml
+
+2026-03-10 22:38:21.590 INFO  [27624] [CQueryConfigParam::QueryAlgorithmDefaultConfig@123] This file does not contain any param item element, file=F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64\..\..\Module(sp)\x64/SplitCombination/IMVSMultiLabelFilterModu/IMVSMultiLabelFilterModuAlgorithm.xml
+
+2026-03-10 22:38:21.590 INFO  [27624] [CModulePathResolver::Init@40] CModulePathResolver Init End
+
+2026-03-10 22:38:22.821 INFO  [9284] [VM_M_SetCurrentGpuDevices@3279] VM_M_SetCurrentGpuDevices 0 NVIDIA GeForce RTX 3060 Laptop GPU (6G)
+
+2026-03-10 22:38:22.821 INFO  [9284] [VM_M_SetCurrentGpuDevices@3287] return, count = 1
+
+2026-03-10 22:38:34.277 INFO  [27600] [VM_M_AsyncCloseSolution@1281] VM_M_AsyncCloseSolution()
+
+2026-03-10 22:38:34.277 INFO  [27600] [VM_M_AsyncCloseSolution@1287] return code: 0x00000000
+
+2026-03-10 22:38:34.277 INFO  [27628] [CControlDelegate::CloseSolution@1979] Close solution begin
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedure::WaitDoWorkFinish@134] Procedure 10999 work finish
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedure::WaitDoWorkFinish@134] Procedure 100000 work finish
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedure::WaitDoWorkFinish@134] Procedure 150000 work finish
+
+2026-03-10 22:38:34.858 INFO  [27628] [CTopoDataMgr::CleanUp@304] Delete procedure [10999]
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 4, module -1, rstStatus 4, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 4, procedure 10999, module -1, rstStatus 4, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedure::WaitDoWorkFinish@134] Procedure 10999 work finish
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 4, procedure 10999, module -1, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [27628] [CTopoDataMgr::CleanUp@304] Delete procedure [100000]
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 4, module -1, rstStatus 4, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 4, procedure 100000, module -1, rstStatus 4, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedure::WaitDoWorkFinish@134] Procedure 100000 work finish
+
+2026-03-10 22:38:34.858 INFO  [27628] [CConcurrentThreadPoolImpl::ShutDown@116] [ThreadPool] thread shutdown Start
+
+2026-03-10 22:38:34.858 INFO  [27628] [CConcurrentThreadPoolImpl::ShutDown@170] [ThreadPool] thread shutdown End
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 4, procedure 100000, module -1, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [27628] [CRunningPolicy::SetProcedureRunningPolicy@47] Running policy mode=1, ensure time stability is false
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 1, procedure 10999, module -1, rstStatus 1, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 1, module -1, rstStatus 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 1, procedure 10999, module -1, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 1, procedure 100000, module -1, rstStatus 1, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 1, module -1, rstStatus 0
+
+2026-03-10 22:38:34.858 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 1, procedure 100000, module -1, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [27628] [CControlDelegate::CloseSolution@2034] Close solution finished
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_SetLoadSolutionState@1295] VM_M_SetLoadSolutionState(nLoadState=1)
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_SetLoadSolutionState@1299] return code: 0x00000000
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_CreateProcedure@303] VM_M_CreateProcedure(Id=10000, name=流程1)
+
+2026-03-10 22:38:34.858 INFO  [27600] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 1, procedure 10000, module -1, rstStatus 1, ret 0
+
+2026-03-10 22:38:34.858 INFO  [27600] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 1, module -1, rstStatus 0
+
+2026-03-10 22:38:34.858 INFO  [27600] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 1, procedure 10000, module -1, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_CreateProcedure@306] return code: 0x00000000
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_UpdateProcedure@321] VM_M_UpdateProcedure(Id=10000, name=流程1, exclude=0)
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_UpdateProcedure@326] return code: 0x00000000
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_SetProcedureRunningParam@1048] VM_M_SetProcedureRunningParam(procedureId=10000, running interval=100, stopWhenNG=0, waitTime=0, flag=0x00000000)
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_SetProcedureRunningParam@1054] return code: 0x00000000
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@660] VM_M_BatchAddModuleNodeEx(nArrySize=5)
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@662] Module nodes details:
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@668] [0] -> (10000, 0, ImageSourceModule, 图像源1), enable=1, upload=1
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@668] [1] -> (10000, 1, IMVSColorTransformModu, 颜色转换1), enable=1, upload=1
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@668] [2] -> (10000, 2, IMVSMarkInspModuVA, 字符缺陷检测1), enable=1, upload=1
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@668] [3] -> (10000, 3, FormatModule, 格式化1), enable=1, upload=1
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@668] [4] -> (10999, 26000, ProcedureComm, 流程通信), enable=1, upload=1
+
+2026-03-10 22:38:34.858 INFO  [27600] [VM_M_BatchAddModuleNodeEx@673] return code: 0x00000000
+
+2026-03-10 22:38:34.858 INFO  [18044] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 100, module 0, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [18044] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 100, procedure 10000, module 0, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [21336] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 100, module 1, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [21336] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 100, procedure 10000, module 1, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [18044] [CModuleLoader::Load@30] Load module[0, ImageSourceModule, 图像源1] begin
+
+2026-03-10 22:38:34.858 INFO  [10700] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 100, module 2, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [10700] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 100, procedure 10000, module 2, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [21336] [CModuleLoader::Load@30] Load module[1, IMVSColorTransformModu, 颜色转换1] begin
+
+2026-03-10 22:38:34.858 INFO  [10700] [CModuleLoader::Load@30] Load module[2, IMVSMarkInspModuVA, 字符缺陷检测1] begin
+
+2026-03-10 22:38:34.858 INFO  [11180] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 100, module 26000, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [11180] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 100, procedure 10999, module 26000, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [22912] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 100, module 3, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [22912] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 100, procedure 10000, module 3, rstStatus 100, ret 0
+
+2026-03-10 22:38:34.858 INFO  [11180] [CModuleLoader::Load@30] Load module[26000, ProcedureComm, 流程通信] begin
+
+2026-03-10 22:38:34.858 INFO  [22912] [CModuleLoader::Load@30] Load module[3, FormatModule, 格式化1] begin
+
+2026-03-10 22:38:34.858 INFO  [18044] [VM_M_GetBufferNodeNum@3021] VM_M_GetBufferNodeNum value = 2, return code: 0x00000000
+
+2026-03-10 22:38:34.858 INFO  [11180] [CModuleLoader::Load@227] Add module[26000, ProcedureComm] elapsed time, load library: 0.010ms, create module: 0.009ms
+
+2026-03-10 22:38:34.858 INFO  [11180] [CModuleLoader::Load@230] Load module[26000, ProcedureComm] finish, error code=0x00000000
+
+2026-03-10 22:38:34.858 INFO  [11180] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 100, module 26000, rstStatus 0
+
+2026-03-10 22:38:34.858 INFO  [11180] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 100, procedure 10999, module 26000, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [22912] [CModuleLoader::Load@227] Add module[3, FormatModule] elapsed time, load library: 0.010ms, create module: 0.035ms
+
+2026-03-10 22:38:34.858 INFO  [22912] [CModuleLoader::Load@230] Load module[3, FormatModule] finish, error code=0x00000000
+
+2026-03-10 22:38:34.858 INFO  [22912] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 100, procedure 10000, module 3, rstStatus 0,
+
+2026-03-10 22:38:34.858 INFO  [18044] [VM_M_GetBufferNodeNum@3021] VM_M_GetBufferNodeNum value = 2, return code: 0x00000000
+
+2026-03-10 22:38:34.860 INFO  [18044] [VM_M_GetBufferNodeNum@3021] VM_M_GetBufferNodeNum value = 2, return code: 0x00000000
+
+2026-03-10 22:38:34.860 INFO  [18044] [VM_M_GetBufferNodeNum@3021] VM_M_GetBufferNodeNum value = 2, return code: 0x00000000
+
+2026-03-10 22:38:34.860 INFO  [18044] [CUserModuleDelegate::SetNotifyEventCallBack@2744] Module 0 set notify event callback
+
+2026-03-10 22:38:34.860 INFO  [18044] [CModuleLoader::Load@227] Add module[0, ImageSourceModule] elapsed time, load library: 0.009ms, create module: 0.674ms
+
+2026-03-10 22:38:34.860 INFO  [18044] [CModuleLoader::Load@230] Load module[0, ImageSourceModule] finish, error code=0x00000000
+
+2026-03-10 22:38:34.860 INFO  [18044] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 100, procedure 10000, module 0, rstStatus 0,
+
+2026-03-10 22:38:34.860 INFO  [21336] [VM_M_GetBufferNodeNum@3021] VM_M_GetBufferNodeNum value = 2, return code: 0x00000000
+
+2026-03-10 22:38:34.860 INFO  [21336] [CModuleLoader::Load@227] Add module[1, IMVSColorTransformModu] elapsed time, load library: 0.008ms, create module: 2.078ms
+
+2026-03-10 22:38:34.860 INFO  [21336] [CModuleLoader::Load@230] Load module[1, IMVSColorTransformModu] finish, error code=0x00000000
+
+2026-03-10 22:38:34.861 INFO  [21336] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 100, procedure 10000, module 1, rstStatus 0,
+
+2026-03-10 22:38:34.869 INFO  [10700] [VM_M_GetBufferNodeNum@3021] VM_M_GetBufferNodeNum value = 2, return code: 0x00000000
+
+2026-03-10 22:38:34.869 INFO  [10700] [CModuleLoader::Load@227] Add module[2, IMVSMarkInspModuVA] elapsed time, load library: 0.007ms, create module: 10.986ms
+
+2026-03-10 22:38:34.869 INFO  [10700] [CModuleLoader::Load@230] Load module[2, IMVSMarkInspModuVA] finish, error code=0x00000000
+
+2026-03-10 22:38:34.869 INFO  [10700] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 100, module 2, rstStatus 0
+
+2026-03-10 22:38:34.869 INFO  [10700] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 100, procedure 10000, module 2, rstStatus 0,
+
+2026-03-10 22:38:34.869 INFO  [27632] [CTopoDataMgr::BatchAddModuleParallel@2790] Event callback, batch adding module finished, error code: 0x00000000
+
+2026-03-10 22:38:34.869 INFO  [27632] [CTopoDataMgr::AsyncBatchAddModule@2518] [time]Batch add module used 11.563 ms, method is: Parallel
+
+2026-03-10 22:38:34.869 INFO  [27600] [VM_M_RelateModules@3112] Relate module 26000 with 10000, type = 2
+
+2026-03-10 22:38:34.869 INFO  [27600] [VM_M_RelateModules@3114] return code = 0
+
+2026-03-10 22:38:35.055 INFO  [27600] [VM_M_LoadSolutionFromFile@1216] VM_M_LoadSolutionFromFile(filePath={
+    "dataAddr": 2986155986448,
+    "dataLen": 0,
+    "attachmentDir": "F:\\c_program\\VM\\VM_project1\\VM_project1\\bin\\Debug\\ImageTemp\\VM23932ImgSrcTemp",
+    "globalDataAddr": 0,
+    "globalDataLen": 0,
+    "solConfigDataAddr": 0,
+    "solConfigDataLen": 0
+})
+
+2026-03-10 22:38:35.055 INFO  [27600] [VM_M_LoadSolutionFromFile@1225] solution file path: {
+    "dataAddr": 2986155986448,
+    "dataLen": 0,
+    "attachmentDir": "F:\\c_program\\VM\\VM_project1\\VM_project1\\bin\\Debug\\ImageTemp\\VM23932ImgSrcTemp",
+    "globalDataAddr": 0,
+    "globalDataLen": 0,
+    "solConfigDataAddr": 0,
+    "solConfigDataLen": 0
+}, attachments dir: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23932ImgSrcTemp
+
+2026-03-10 22:38:35.055 INFO  [27600] [VM_M_LoadSolutionFromFile@1235] return code: 0x00000000
+
+2026-03-10 22:38:35.055 INFO  [27628] [CControlDelegate::AsyncLoadSolutionFromFile@2055] [Load Solution][Async Begin]
+
+2026-03-10 22:38:35.055 INFO  [27628] [CControlDelegate::ParseFrameDataFromAddrStr@3993] After parse, dataAddr=0x2b744c44e10, dataLen=0
+
+2026-03-10 22:38:35.055 INFO  [27628] [CControlDelegate::ParseFrameDataFromAddrStr@4005] After parse, global var dataAddr=0x0, dataLen=0
+
+2026-03-10 22:38:35.055 INFO  [27628] [CControlDelegate::ParseFrameDataFromAddrStr@4023] After parse, solution config dataAddr=0x0, dataLen=0
+
+2026-03-10 22:38:35.055 INFO  [27628] [CControlDelegate::ParseFrameDataFromAddrStr@4077] [time] Parse module data used 0.020ms
+
+2026-03-10 22:38:35.055 INFO  [27628] [CControlDelegate::AsyncLoadSolutionFromFile@2173] [Load Solution] Load module data
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::PrepareModuleData@4136] Start FormatCompatibleDataFileName 
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::PrepareModuleData@4138] End FormatCompatibleDataFileName 0-ImageSourceModule.mdata
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::PrepareModuleData@4144] [Module(0, ImageSourceModule, 图像源1)]:  Load module data, file path=0-ImageSourceModule.mdata
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::PrepareModuleData@4147] End ReadModuleDataFromCache 
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::LoadModuleData@2785] [Module(0, ImageSourceModule, 图像源1)]:  LoadModuleData begin
+
+2026-03-10 22:38:35.057 ERROR [18044] [CControlDelegate::SetBinaryData@879] Did not find the module node, moduleId=-1
+
+2026-03-10 22:38:35.057 INFO  [21336] [CControlDelegate::PrepareModuleData@4136] Start FormatCompatibleDataFileName 
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::PrepareModuleData@4136] Start FormatCompatibleDataFileName 
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::PrepareModuleData@4138] End FormatCompatibleDataFileName 26000-ProcedureComm.mdata
+
+2026-03-10 22:38:35.057 INFO  [21336] [CControlDelegate::PrepareModuleData@4138] End FormatCompatibleDataFileName 2-IMVSMarkInspModuVA.mdata
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::PrepareModuleData@4144] [Module(26000, ProcedureComm, 流程通信)]:  Load module data, file path=26000-ProcedureComm.mdata
+
+2026-03-10 22:38:35.057 INFO  [21336] [CControlDelegate::PrepareModuleData@4144] [Module(2, IMVSMarkInspModuVA, 字符缺陷检测1)]:  Load module data, file path=2-IMVSMarkInspModuVA.mdata
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::PrepareModuleData@4147] End ReadModuleDataFromCache 
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::LoadModuleData@2785] [Module(26000, ProcedureComm, 流程通信)]:  LoadModuleData begin
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::LoadModuleData@2789] [Module(26000, ProcedureComm, 流程通信)]:  LoadModuleData used 0.024ms
+
+2026-03-10 22:38:35.057 INFO  [10700] [CControlDelegate::LoadModuleData@2831] [Module(26000, ProcedureComm, 流程通信)]:  Load module data finished, error code=[frame=0x00000000, module=0x00000000]
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::PrepareModuleData@4136] Start FormatCompatibleDataFileName 
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::PrepareModuleData@4136] Start FormatCompatibleDataFileName 
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::PrepareModuleData@4138] End FormatCompatibleDataFileName 3-FormatModule.mdata
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::PrepareModuleData@4144] [Module(3, FormatModule, 格式化1)]:  Load module data, file path=3-FormatModule.mdata
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::PrepareModuleData@4138] End FormatCompatibleDataFileName 1-IMVSColorTransformModu.mdata
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::PrepareModuleData@4144] [Module(1, IMVSColorTransformModu, 颜色转换1)]:  Load module data, file path=1-IMVSColorTransformModu.mdata
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::PrepareModuleData@4147] End ReadModuleDataFromCache 
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::LoadModuleData@2785] [Module(3, FormatModule, 格式化1)]:  LoadModuleData begin
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::PrepareModuleData@4147] End ReadModuleDataFromCache 
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::LoadModuleData@2785] [Module(1, IMVSColorTransformModu, 颜色转换1)]:  LoadModuleData begin
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::LoadModuleData@2789] [Module(0, ImageSourceModule, 图像源1)]:  LoadModuleData used 0.330ms
+
+2026-03-10 22:38:35.057 INFO  [18044] [CControlDelegate::LoadModuleData@2831] [Module(0, ImageSourceModule, 图像源1)]:  Load module data finished, error code=[frame=0x00000000, module=0x00000000]
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::LoadModuleData@2789] [Module(1, IMVSColorTransformModu, 颜色转换1)]:  LoadModuleData used 0.316ms
+
+2026-03-10 22:38:35.057 INFO  [11180] [CControlDelegate::LoadModuleData@2831] [Module(1, IMVSColorTransformModu, 颜色转换1)]:  Load module data finished, error code=[frame=0x00000000, module=0x00000000]
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::LoadModuleData@2789] [Module(3, FormatModule, 格式化1)]:  LoadModuleData used 0.404ms
+
+2026-03-10 22:38:35.057 INFO  [22912] [CControlDelegate::LoadModuleData@2831] [Module(3, FormatModule, 格式化1)]:  Load module data finished, error code=[frame=0x00000000, module=0x00000000]
+
+2026-03-10 22:38:35.109 INFO  [21336] [CControlDelegate::PrepareModuleData@4147] End ReadModuleDataFromCache 
+
+2026-03-10 22:38:35.109 INFO  [21336] [CControlDelegate::LoadModuleData@2785] [Module(2, IMVSMarkInspModuVA, 字符缺陷检测1)]:  LoadModuleData begin
+
+2026-03-10 22:38:35.181 INFO  [21336] [CControlDelegate::LoadModuleData@2789] [Module(2, IMVSMarkInspModuVA, 字符缺陷检测1)]:  LoadModuleData used 71.952ms
+
+2026-03-10 22:38:35.192 INFO  [21336] [CControlDelegate::LoadModuleData@2831] [Module(2, IMVSMarkInspModuVA, 字符缺陷检测1)]:  Load module data finished, error code=[frame=0x00000000, module=0x00000000]
+
+2026-03-10 22:38:35.202 INFO  [27628] [CControlDelegate::AsyncLoadSolutionFromFile@2239] [Load Solution] Loading solution data used 146.187 ms
+
+2026-03-10 22:38:35.202 INFO  [27628] [CRunningPolicy::SetProcedureRunningPolicy@47] Running policy mode=1, ensure time stability is false
+
+2026-03-10 22:38:35.202 INFO  [27628] [CRunningPolicy::SetProcedureRunningPolicy@47] Running policy mode=1, ensure time stability is false
+
+2026-03-10 22:38:35.202 INFO  [27628] [CRunningPolicy::ReadPolicyInfoFromMem@309] Procedure running policy -->
+high speed
+
+
+2026-03-10 22:38:35.202 INFO  [27628] [CControlDelegate::LoadRunningPolicyFromMem@6220]  Running policy data len=16
+
+2026-03-10 22:38:35.202 INFO  [27628] [CGlobalVarBindingMgr::ReadBindingInfoFromMem@487] there contains 0 module's binding info
+
+2026-03-10 22:38:35.202 INFO  [27628] [CControlDelegate::LoadGlobalVarBindingFromMem@6328]  Global var binding data len=8
+
+2026-03-10 22:38:35.202 INFO  [27628] [CModuleParamBindingMgr::ImportBindingData@763] Import param binding, version = 1
+
+2026-03-10 22:38:35.202 INFO  [27628] [CControlDelegate::LoadModuleParamBindingDataFromMem@8092]  Module param binding data len=2
+
+2026-03-10 22:38:35.202 INFO  [27628] [CControlDelegate::AsyncLoadSolutionFromFile@2283] [Load Solution][Async End] Loading solution data finished, error code=0x00000000
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_ConnectModule@763] VM_M_ConnectModule(srcId=0, dstId=1)
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_ConnectModule@783] return code: 0x00000000
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_ConnectModule@763] VM_M_ConnectModule(srcId=1, dstId=2)
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_ConnectModule@783] return code: 0x00000000
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_ConnectModule@763] VM_M_ConnectModule(srcId=2, dstId=3)
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_ConnectModule@783] return code: 0x00000000
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_SubScribeV2@870] Subscribe detail: number=32
+Index:0
+Src var: module id=1, var name=InImage
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=0, var name=ImageIndex:1
+Src var: module id=1, var name=InImageWidth
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=0, var name=WidthIndex:2
+Src var: module id=1, var name=InImageHeight
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=0, var name=HeightIndex:3
+Src var: module id=1, var name=InImagePixelFormat
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=0, var name=PixelFormatIndex:4
+Src var: module id=2, var name=InImage
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=1, var name=OutImageIndex:5
+Src var: module id=2, var name=InImageWidth
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=1, var name=OutImageWidthIndex:6
+Src var: module id=2, var name=InImageHeight
+Dst Var: expression = {0}[]
+variable value: 
+[0] module id=1, var name=OutImageHeightIndex:7
+Src var: module id=2, var name=InImagePixe
+
+2026-03-10 22:38:35.202 INFO  [27600] [VM_M_SubScribeV2@893] return code: 0x00000000
+
+2026-03-10 22:38:35.204 INFO  [27600] [VM_M_SetLoadSolutionState@1295] VM_M_SetLoadSolutionState(nLoadState=0)
+
+2026-03-10 22:38:35.204 INFO  [27600] [VM_M_SetLoadSolutionState@1299] return code: 0x00000000
+
+2026-03-10 22:38:35.207 INFO  [27600] [VM_M_GetProcedureRunningParam@1067] VM_M_GetProcedureRunningParam(procedureId=10000)
+
+2026-03-10 22:38:35.207 INFO  [27600] [VM_M_GetProcedureRunningParam@1074] running interval=100, running continuously=0, stopWhenNG=0, waitTime=0, flag=0x00000000
+
+2026-03-10 22:38:35.207 INFO  [27600] [VM_M_GetProcedureRunningParam@1076] return code: 0x00000000
+
+2026-03-10 22:38:35.425 INFO  [3960] [VM_M_NotifyEvent@2148] Notify event type=1
+
+2026-03-10 22:38:35.771 ERROR [3960] [CProcedure::GetDynamincIOData@1402] Insufficient buffer length for output data, require 6628 bytes
+
+2026-03-10 22:38:36.374 INFO  [3960] [CModuleParamBindingMgr::GetModuleParamBindingListV2@233] None binding record found for module 2
+
+2026-03-10 22:38:36.374 INFO  [3960] [VM_M_GetModuleParamBindingListV2@2814] Return count: 0, total count:0
+
+2026-03-10 22:38:36.374 INFO  [3960] [VM_M_GetModuleParamBindingListV2@2815] VM_M_GetModuleParamBindingList(nModuleId=2, nIndex=0, nArrySize=100) return code: 0x00000000
+
+2026-03-10 22:38:36.526 INFO  [3960] [CModuleParamBindingMgr::GetModuleParamBindingListV2@233] None binding record found for module 2
+
+2026-03-10 22:38:36.526 INFO  [3960] [VM_M_GetModuleParamBindingListV2@2814] Return count: 0, total count:0
+
+2026-03-10 22:38:36.526 INFO  [3960] [VM_M_GetModuleParamBindingListV2@2815] VM_M_GetModuleParamBindingList(nModuleId=2, nIndex=0, nArrySize=100) return code: 0x00000000
+
+2026-03-10 22:39:01.131 INFO  [26696] [VM_M_GetProcedureRunningParam@1067] VM_M_GetProcedureRunningParam(procedureId=10000)
+
+2026-03-10 22:39:01.131 INFO  [26696] [VM_M_GetProcedureRunningParam@1074] running interval=100, running continuously=0, stopWhenNG=0, waitTime=0, flag=0x00000000
+
+2026-03-10 22:39:01.131 INFO  [26696] [VM_M_GetProcedureRunningParam@1076] return code: 0x00000000
+
+2026-03-10 22:39:01.133 INFO  [26696] [VM_M_RunProcedureOnce@950] [Run once]VM_M_RunProcedureOnce(procedureId=10999, triggerCmd=)
+
+2026-03-10 22:39:01.133 INFO  [26696] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 2, module -1, rstStatus 2, ret 0
+
+2026-03-10 22:39:01.133 INFO  [26696] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 2, procedure 10000, module -1, rstStatus 2, ret 0
+
+2026-03-10 22:39:01.133 INFO  [26696] [CTopoDataMgr::UpdateLoopTopology@1064] Loop list for updating, number=0
+
+2026-03-10 22:39:01.133 INFO  [27628] [CProcedure::DoWork@366] [Run][Begin] Procedure[10000], Continuously[0], ReportModuleJudgmentError[0]
+
+2026-03-10 22:39:01.133 INFO  [26696] [VM_M_RunProcedureOnce@956] return code: 0x00000000
+
+2026-03-10 22:39:01.133 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=busy, time=0.000, stopAction=0, executeCount=1, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:01.143 WARN  [22888] [CModuleRstDispatcher::ReportProcedureStatus@631] [Timeout] Report procedure[10000] status[2] consum 9.312500
+
+2026-03-10 22:39:01.511 WARN  [22888] [CModuleRstDispatcher::ReportPbResult@505] [TimeOut] Call result callback, used time 12.635
+
+2026-03-10 22:39:01.511 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=0-1;
+
+2026-03-10 22:39:01.517 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=1-1;
+
+2026-03-10 22:39:01.821 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=2-1;
+
+2026-03-10 22:39:01.821 ERROR [22888] [CControlDelegate::GetBinaryData@969] Insufficient buffer size, input length = 1, required length=2886
+
+2026-03-10 22:39:01.821 INFO  [27628] [CModuleRstDispatcher::PrintReportingStatus@914] Reporting, singnal count is 3, task type is 3, module is 3, procedure is 10000
+
+2026-03-10 22:39:01.823 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=3-1;
+
+2026-03-10 22:39:01.823 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=10000-1;
+
+2026-03-10 22:39:01.823 INFO  [27628] [CProcedure::ReportModuleState@865] Proceudre[10000] report module state 4
+
+2026-03-10 22:39:01.828 INFO  [27628] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 2, module -1, rstStatus 0
+
+2026-03-10 22:39:01.828 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 2, procedure 10000, module -1, rstStatus 0,
+
+2026-03-10 22:39:01.828 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=free, time=687.750, stopAction=0, executeCount=1, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:01.829 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=stopped, time=0.000, stopAction=1, executeCount=1, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:01.834 INFO  [27628] [CProcedure::DoWork@525] [Run][End] Procedure[10000]
+
+2026-03-10 22:39:01.834 INFO  [27628] [CControlDelegate::DecrementProcedureCount@8470] [report] all procedure finish
+
+2026-03-10 22:39:01.834 INFO  [27628] [CControlDelegate::DecrementProcedureCount@8472] all procedure finish
+
+2026-03-10 22:39:01.837 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=10000, index=0, requestNum=1)
+
+2026-03-10 22:39:01.837 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:01.841 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=2, index=0, requestNum=1)
+
+2026-03-10 22:39:01.841 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:01.864 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=2, index=0, requestNum=1)
+
+2026-03-10 22:39:01.864 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:01.875 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=2, index=0, requestNum=1)
+
+2026-03-10 22:39:01.875 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:05.197 INFO  [26696] [VM_M_GetProcedureRunningParam@1067] VM_M_GetProcedureRunningParam(procedureId=10000)
+
+2026-03-10 22:39:05.197 INFO  [26696] [VM_M_GetProcedureRunningParam@1074] running interval=100, running continuously=0, stopWhenNG=0, waitTime=0, flag=0x00000000
+
+2026-03-10 22:39:05.197 INFO  [26696] [VM_M_GetProcedureRunningParam@1076] return code: 0x00000000
+
+2026-03-10 22:39:05.197 INFO  [26696] [VM_M_RunProcedureOnce@950] [Run once]VM_M_RunProcedureOnce(procedureId=10999, triggerCmd=)
+
+2026-03-10 22:39:05.197 INFO  [26696] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 2, module -1, rstStatus 2, ret 0
+
+2026-03-10 22:39:05.197 INFO  [26696] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 2, procedure 10000, module -1, rstStatus 2, ret 0
+
+2026-03-10 22:39:05.197 INFO  [26696] [VM_M_RunProcedureOnce@956] return code: 0x00000000
+
+2026-03-10 22:39:05.197 INFO  [27628] [CProcedure::DoWork@366] [Run][Begin] Procedure[10000], Continuously[0], ReportModuleJudgmentError[0]
+
+2026-03-10 22:39:05.197 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=busy, time=0.000, stopAction=0, executeCount=2, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:05.525 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=0-2;
+
+2026-03-10 22:39:05.538 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=1-2;
+
+2026-03-10 22:39:05.621 ERROR [18044] [CModuleNode::DoWork@135] module process failed,module id=2, nProcessRstCode[e000032b]
+
+2026-03-10 22:39:05.621 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=2-2;
+
+2026-03-10 22:39:05.623 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=3-2;
+
+2026-03-10 22:39:05.624 ERROR [27628] [CUserModuleDelegate::GetImageImpl@5229] Module[10000] get output[2,FlawImage,0] fail, error code = e0000314
+
+2026-03-10 22:39:05.624 ERROR [27628] [CRPNHelper::GetExpressionValue@912] Get value fail, stack size 0, nRet e0000314
+
+2026-03-10 22:39:05.624 ERROR [27628] [CRPNHelper::GetExpressionValue@912] Get value fail, stack size 0, nRet e0000314
+
+2026-03-10 22:39:05.624 ERROR [27628] [CRPNHelper::GetExpressionValue@912] Get value fail, stack size 0, nRet e0000314
+
+2026-03-10 22:39:05.624 ERROR [27628] [CRPNHelper::GetExpressionValue@912] Get value fail, stack size 0, nRet e0000314
+
+2026-03-10 22:39:05.624 INFO  [27628] [CModuleRstDispatcher::PrintReportingStatus@914] Reporting, singnal count is 2, task type is 0, module is -1, procedure is 0
+
+2026-03-10 22:39:05.624 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=10000-2;
+
+2026-03-10 22:39:05.624 INFO  [27628] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 2, module -1, rstStatus 0
+
+2026-03-10 22:39:05.624 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 2, procedure 10000, module -1, rstStatus 0,
+
+2026-03-10 22:39:05.624 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=free, time=425.169, stopAction=0, executeCount=2, cache=0, status=0, triggerCmd=
+
+2026-03-10 22:39:05.624 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=stopped, time=0.000, stopAction=1, executeCount=2, cache=0, status=0, triggerCmd=
+
+2026-03-10 22:39:05.626 INFO  [27628] [CProcedure::DoWork@525] [Run][End] Procedure[10000]
+
+2026-03-10 22:39:05.626 INFO  [27628] [CControlDelegate::DecrementProcedureCount@8470] [report] all procedure finish
+
+2026-03-10 22:39:05.626 INFO  [27628] [CControlDelegate::DecrementProcedureCount@8472] all procedure finish
+
+2026-03-10 22:39:05.627 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=10000, index=0, requestNum=1)
+
+2026-03-10 22:39:05.627 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:09.088 INFO  [26696] [VM_M_GetProcedureRunningParam@1067] VM_M_GetProcedureRunningParam(procedureId=10000)
+
+2026-03-10 22:39:09.088 INFO  [26696] [VM_M_GetProcedureRunningParam@1074] running interval=100, running continuously=0, stopWhenNG=0, waitTime=0, flag=0x00000000
+
+2026-03-10 22:39:09.088 INFO  [26696] [VM_M_GetProcedureRunningParam@1076] return code: 0x00000000
+
+2026-03-10 22:39:09.088 INFO  [26696] [VM_M_RunProcedureOnce@950] [Run once]VM_M_RunProcedureOnce(procedureId=10999, triggerCmd=)
+
+2026-03-10 22:39:09.088 INFO  [26696] [CProcedureStatusBlock::SetStatus@197] [Status Control Block] SetStatus 2, module -1, rstStatus 2, ret 0
+
+2026-03-10 22:39:09.088 INFO  [26696] [CSolStatusBlock::SetStatus@71] [Status Control Block] SetStatus 2, procedure 10000, module -1, rstStatus 2, ret 0
+
+2026-03-10 22:39:09.088 INFO  [26696] [VM_M_RunProcedureOnce@956] return code: 0x00000000
+
+2026-03-10 22:39:09.088 INFO  [27628] [CProcedure::DoWork@366] [Run][Begin] Procedure[10000], Continuously[0], ReportModuleJudgmentError[0]
+
+2026-03-10 22:39:09.088 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=busy, time=0.000, stopAction=0, executeCount=3, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:09.424 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=0-3;
+
+2026-03-10 22:39:09.430 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=1-3;
+
+2026-03-10 22:39:09.639 INFO  [27628] [CModuleRstDispatcher::PrintReportingStatus@914] Reporting, singnal count is 4, task type is 3, module is 2, procedure is 10000
+
+2026-03-10 22:39:09.639 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=2-3;
+
+2026-03-10 22:39:09.639 INFO  [22888] [CModuleRstDispatcher::ReportModuleResult@700] Report result finish, module id=3-3;
+
+2026-03-10 22:39:09.639 INFO  [27628] [CProcedureStatusBlock::CancelStatus@232] [Status Control Block] CancelStatus 2, module -1, rstStatus 0
+
+2026-03-10 22:39:09.639 INFO  [27628] [CSolStatusBlock::CancelStatus@105] [Status Control Block] CancelStatus 2, procedure 10000, module -1, rstStatus 0,
+
+2026-03-10 22:39:09.639 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=free, time=551.034, stopAction=0, executeCount=3, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:09.639 INFO  [27628] [CProcedure::ReportProcedureStatus@625] Report procedure status, id=10000, status=stopped, time=0.000, stopAction=1, executeCount=3, cache=0, status=1, triggerCmd=
+
+2026-03-10 22:39:09.639 INFO  [27628] [CProcedure::DoWork@525] [Run][End] Procedure[10000]
+
+2026-03-10 22:39:09.639 INFO  [27628] [CControlDelegate::DecrementProcedureCount@8470] [report] all procedure finish
+
+2026-03-10 22:39:09.639 INFO  [27628] [CControlDelegate::DecrementProcedureCount@8472] all procedure finish
+
+2026-03-10 22:39:09.641 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=10000, index=0, requestNum=1)
+
+2026-03-10 22:39:09.641 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:09.641 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2572] VM_M_QueryModuleHistoryResult(nModuleId=2, index=0, requestNum=1)
+
+2026-03-10 22:39:09.641 INFO  [3960] [VM_M_QueryModuleHistoryResultEx@2576] return code: 0x00000000
+
+2026-03-10 22:39:09.652 INFO  [3

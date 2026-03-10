@@ -1636,3 +1636,29 @@
 
 2026-03-10 22:07:37.099 INFO  [8632] [CMemPool::InitMemPool@88] index i[6]---size[2097152]
 
+2026-03-10 22:38:21.430 INFO  [3960] [CCommFactory::InitLog@123] set log---pLogPath[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log\SDK],DefultLogLevel[2]
+
+2026-03-10 22:38:21.430 INFO  [27524] [ThreadForTimerWorker@12] create timer worker thread
+
+2026-03-10 22:38:21.430 INFO  [3960] [CTimerProxy::StartRun@101] create timer worker thread finish
+
+2026-03-10 22:38:21.430 INFO  [3960] [CTimerProxy::Regitser@50] Register timer event,Handle[0],pUserData[000002B7275C5A10]
+
+2026-03-10 22:38:21.430 INFO  [3960] [CCommFactory::InitRes@139] set log---call register timer,timer id[0],this[000002B7275C5A10]
+
+2026-03-10 22:38:21.430 INFO  [3960] [CCommFactory::InitRes@145] HPR Version[0x101000c]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[0]---size[1024]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[1]---size[2048]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[2]---size[10240]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[3]---size[65536]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[4]---size[524288]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[5]---size[1048576]
+
+2026-03-10 22:38:21.444 INFO  [3960] [CMemPool::InitMemPool@88] index i[6]---size[2097152]
+

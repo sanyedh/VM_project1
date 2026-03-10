@@ -5598,3 +5598,89 @@
 
 2026-03-10 22:09:23.554 INFO  [3980] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
 
+2026-03-10 22:38:21.642 INFO  [3960] [CAuthorization::Init@58] [Init] Begin.
+
+2026-03-10 22:38:21.737 INFO  [3960] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[1] licId[40005]
+
+2026-03-10 22:38:21.739 INFO  [3960] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-10 22:38:21.748 INFO  [3960] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-10 22:38:21.766 INFO  [3960] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-10 22:38:21.766 INFO  [3960] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-10 22:38:21.832 INFO  [3960] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-10 22:38:21.835 INFO  [3960] [CAuthorization::Init@79] [Init] Get license v5 sucessfully
+
+2026-03-10 22:38:21.835 INFO  [3960] [CAuthorization::StartCheckThread@247] StartCheckThread begin.
+
+2026-03-10 22:38:21.835 INFO  [3960] [CAuthorization::StartCheckThread@273] StartCheckThread end.
+
+2026-03-10 22:38:21.835 INFO  [3960] [CAuthorization::Init@106] [Init] End.
+
+2026-03-10 22:38:21.837 INFO  [3960] [InitPluginInstance@29] [Init] [End]
+
+2026-03-10 22:38:21.840 INFO  [7892] [CAuthorization::DoAuthCheck@299] DoAuthCheck begin.
+
+2026-03-10 22:38:21.938 INFO  [7892] [CDongleV5::Login@86] MV_LoginLicense sucessfully, dongle type[2](0:dongle, 2:soft lock, 3:remote dongle) handle[2] licId[40005]
+
+2026-03-10 22:38:21.938 INFO  [7892] [CDongleV5::GetDongleInfo@131] MV_GetUserDataSize begin
+
+2026-03-10 22:38:21.955 INFO  [7892] [CDongleV5::GetDongleInfo@139] MV_GetUserDataSize end
+
+2026-03-10 22:38:21.975 INFO  [7892] [CDongleV5::GetDongleInfo@156] MV_ReadUserData, Dongle name[7210], camera num[10001], soft version[1], series[50], language[0]
+
+2026-03-10 22:38:21.975 INFO  [7892] [CDongleV5::GetDongleInfo@162] Dongle serial number[] len[9]
+
+2026-03-10 22:38:22.044 INFO  [7892] [CDongleV5::GetLicenseInfo@300] GetRemainTime end.
+
+2026-03-10 22:38:21.852 INFO  [3960] [InitPluginInstance@33] InitPluginInstance - Begin
+
+2026-03-10 22:38:21.852 INFO  [3960] [CMonitorResourceUsage::Init@50] Init begin.
+
+2026-03-10 22:38:21.852 INFO  [3960] [CMonitorResourceUsage::LoadCfgParam@469] Now resource monitor interval[5]
+
+2026-03-10 22:38:21.852 INFO  [3960] [CMonitorResourceUsage::StartMonitorThread@93] StartMonitorThread begin.
+
+2026-03-10 22:38:21.852 INFO  [3960] [CMonitorResourceUsage::StartMonitorThread@124] StartCheckThread end.
+
+2026-03-10 22:38:21.852 INFO  [3960] [InitPluginInstance@39] InitPluginInstance - End
+
+2026-03-10 22:38:21.861 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@179] DoMonitorResource begin.
+
+2026-03-10 22:38:21.861 INFO  [26604] [CMonitorResourceUsage::SystemVersionMoreThanWin10@158] MajorVersion[6] MinorVersion[2], 6.2 is win10
+
+2026-03-10 22:38:21.861 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@203] Do not check process resource
+
+2026-03-10 22:38:54.648 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[27] DiskFreeMB[208950].
+
+2026-03-10 22:39:01.772 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[22] DiskFreeMB[208950].
+
+2026-03-10 22:39:02.789 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[34] DiskFreeMB[208950].
+
+2026-03-10 22:39:03.812 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[21] DiskFreeMB[208950].
+
+2026-03-10 22:39:04.833 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[14] DiskFreeMB[208950].
+
+2026-03-10 22:39:05.848 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[24] DiskFreeMB[208877].
+
+2026-03-10 22:39:06.866 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[13] DiskFreeMB[208877].
+
+2026-03-10 22:39:07.887 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[20] DiskFreeMB[208877].
+
+2026-03-10 22:39:09.928 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[33] DiskFreeMB[208877].
+
+2026-03-10 22:39:10.949 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[23] DiskFreeMB[208877].
+
+2026-03-10 22:39:11.970 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[11] DiskFreeMB[208877].
+
+2026-03-10 22:39:12.988 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[90] CPU[10] DiskFreeMB[208877].
+
+2026-03-10 22:39:14.009 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[91] CPU[20] DiskFreeMB[208877].
+
+2026-03-10 22:39:15.031 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[91] CPU[11] DiskFreeMB[208877].
+
+2026-03-10 22:39:16.050 INFO  [26604] [CMonitorResourceUsage::DoMonitorRes@267] DoMonitorResource memoryUsage[91] CPU[3] DiskFreeMB[208877].
+
