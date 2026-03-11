@@ -1917,3 +1917,232 @@
 
 2026-03-10 22:39:05.623 ERROR [18044] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
 
+2026-03-11 15:46:10.333 ERROR [13736] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 15:48:54.770 ERROR [22556] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-11 15:48:54.960 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM9612ImgSrcTemp
+
+
+2026-03-11 15:48:54.960 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-11 15:48:54.960 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-11 15:48:54.960 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-11 15:48:54.960 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-11 15:48:54.960 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-11 15:48:54.962 ERROR [21520] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-11 15:48:55.375 ERROR [13052] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-11 15:48:55.682 ERROR [13052] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-11 15:49:36.327 ERROR [18580] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-11 15:49:38.252 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:38.252 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:38.254 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:41.063 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:41.063 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:43.827 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:43.827 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:46.584 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:46.584 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 15:49:49.379 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:49.379 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:49.381 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:52.220 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:52.220 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 15:49:54.948 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::ProcessInsp@1985] ProcessPatMatch failed, nRet = E000032B
+
+2026-03-11 15:49:54.948 ERROR [21520] [IMVSMarkInspModuVA] [ModuId:2] [CIMVSMarkInspModu::Process@2848] ProcessInsp failed, nRet = [E000032B]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var2%],nRet =[e0000314]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var3%],nRet =[e0000314]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetIntArray@2180] VM_M_GetInt get value error.szName=[%var4%],nRet =[e0000314]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 15:49:54.950 ERROR [21520] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 18:23:49.501 ERROR [30244] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 19:18:27.873 ERROR [17520] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 19:31:15.267 ERROR [26216] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 19:31:51.657 ERROR [26032] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM25036ImgSrcTemp
+
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-11 19:31:51.859 ERROR [18372] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-11 19:31:52.783 ERROR [17884] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-11 19:31:53.140 ERROR [17884] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-11 19:32:10.375 ERROR [15984] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-11 19:32:10.672 ERROR [18372] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 19:32:10.672 ERROR [18372] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 19:32:10.672 ERROR [18372] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 19:32:10.672 ERROR [18372] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 19:43:16.962 ERROR [18908] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 19:43:46.207 ERROR [24884] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23616ImgSrcTemp
+
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-11 19:43:46.409 ERROR [7560] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-11 19:43:47.623 ERROR [6632] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-11 19:43:47.915 ERROR [6632] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-11 19:44:00.683 ERROR [16492] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-11 19:44:01.003 ERROR [24884] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-11 19:44:01.003 ERROR [24884] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-11 19:44:01.003 ERROR [24884] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-11 19:44:01.003 ERROR [24884] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-11 19:53:15.926 ERROR [14416] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 20:19:24.089 ERROR [27296] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 20:36:18.943 ERROR [28940] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-11 20:48:26.389 ERROR [29924] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+

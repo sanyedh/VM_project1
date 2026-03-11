@@ -550,3 +550,75 @@
 
 2026-03-10 22:38:21.651 INFO  [10528] [Hkr_InitLog@187] hkr init count: 1
 
+2026-03-11 15:46:10.337 INFO  [16696] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 15:46:10.337 INFO  [16696] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 15:46:10.337 INFO  [16696] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 15:46:10.337 INFO  [16696] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 18:23:49.513 INFO  [2704] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 18:23:49.513 INFO  [2704] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 18:23:49.513 INFO  [2704] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 18:23:49.513 INFO  [2704] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 19:18:27.890 INFO  [31172] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 19:18:27.890 INFO  [31172] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 19:18:27.890 INFO  [31172] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 19:18:27.890 INFO  [31172] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 19:31:15.277 INFO  [30668] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 19:31:15.277 INFO  [30668] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 19:31:15.277 INFO  [30668] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 19:31:15.277 INFO  [30668] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 19:43:16.977 INFO  [28712] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 19:43:16.977 INFO  [28712] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 19:43:16.977 INFO  [28712] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 19:43:16.977 INFO  [28712] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 19:53:15.932 INFO  [2812] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 19:53:15.932 INFO  [2812] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 19:53:15.932 INFO  [2812] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 19:53:15.932 INFO  [2812] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 20:19:24.095 INFO  [16700] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 20:19:24.095 INFO  [16700] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 20:19:24.095 INFO  [16700] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 20:19:24.095 INFO  [16700] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 20:36:18.946 INFO  [25752] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 20:36:18.946 INFO  [25752] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 20:36:18.946 INFO  [25752] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 20:36:18.946 INFO  [25752] [Hkr_InitLog@187] hkr init count: 1
+
+2026-03-11 20:48:26.397 INFO  [12496] [Hkr_InitLog@184] ------------------- hkr init logger: F:\c_program\VM\VM_project1\VM_project1\bin\Debug\log/hkr/hkr.log ---------------------------
+
+2026-03-11 20:48:26.397 INFO  [12496] [Hkr_InitLog@185] hkr path: F:\apps\VM5.0\VisionMaster5.0.0\Applications\PublicFile\x64\hkr.dll
+
+2026-03-11 20:48:26.397 INFO  [12496] [Hkr_InitLog@186] hkr version: hkr.version: build 20241212-1426761
+
+2026-03-11 20:48:26.397 INFO  [12496] [Hkr_InitLog@187] hkr init count: 1
+

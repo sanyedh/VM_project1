@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using VM.Core;
@@ -652,6 +652,11 @@ namespace VM_project1
         }
 
         private void vmRenderControl1_Load_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
         }

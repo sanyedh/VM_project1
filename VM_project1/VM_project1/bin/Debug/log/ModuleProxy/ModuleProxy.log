@@ -12409,3 +12409,1310 @@
 
 2026-03-10 22:38:35.750 INFO  [3960] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
 
+2026-03-11 15:46:10.179 ERROR [27288] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 15:46:10.179 INFO  [27288] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 15:46:10.179 INFO  [27288] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 15:46:10.179 INFO  [27288] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 15:46:10.182 INFO  [27288] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 15:46:10.182 INFO  [27288] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 15:46:10.188 INFO  [27288] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 15:46:10.188 INFO  [27288] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 15:46:10.188 INFO  [27288] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 15:46:10.188 INFO  [27288] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 15:46:10.188 INFO  [27288] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM9612ImgSrcTemp]
+
+2026-03-11 15:46:10.197 INFO  [27288] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 15:46:10.197 INFO  [27288] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 15:46:10.209 INFO  [27288] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 15:46:10.209 INFO  [27288] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 15:46:10.211 INFO  [27288] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 15:46:10.211 INFO  [27288] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 15:46:10.211 INFO  [27288] [CModuProxyManager::MP_Init@206] [Init][End] Consume 36.241900 ms
+
+2026-03-11 15:46:10.268 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 15:46:10.314 INFO  [13736] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 15:46:10.314 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 15:46:10.314 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 15:46:10.322 INFO  [13736] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 15:46:10.322 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 15:46:10.322 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 15:46:10.331 INFO  [13736] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 15:46:10.331 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 15:46:10.331 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 15:46:10.454 INFO  [13736] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 15:46:10.454 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 15:46:10.454 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 15:46:10.539 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 15:46:10.539 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 15:46:10.551 INFO  [13052] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 15:46:10.572 INFO  [13736] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 15:46:10.572 INFO  [13736] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 15:46:10.572 INFO  [13736] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 15:46:10.628 INFO  [13052] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 15:46:10.630 INFO  [13052] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 15:46:10.630 INFO  [13052] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 15:46:10.630 INFO  [13052] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 15:46:11.478 INFO  [13736] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 15:46:11.904 INFO  [13736] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 15:46:11.905 INFO  [13736] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 15:46:11.905 INFO  [13736] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 15:46:11.917 ERROR [13736] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[299]
+
+2026-03-11 15:46:11.917 INFO  [13736] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23932ImgSrcTemp]
+
+2026-03-11 15:46:11.917 INFO  [13736] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM9612ImgSrcTemp]
+
+2026-03-11 15:46:11.917 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 15:46:12.043 INFO  [13736] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 15:46:12.043 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 15:46:12.043 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23932ImgSrcTemp, success
+
+2026-03-11 15:46:12.043 INFO  [13736] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 15:48:54.148 INFO  [18156] [CParseProtocol::CloseSolProcess@7102] Close solution
+
+2026-03-11 15:48:54.148 INFO  [3432] [CEventProtocol::CloseSolutionStateProcess@305] Report Event CLOSE_SOLUTION_STATE
+
+2026-03-11 15:48:54.150 INFO  [3432] [CSilManager::E_SilReset@78] E_SilReset start
+
+2026-03-11 15:48:54.763 INFO  [3432] [CSilManager::E_SilReset@83] E_SilReset end
+
+2026-03-11 15:48:54.764 INFO  [3432] [CEventProtocol::CloseSolutionStateProcess@305] Report Event CLOSE_SOLUTION_STATE
+
+2026-03-11 15:48:54.764 INFO  [18156] [CParseProtocol::SetLoadSolFlagProcess@7628] Set load solution state [Start Load]
+
+2026-03-11 15:48:54.766 INFO  [18156] [CParseProtocol::CreateProcedureListProcess@7341] Create procedure[10000], name[流程1], excludeFromAll[0], interval[100], stop when ng[0], wait time[0]
+
+2026-03-11 15:48:54.792 INFO  [19528] [CEventProtocol::BatchAddModulesFinishProcess@333] Report Event BATCH_ADD_MODULE_FINISHED
+
+2026-03-11 15:48:54.793 INFO  [18156] [CParseProtocol::SetContainerRelateModulesProcess@10052] Relate module[26000,procedure comm] to module[10000]
+
+2026-03-11 15:48:54.793 INFO  [18156] [CParseProtocol::LoadSolProcess@6514] [Load Solution][Begin] Load module data start.
+
+2026-03-11 15:48:54.793 INFO  [18156] [CParseProtocol::LoadSolProcess@6560] [Load Solution] solutionFile[], solAttachmentsPath[], solSrcPath[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol], version[V5.0.0], bArmFile[False]
+
+2026-03-11 15:48:54.795 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 0-ImageSourceModule.mdata
+
+2026-03-11 15:48:54.795 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 1-IMVSColorTransformModu.mdata
+
+2026-03-11 15:48:54.795 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 2-IMVSMarkInspModuVA.mdata
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 26000-ProcedureComm.mdata
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 3-FormatModule.mdata
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: GlobalVarBinding
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: ModuleParamBinding
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: RunningPolicy
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: procedure-10000-data
+
+2026-03-11 15:48:54.957 INFO  [18156] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: procedure-10999-data
+
+2026-03-11 15:48:54.957 INFO  [18156] [CParseProtocol::LoadSolProcess@6619] [Load Solution] ModuFrame LoadDataLen = 0
+
+2026-03-11 15:48:54.959 INFO  [18156] [CCommonFunction::GetSolutionSize@1344] Sol File Size = 225403685
+
+2026-03-11 15:48:54.959 ERROR [18156] [CCommonFunction::GetAutoSaveSolPath@1265] remove dir F:\竞赛资料\智启杯\方案\1\简易版缺陷检测_AutoSaveSolParam_0 fail, error = 2
+
+2026-03-11 15:48:54.959 INFO  [18156] [CParseProtocol::ReadAutoSaveSolFile@4586] Save Sol Param File Path = [F:\竞赛资料\智启杯\方案\1\简易版缺陷检测_AutoSaveSolParam_225403685]
+
+2026-03-11 15:48:54.959 INFO  [18156] [CParseProtocol::ReadAutoSaveSolFile@4606] Save Sol Param File does not exist.
+
+2026-03-11 15:48:54.959 INFO  [18156] [CParseProtocol::ReadAutoSaveSolFile@4612] Read Auto Save SolFile strConfigDataAddr = 0, strConfigDataLen = 0
+
+2026-03-11 15:48:54.959 INFO  [18156] [CParseProtocol::LoadSolProcess@6706] [Load Solution] file path = {
+    "dataAddr": 2278490782704,
+    "dataLen": 0,
+    "attachmentDir": "F:\\c_program\\VM\\VM_project1\\VM_project1\\bin\\Debug\\ImageTemp\\VM9612ImgSrcTemp",
+    "globalDataAddr": 0,
+    "globalDataLen": 0,
+    "solConfigDataAddr": 0,
+    "solConfigDataLen": 0
+}
+
+2026-03-11 15:48:54.959 INFO  [18156] [CParseProtocol::LoadSolProcess@6709] [Load Solution][End]
+
+2026-03-11 15:48:55.062 INFO  [18156] [CSilManager::E_SilSetSaveBigFile@93] SilSaveBigFile enable=false, path=
+
+2026-03-11 15:48:55.062 INFO  [18156] [CParseProtocol::SetSaveImageToolParamProcess@10257] Set save big file, enable[0], path[]
+
+2026-03-11 15:48:55.101 INFO  [3432] [CEventProtocol::LoadSolutionFinishProcess@158] Load Solution][Report Begin] Report Event LOAD_SOLUTION_FINISHED
+
+2026-03-11 15:48:55.101 INFO  [3432] [CEventProtocol::LoadSolutionFinishProcess@179] Load Solution][Report End]
+
+2026-03-11 15:48:55.111 INFO  [18156] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 15:48:55.111 INFO  [18156] [CParseProtocol::SetLoadSolFlagProcess@7628] Set load solution state [End Load]
+
+2026-03-11 15:48:55.647 INFO  [13052] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 15:49:08.327 ERROR [13052] [CParseProtocol::ParseServerProtocol@398] Recv Server Command 3027 Protocol = {
+    "head": {
+        "command": 3027,
+        "description": "get binary data block",
+        "type": "request",
+        "requestId": 97
+    },
+    "body": {
+        "moduleId": 2,
+        "name": "GetModelImage"
+    }
+}
+
+2026-03-11 15:49:08.327 ERROR [13052] [CParseProtocol::AssembRetProtocol@524] Command 3027 return e0000012
+
+2026-03-11 15:49:08.327 ERROR [13052] [CParseProtocol::ParseServerProtocol@401] Process command[3027] return e0000012, protocol = {
+    "head": {
+        "command": 3027,
+        "type": "response",
+        "responseId": 97,
+        "errorCode": -536870894,
+        "errorDesc": "fail"
+    }
+}
+
+2026-03-11 15:49:35.976 INFO  [14984] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:37.848 INFO  [6784] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:38.982 INFO  [9136] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:40.668 INFO  [27792] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:41.794 INFO  [9136] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:43.437 INFO  [11352] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:44.553 INFO  [2076] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:46.192 INFO  [28416] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:46.435 INFO  [13052] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 15:49:47.311 INFO  [13976] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:48.982 INFO  [9136] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:50.131 INFO  [16096] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:51.811 INFO  [14984] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:52.932 INFO  [21500] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:49:54.545 INFO  [28416] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 15:50:00.297 INFO  [11352] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 18:23:49.379 ERROR [24004] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 18:23:49.379 INFO  [24004] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 18:23:49.379 INFO  [24004] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 18:23:49.379 INFO  [24004] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 18:23:49.382 INFO  [24004] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 18:23:49.382 INFO  [24004] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 18:23:49.385 INFO  [24004] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 18:23:49.385 INFO  [24004] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 18:23:49.385 INFO  [24004] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 18:23:49.385 INFO  [24004] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 18:23:49.385 INFO  [24004] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM27280ImgSrcTemp]
+
+2026-03-11 18:23:49.392 INFO  [24004] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 18:23:49.392 INFO  [24004] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 18:23:49.403 INFO  [24004] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 18:23:49.403 INFO  [24004] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 18:23:49.403 INFO  [24004] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 18:23:49.403 INFO  [24004] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 18:23:49.403 INFO  [24004] [CModuProxyManager::MP_Init@206] [Init][End] Consume 27.715100 ms
+
+2026-03-11 18:23:49.443 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 18:23:49.477 INFO  [30244] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 18:23:49.477 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 18:23:49.477 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 18:23:49.489 INFO  [30244] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 18:23:49.489 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 18:23:49.489 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 18:23:49.500 INFO  [30244] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 18:23:49.500 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 18:23:49.500 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 18:23:49.544 INFO  [30244] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 18:23:49.544 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 18:23:49.544 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 18:23:49.944 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 18:23:49.944 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 18:23:49.959 INFO  [29460] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 18:23:50.010 INFO  [30244] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 18:23:50.010 INFO  [30244] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 18:23:50.010 INFO  [30244] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 18:23:50.027 INFO  [29460] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 18:23:50.028 INFO  [29460] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 18:23:50.028 INFO  [29460] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 18:23:50.030 INFO  [29460] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 18:23:51.048 INFO  [30244] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 18:23:51.479 INFO  [30244] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 18:23:51.480 INFO  [30244] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 18:23:51.480 INFO  [30244] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 18:23:51.494 ERROR [30244] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[87]
+
+2026-03-11 18:23:51.494 INFO  [30244] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ImageTemp\VM24080ImgSrcTemp]
+
+2026-03-11 18:23:51.494 INFO  [30244] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM27280ImgSrcTemp]
+
+2026-03-11 18:23:51.494 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 18:23:51.609 INFO  [30244] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 18:23:51.609 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 18:23:51.611 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\apps\VM5.0\VisionMaster5.0.0\Applications\ImageTemp\VM24080ImgSrcTemp, success
+
+2026-03-11 18:23:51.611 INFO  [30244] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 19:18:27.571 ERROR [29036] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 19:18:27.571 INFO  [29036] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 19:18:27.571 INFO  [29036] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 19:18:27.571 INFO  [29036] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 19:18:27.574 INFO  [29036] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 19:18:27.574 INFO  [29036] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 19:18:27.577 INFO  [29036] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 19:18:27.577 INFO  [29036] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 19:18:27.577 INFO  [29036] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 19:18:27.577 INFO  [29036] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 19:18:27.577 INFO  [29036] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM21056ImgSrcTemp]
+
+2026-03-11 19:18:27.585 INFO  [29036] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 19:18:27.585 INFO  [29036] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 19:18:27.596 INFO  [29036] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 19:18:27.596 INFO  [29036] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 19:18:27.596 INFO  [29036] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 19:18:27.596 INFO  [29036] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 19:18:27.596 INFO  [29036] [CModuProxyManager::MP_Init@206] [Init][End] Consume 27.880200 ms
+
+2026-03-11 19:18:27.723 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 19:18:27.827 INFO  [17520] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 19:18:27.827 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 19:18:27.827 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 19:18:27.839 INFO  [17520] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 19:18:27.839 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 19:18:27.839 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 19:18:27.855 INFO  [17520] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 19:18:27.855 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 19:18:27.855 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 19:18:27.950 INFO  [17520] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 19:18:27.950 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 19:18:27.950 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 19:18:28.008 INFO  [22552] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 19:18:28.052 INFO  [22552] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:18:28.054 INFO  [22552] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 19:18:28.054 INFO  [22552] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:18:28.054 INFO  [22552] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:18:28.054 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 19:18:28.054 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 19:18:28.062 INFO  [17520] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 19:18:28.062 INFO  [17520] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 19:18:28.062 INFO  [17520] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 19:18:28.798 INFO  [17520] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 19:18:29.596 INFO  [17520] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 19:18:29.596 INFO  [17520] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 19:18:29.596 INFO  [17520] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 19:18:29.605 ERROR [17520] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[87]
+
+2026-03-11 19:18:29.605 INFO  [17520] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM27280ImgSrcTemp]
+
+2026-03-11 19:18:29.606 INFO  [17520] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM21056ImgSrcTemp]
+
+2026-03-11 19:18:29.606 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 19:18:29.641 INFO  [17520] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 19:18:29.641 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 19:18:29.641 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM27280ImgSrcTemp, success
+
+2026-03-11 19:18:29.641 INFO  [17520] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 19:31:15.125 ERROR [18376] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 19:31:15.125 INFO  [18376] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 19:31:15.125 INFO  [18376] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 19:31:15.125 INFO  [18376] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 19:31:15.126 INFO  [18376] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 19:31:15.126 INFO  [18376] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 19:31:15.126 INFO  [18376] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 19:31:15.126 INFO  [18376] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 19:31:15.126 INFO  [18376] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 19:31:15.126 INFO  [18376] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 19:31:15.128 INFO  [18376] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM25036ImgSrcTemp]
+
+2026-03-11 19:31:15.130 INFO  [18376] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 19:31:15.130 INFO  [18376] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 19:31:15.136 INFO  [18376] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 19:31:15.136 INFO  [18376] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 19:31:15.136 INFO  [18376] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 19:31:15.136 INFO  [18376] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 19:31:15.136 INFO  [18376] [CModuProxyManager::MP_Init@206] [Init][End] Consume 13.262000 ms
+
+2026-03-11 19:31:15.185 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 19:31:15.212 INFO  [26216] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 19:31:15.212 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 19:31:15.212 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 19:31:15.216 INFO  [26216] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 19:31:15.216 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 19:31:15.216 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 19:31:15.219 INFO  [26216] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 19:31:15.219 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 19:31:15.219 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 19:31:15.322 INFO  [26216] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 19:31:15.322 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 19:31:15.322 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 19:31:15.392 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 19:31:15.392 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 19:31:15.410 INFO  [17884] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 19:31:15.427 INFO  [26216] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 19:31:15.427 INFO  [26216] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 19:31:15.427 INFO  [26216] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 19:31:15.436 INFO  [17884] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:31:15.437 INFO  [17884] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 19:31:15.437 INFO  [17884] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:31:15.437 INFO  [17884] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:31:16.081 INFO  [26216] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 19:31:16.794 INFO  [26216] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 19:31:16.794 INFO  [26216] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 19:31:16.794 INFO  [26216] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 19:31:16.802 ERROR [26216] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[87]
+
+2026-03-11 19:31:16.802 INFO  [26216] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM21056ImgSrcTemp]
+
+2026-03-11 19:31:16.803 INFO  [26216] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM25036ImgSrcTemp]
+
+2026-03-11 19:31:16.803 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 19:31:16.831 INFO  [26216] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 19:31:16.831 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 19:31:16.831 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM21056ImgSrcTemp, success
+
+2026-03-11 19:31:16.831 INFO  [26216] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 19:31:51.512 INFO  [12708] [CParseProtocol::CloseSolProcess@7102] Close solution
+
+2026-03-11 19:31:51.512 INFO  [22896] [CEventProtocol::CloseSolutionStateProcess@305] Report Event CLOSE_SOLUTION_STATE
+
+2026-03-11 19:31:51.512 INFO  [22896] [CSilManager::E_SilReset@78] E_SilReset start
+
+2026-03-11 19:31:51.650 INFO  [22896] [CSilManager::E_SilReset@83] E_SilReset end
+
+2026-03-11 19:31:51.653 INFO  [22896] [CEventProtocol::CloseSolutionStateProcess@305] Report Event CLOSE_SOLUTION_STATE
+
+2026-03-11 19:31:51.653 INFO  [12708] [CParseProtocol::SetLoadSolFlagProcess@7628] Set load solution state [Start Load]
+
+2026-03-11 19:31:51.653 INFO  [12708] [CParseProtocol::CreateProcedureListProcess@7341] Create procedure[10000], name[流程1], excludeFromAll[0], interval[100], stop when ng[0], wait time[0]
+
+2026-03-11 19:31:51.679 INFO  [15612] [CEventProtocol::BatchAddModulesFinishProcess@333] Report Event BATCH_ADD_MODULE_FINISHED
+
+2026-03-11 19:31:51.680 INFO  [12708] [CParseProtocol::SetContainerRelateModulesProcess@10052] Relate module[26000,procedure comm] to module[10000]
+
+2026-03-11 19:31:51.680 INFO  [12708] [CParseProtocol::LoadSolProcess@6514] [Load Solution][Begin] Load module data start.
+
+2026-03-11 19:31:51.680 INFO  [12708] [CParseProtocol::LoadSolProcess@6560] [Load Solution] solutionFile[], solAttachmentsPath[], solSrcPath[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol], version[V5.0.0], bArmFile[False]
+
+2026-03-11 19:31:51.682 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 0-ImageSourceModule.mdata
+
+2026-03-11 19:31:51.682 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 1-IMVSColorTransformModu.mdata
+
+2026-03-11 19:31:51.682 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 2-IMVSMarkInspModuVA.mdata
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 26000-ProcedureComm.mdata
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 3-FormatModule.mdata
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: GlobalVarBinding
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: ModuleParamBinding
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: RunningPolicy
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: procedure-10000-data
+
+2026-03-11 19:31:51.856 INFO  [12708] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: procedure-10999-data
+
+2026-03-11 19:31:51.856 INFO  [12708] [CParseProtocol::LoadSolProcess@6619] [Load Solution] ModuFrame LoadDataLen = 0
+
+2026-03-11 19:31:51.858 INFO  [12708] [CCommonFunction::GetSolutionSize@1344] Sol File Size = 225403685
+
+2026-03-11 19:31:51.858 ERROR [12708] [CCommonFunction::GetAutoSaveSolPath@1265] remove dir F:\竞赛资料\智启杯\方案\1\简易版缺陷检测_AutoSaveSolParam_0 fail, error = 2
+
+2026-03-11 19:31:51.858 INFO  [12708] [CParseProtocol::ReadAutoSaveSolFile@4586] Save Sol Param File Path = [F:\竞赛资料\智启杯\方案\1\简易版缺陷检测_AutoSaveSolParam_225403685]
+
+2026-03-11 19:31:51.858 INFO  [12708] [CParseProtocol::ReadAutoSaveSolFile@4606] Save Sol Param File does not exist.
+
+2026-03-11 19:31:51.858 INFO  [12708] [CParseProtocol::ReadAutoSaveSolFile@4612] Read Auto Save SolFile strConfigDataAddr = 0, strConfigDataLen = 0
+
+2026-03-11 19:31:51.858 INFO  [12708] [CParseProtocol::LoadSolProcess@6706] [Load Solution] file path = {
+    "dataAddr": 2711584372352,
+    "dataLen": 0,
+    "attachmentDir": "F:\\c_program\\VM\\VM_project1\\VM_project1\\bin\\Debug\\ImageTemp\\VM25036ImgSrcTemp",
+    "globalDataAddr": 0,
+    "globalDataLen": 0,
+    "solConfigDataAddr": 0,
+    "solConfigDataLen": 0
+}
+
+2026-03-11 19:31:51.858 INFO  [12708] [CParseProtocol::LoadSolProcess@6709] [Load Solution][End]
+
+2026-03-11 19:31:51.931 INFO  [12708] [CSilManager::E_SilSetSaveBigFile@93] SilSaveBigFile enable=false, path=
+
+2026-03-11 19:31:51.931 INFO  [12708] [CParseProtocol::SetSaveImageToolParamProcess@10257] Set save big file, enable[0], path[]
+
+2026-03-11 19:31:51.996 INFO  [22896] [CEventProtocol::LoadSolutionFinishProcess@158] Load Solution][Report Begin] Report Event LOAD_SOLUTION_FINISHED
+
+2026-03-11 19:31:51.996 INFO  [22896] [CEventProtocol::LoadSolutionFinishProcess@179] Load Solution][Report End]
+
+2026-03-11 19:31:52.034 INFO  [12708] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:31:52.034 INFO  [12708] [CParseProtocol::SetLoadSolFlagProcess@7628] Set load solution state [End Load]
+
+2026-03-11 19:31:53.113 INFO  [17884] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:32:10.033 INFO  [26872] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 19:32:36.390 INFO  [4540] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 19:43:16.757 ERROR [388] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 19:43:16.757 INFO  [388] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 19:43:16.757 INFO  [388] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 19:43:16.757 INFO  [388] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 19:43:16.758 INFO  [388] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 19:43:16.758 INFO  [388] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 19:43:16.760 INFO  [388] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 19:43:16.760 INFO  [388] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 19:43:16.760 INFO  [388] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 19:43:16.760 INFO  [388] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 19:43:16.761 INFO  [388] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23616ImgSrcTemp]
+
+2026-03-11 19:43:16.771 INFO  [388] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 19:43:16.771 INFO  [388] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 19:43:16.782 INFO  [388] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 19:43:16.782 INFO  [388] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 19:43:16.782 INFO  [388] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 19:43:16.782 INFO  [388] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 19:43:16.782 INFO  [388] [CModuProxyManager::MP_Init@206] [Init][End] Consume 28.664700 ms
+
+2026-03-11 19:43:16.825 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 19:43:16.928 INFO  [18908] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 19:43:16.928 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 19:43:16.928 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 19:43:16.939 INFO  [18908] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 19:43:16.939 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 19:43:16.939 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 19:43:16.954 INFO  [18908] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 19:43:16.954 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 19:43:16.954 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 19:43:17.062 INFO  [18908] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 19:43:17.062 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 19:43:17.062 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 19:43:17.065 INFO  [6632] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 19:43:17.150 INFO  [6632] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:43:17.152 INFO  [6632] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 19:43:17.152 INFO  [6632] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:43:17.152 INFO  [6632] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:43:17.188 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 19:43:17.188 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 19:43:17.197 INFO  [18908] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 19:43:17.197 INFO  [18908] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 19:43:17.197 INFO  [18908] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 19:43:17.948 INFO  [18908] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 19:43:18.148 INFO  [18908] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 19:43:18.148 INFO  [18908] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 19:43:18.148 INFO  [18908] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 19:43:18.159 ERROR [18908] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[87]
+
+2026-03-11 19:43:18.159 INFO  [18908] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM25036ImgSrcTemp]
+
+2026-03-11 19:43:18.161 INFO  [18908] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23616ImgSrcTemp]
+
+2026-03-11 19:43:18.161 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 19:43:18.198 INFO  [18908] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 19:43:18.198 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 19:43:18.198 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM25036ImgSrcTemp, success
+
+2026-03-11 19:43:18.198 INFO  [18908] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 19:43:46.120 INFO  [628] [CParseProtocol::CloseSolProcess@7102] Close solution
+
+2026-03-11 19:43:46.120 INFO  [27420] [CEventProtocol::CloseSolutionStateProcess@305] Report Event CLOSE_SOLUTION_STATE
+
+2026-03-11 19:43:46.120 INFO  [27420] [CSilManager::E_SilReset@78] E_SilReset start
+
+2026-03-11 19:43:46.201 INFO  [27420] [CSilManager::E_SilReset@83] E_SilReset end
+
+2026-03-11 19:43:46.203 INFO  [27420] [CEventProtocol::CloseSolutionStateProcess@305] Report Event CLOSE_SOLUTION_STATE
+
+2026-03-11 19:43:46.204 INFO  [628] [CParseProtocol::SetLoadSolFlagProcess@7628] Set load solution state [Start Load]
+
+2026-03-11 19:43:46.204 INFO  [628] [CParseProtocol::CreateProcedureListProcess@7341] Create procedure[10000], name[流程1], excludeFromAll[0], interval[100], stop when ng[0], wait time[0]
+
+2026-03-11 19:43:46.229 INFO  [25916] [CEventProtocol::BatchAddModulesFinishProcess@333] Report Event BATCH_ADD_MODULE_FINISHED
+
+2026-03-11 19:43:46.230 INFO  [628] [CParseProtocol::SetContainerRelateModulesProcess@10052] Relate module[26000,procedure comm] to module[10000]
+
+2026-03-11 19:43:46.230 INFO  [628] [CParseProtocol::LoadSolProcess@6514] [Load Solution][Begin] Load module data start.
+
+2026-03-11 19:43:46.230 INFO  [628] [CParseProtocol::LoadSolProcess@6560] [Load Solution] solutionFile[], solAttachmentsPath[], solSrcPath[F:\竞赛资料\智启杯\方案\1\简易版缺陷检测.sol], version[V5.0.0], bArmFile[False]
+
+2026-03-11 19:43:46.234 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 0-ImageSourceModule.mdata
+
+2026-03-11 19:43:46.234 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 1-IMVSColorTransformModu.mdata
+
+2026-03-11 19:43:46.234 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 2-IMVSMarkInspModuVA.mdata
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 26000-ProcedureComm.mdata
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: 3-FormatModule.mdata
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: GlobalVarBinding
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: ModuleParamBinding
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: RunningPolicy
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: procedure-10000-data
+
+2026-03-11 19:43:46.406 INFO  [628] [CProxyZip::UncompressFile2FrameImportData@232] Read module data name: procedure-10999-data
+
+2026-03-11 19:43:46.406 INFO  [628] [CParseProtocol::LoadSolProcess@6619] [Load Solution] ModuFrame LoadDataLen = 0
+
+2026-03-11 19:43:46.408 INFO  [628] [CCommonFunction::GetSolutionSize@1344] Sol File Size = 225403685
+
+2026-03-11 19:43:46.408 ERROR [628] [CCommonFunction::GetAutoSaveSolPath@1265] remove dir F:\竞赛资料\智启杯\方案\1\简易版缺陷检测_AutoSaveSolParam_0 fail, error = 2
+
+2026-03-11 19:43:46.408 INFO  [628] [CParseProtocol::ReadAutoSaveSolFile@4586] Save Sol Param File Path = [F:\竞赛资料\智启杯\方案\1\简易版缺陷检测_AutoSaveSolParam_225403685]
+
+2026-03-11 19:43:46.408 INFO  [628] [CParseProtocol::ReadAutoSaveSolFile@4606] Save Sol Param File does not exist.
+
+2026-03-11 19:43:46.408 INFO  [628] [CParseProtocol::ReadAutoSaveSolFile@4612] Read Auto Save SolFile strConfigDataAddr = 0, strConfigDataLen = 0
+
+2026-03-11 19:43:46.408 INFO  [628] [CParseProtocol::LoadSolProcess@6706] [Load Solution] file path = {
+    "dataAddr": 2664860527328,
+    "dataLen": 0,
+    "attachmentDir": "F:\\c_program\\VM\\VM_project1\\VM_project1\\bin\\Debug\\ImageTemp\\VM23616ImgSrcTemp",
+    "globalDataAddr": 0,
+    "globalDataLen": 0,
+    "solConfigDataAddr": 0,
+    "solConfigDataLen": 0
+}
+
+2026-03-11 19:43:46.408 INFO  [628] [CParseProtocol::LoadSolProcess@6709] [Load Solution][End]
+
+2026-03-11 19:43:46.466 INFO  [628] [CSilManager::E_SilSetSaveBigFile@93] SilSaveBigFile enable=false, path=
+
+2026-03-11 19:43:46.466 INFO  [628] [CParseProtocol::SetSaveImageToolParamProcess@10257] Set save big file, enable[0], path[]
+
+2026-03-11 19:43:46.539 INFO  [27420] [CEventProtocol::LoadSolutionFinishProcess@158] Load Solution][Report Begin] Report Event LOAD_SOLUTION_FINISHED
+
+2026-03-11 19:43:46.539 INFO  [27420] [CEventProtocol::LoadSolutionFinishProcess@179] Load Solution][Report End]
+
+2026-03-11 19:43:46.541 INFO  [628] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:43:46.541 INFO  [628] [CParseProtocol::SetLoadSolFlagProcess@7628] Set load solution state [End Load]
+
+2026-03-11 19:43:47.878 INFO  [6632] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:44:00.334 INFO  [9288] [CParseProtocol::ProcedureRunOnceProcess@6385] Run procedure[10999] once, triggercmd[]
+
+2026-03-11 19:44:18.461 ERROR [6632] [CParseProtocol::ParseServerProtocol@398] Recv Server Command 3027 Protocol = {
+    "head": {
+        "command": 3027,
+        "description": "get binary data block",
+        "type": "request",
+        "requestId": 105
+    },
+    "body": {
+        "moduleId": 2,
+        "name": "GetModelImage"
+    }
+}
+
+2026-03-11 19:44:18.461 ERROR [6632] [CParseProtocol::AssembRetProtocol@524] Command 3027 return e0000012
+
+2026-03-11 19:44:18.461 ERROR [6632] [CParseProtocol::ParseServerProtocol@401] Process command[3027] return e0000012, protocol = {
+    "head": {
+        "command": 3027,
+        "type": "response",
+        "responseId": 105,
+        "errorCode": -536870894,
+        "errorDesc": "fail"
+    }
+}
+
+2026-03-11 19:44:22.228 ERROR [6632] [CParseProtocol::ParseServerProtocol@398] Recv Server Command 3027 Protocol = {
+    "head": {
+        "command": 3027,
+        "description": "get binary data block",
+        "type": "request",
+        "requestId": 135
+    },
+    "body": {
+        "moduleId": 2,
+        "name": "GetModelImage"
+    }
+}
+
+2026-03-11 19:44:22.228 ERROR [6632] [CParseProtocol::AssembRetProtocol@524] Command 3027 return e0000012
+
+2026-03-11 19:44:22.228 ERROR [6632] [CParseProtocol::ParseServerProtocol@401] Process command[3027] return e0000012, protocol = {
+    "head": {
+        "command": 3027,
+        "type": "response",
+        "responseId": 135,
+        "errorCode": -536870894,
+        "errorDesc": "fail"
+    }
+}
+
+2026-03-11 19:53:15.776 ERROR [25832] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 19:53:15.776 INFO  [25832] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 19:53:15.776 INFO  [25832] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 19:53:15.776 INFO  [25832] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 19:53:15.776 INFO  [25832] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 19:53:15.776 INFO  [25832] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 19:53:15.777 INFO  [25832] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 19:53:15.777 INFO  [25832] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 19:53:15.777 INFO  [25832] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 19:53:15.777 INFO  [25832] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 19:53:15.777 INFO  [25832] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24956ImgSrcTemp]
+
+2026-03-11 19:53:15.782 INFO  [25832] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 19:53:15.782 INFO  [25832] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 19:53:15.788 INFO  [25832] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 19:53:15.788 INFO  [25832] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 19:53:15.788 INFO  [25832] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 19:53:15.788 INFO  [25832] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 19:53:15.788 INFO  [25832] [CModuProxyManager::MP_Init@206] [Init][End] Consume 17.830200 ms
+
+2026-03-11 19:53:15.828 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 19:53:15.854 INFO  [14416] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 19:53:15.854 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 19:53:15.854 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 19:53:15.915 INFO  [14416] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 19:53:15.915 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 19:53:15.915 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 19:53:15.920 INFO  [14416] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 19:53:15.920 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 19:53:15.920 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 19:53:15.975 INFO  [14416] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 19:53:15.975 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 19:53:15.975 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 19:53:16.037 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 19:53:16.038 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 19:53:16.068 INFO  [5004] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 19:53:16.093 INFO  [14416] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 19:53:16.093 INFO  [14416] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 19:53:16.093 INFO  [14416] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 19:53:16.104 INFO  [5004] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 19:53:16.104 INFO  [5004] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 19:53:16.104 INFO  [5004] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:53:16.106 INFO  [5004] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 19:53:16.751 INFO  [14416] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 19:53:16.910 INFO  [14416] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 19:53:16.910 INFO  [14416] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 19:53:16.910 INFO  [14416] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 19:53:16.918 ERROR [14416] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[87]
+
+2026-03-11 19:53:16.918 INFO  [14416] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23616ImgSrcTemp]
+
+2026-03-11 19:53:16.918 INFO  [14416] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24956ImgSrcTemp]
+
+2026-03-11 19:53:16.918 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 19:53:16.945 INFO  [14416] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 19:53:16.945 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 19:53:16.945 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM23616ImgSrcTemp, success
+
+2026-03-11 19:53:16.945 INFO  [14416] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 20:19:23.832 ERROR [4072] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 20:19:23.832 INFO  [4072] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 20:19:23.832 INFO  [4072] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 20:19:23.832 INFO  [4072] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 20:19:23.835 INFO  [4072] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 20:19:23.835 INFO  [4072] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 20:19:23.838 INFO  [4072] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 20:19:23.839 INFO  [4072] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 20:19:23.839 INFO  [4072] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 20:19:23.839 INFO  [4072] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 20:19:23.839 INFO  [4072] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM2340ImgSrcTemp]
+
+2026-03-11 20:19:23.848 INFO  [4072] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 20:19:23.848 INFO  [4072] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 20:19:23.861 INFO  [4072] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 20:19:23.861 INFO  [4072] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 20:19:23.861 INFO  [4072] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 20:19:23.861 INFO  [4072] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 20:19:23.861 INFO  [4072] [CModuProxyManager::MP_Init@206] [Init][End] Consume 38.648300 ms
+
+2026-03-11 20:19:23.915 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 20:19:24.039 INFO  [27296] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 20:19:24.040 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 20:19:24.040 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 20:19:24.054 INFO  [27296] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 20:19:24.054 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 20:19:24.054 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 20:19:24.069 INFO  [27296] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 20:19:24.069 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 20:19:24.069 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 20:19:24.158 INFO  [27296] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 20:19:24.158 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 20:19:24.158 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 20:19:24.175 INFO  [22940] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 20:19:24.261 INFO  [22940] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 20:19:24.262 INFO  [22940] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 20:19:24.262 INFO  [22940] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 20:19:24.262 INFO  [22940] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 20:19:24.268 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 20:19:24.268 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 20:19:24.278 INFO  [27296] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 20:19:24.278 INFO  [27296] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 20:19:24.278 INFO  [27296] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 20:19:24.959 INFO  [27296] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 20:19:25.108 INFO  [27296] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 20:19:25.108 INFO  [27296] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 20:19:25.108 INFO  [27296] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 20:19:25.117 ERROR [27296] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[87]
+
+2026-03-11 20:19:25.117 INFO  [27296] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24956ImgSrcTemp]
+
+2026-03-11 20:19:25.117 INFO  [27296] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM2340ImgSrcTemp]
+
+2026-03-11 20:19:25.117 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 20:19:25.146 INFO  [27296] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 20:19:25.146 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 20:19:25.146 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM24956ImgSrcTemp, success
+
+2026-03-11 20:19:25.146 INFO  [27296] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 20:36:18.864 ERROR [26632] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 20:36:18.864 INFO  [26632] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 20:36:18.864 INFO  [26632] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 20:36:18.864 INFO  [26632] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 20:36:18.866 INFO  [26632] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 20:36:18.866 INFO  [26632] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 20:36:18.867 INFO  [26632] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 20:36:18.867 INFO  [26632] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 20:36:18.867 INFO  [26632] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 20:36:18.867 INFO  [26632] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 20:36:18.867 INFO  [26632] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM10984ImgSrcTemp]
+
+2026-03-11 20:36:18.870 INFO  [26632] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 20:36:18.870 INFO  [26632] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 20:36:18.876 INFO  [26632] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 20:36:18.876 INFO  [26632] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 20:36:18.876 INFO  [26632] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 20:36:18.876 INFO  [26632] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 20:36:18.876 INFO  [26632] [CModuProxyManager::MP_Init@206] [Init][End] Consume 14.648000 ms
+
+2026-03-11 20:36:18.910 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 20:36:18.934 INFO  [28940] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 20:36:18.934 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 20:36:18.934 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 20:36:18.939 INFO  [28940] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 20:36:18.939 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 20:36:18.939 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 20:36:18.942 INFO  [28940] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 20:36:18.942 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 20:36:18.942 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 20:36:18.968 INFO  [28940] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 20:36:18.968 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 20:36:18.968 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 20:36:19.075 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 20:36:19.075 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 20:36:19.172 INFO  [27900] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 20:36:19.182 INFO  [28940] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 20:36:19.182 INFO  [28940] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 20:36:19.182 INFO  [28940] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 20:36:19.189 INFO  [27900] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 20:36:19.189 INFO  [27900] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 20:36:19.189 INFO  [27900] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 20:36:19.189 INFO  [27900] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 20:36:19.577 INFO  [28940] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 20:36:19.693 INFO  [28940] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 20:36:19.693 INFO  [28940] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 20:36:19.693 INFO  [28940] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 20:36:19.702 ERROR [28940] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[299]
+
+2026-03-11 20:36:19.702 INFO  [28940] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM2340ImgSrcTemp]
+
+2026-03-11 20:36:19.702 INFO  [28940] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM10984ImgSrcTemp]
+
+2026-03-11 20:36:19.702 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 20:36:19.735 INFO  [28940] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 20:36:19.735 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 20:36:19.735 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM2340ImgSrcTemp, success
+
+2026-03-11 20:36:19.735 INFO  [28940] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+
+2026-03-11 20:48:26.245 ERROR [29508] [CModuProxyManager::PrintLog@557] =============================================== Start Print Log Async====================================================
+
+2026-03-11 20:48:26.245 INFO  [29508] [CModuProxyManager::PrintLog@558] Proxy Version: V5.0.0 build May 22 2025, 20:50:22
+
+2026-03-11 20:48:26.245 INFO  [29508] [CModuProxyManager::MP_Init@149] [Init][Begin]
+
+2026-03-11 20:48:26.245 INFO  [29508] [CModuProxyManager::MP_Init@150] [Init] VmPath Path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug], Proxy Path[F:\apps\VM5.0\VisionMaster5.0.0\Applications\ModuleProxy\x64]
+
+2026-03-11 20:48:26.245 INFO  [29508] [CHSLogManager::LoadDLL@44] LoadDLL HSLog Done
+
+2026-03-11 20:48:26.245 INFO  [29508] [CHSLogManager::E_HSlogInitModule@59] InitModuleLog Start
+
+2026-03-11 20:48:26.251 INFO  [29508] [CHSLogManager::E_HSlogInitModule@65] InitModuleLog End, nRet = 0
+
+2026-03-11 20:48:26.251 INFO  [29508] [CModuProxyManager::MP_Init@155] [Init] ModuleLogInit
+
+2026-03-11 20:48:26.251 INFO  [29508] [CModuProxyManager::ParseInitParam@248] [Init] InitParam = SmGlobalProfix:0;MaxPort:10040;MinPort:10000;DongleType:2
+
+2026-03-11 20:48:26.251 INFO  [29508] [CModuProxyManager::InitModuleFrame@767] [Init] InitModuleFrame start
+
+2026-03-11 20:48:26.253 INFO  [29508] [CModuProxyManager::InitLoadModuleDataTempPath@911] Current sol file temp path[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM12360ImgSrcTemp]
+
+2026-03-11 20:48:26.254 INFO  [29508] [CFrameExportManager::InitFrame@211] LoadDLL Frame Done
+
+2026-03-11 20:48:26.254 INFO  [29508] [CModuProxyManager::InitModuleFrame@807] ModuleFrame: VM_M_Initialize start.
+
+2026-03-11 20:48:26.261 INFO  [29508] [CModuProxyManager::InitModuleFrame@809] ModuleFrame: VM_M_Initialize end.
+
+2026-03-11 20:48:26.261 INFO  [29508] [CModuProxyManager::InitModuleFrame@815] VM_M_EnableSharedMemGlobalPrefix False
+
+2026-03-11 20:48:26.261 INFO  [29508] [CModuProxyManager::InitModuleFrame@858] [Init] InitModuleFrame end
+
+2026-03-11 20:48:26.261 INFO  [29508] [CModuProxyManager::MP_Init@195] [Init] StartResourceThread
+
+2026-03-11 20:48:26.261 INFO  [29508] [CModuProxyManager::MP_Init@206] [Init][End] Consume 22.131000 ms
+
+2026-03-11 20:48:26.305 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@355] [Resource] Python load dll start
+
+2026-03-11 20:48:26.356 INFO  [29924] [CPythonExportManager::LoadDll@65] LoadDLL Python Done
+
+2026-03-11 20:48:26.356 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@361] [Resource] Python load dll end
+
+2026-03-11 20:48:26.356 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@364] [Resource] DependencyLibraries load dll start
+
+2026-03-11 20:48:26.374 INFO  [29924] [CDependencyLibrariesManager::LoadDLL@30] LoadDLL GateWay Done
+
+2026-03-11 20:48:26.374 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@370] [Resource] DependencyLibraries load dll end
+
+2026-03-11 20:48:26.374 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@384] [Resource] Sil load dll start
+
+2026-03-11 20:48:26.377 INFO  [29924] [CSilManager::LoadDLL@44] LoadDLL Sil Done
+
+2026-03-11 20:48:26.377 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@390] [Resource] Sil load dll end
+
+2026-03-11 20:48:26.377 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@392] [Resource] SilInit start
+
+2026-03-11 20:48:26.508 INFO  [29924] [CSilManager::E_SilInit@63] E_SilInit end, code: 0
+
+2026-03-11 20:48:26.508 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@398] [Resource] SilInit end
+
+2026-03-11 20:48:26.508 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@400] [Resource] InitPython start
+
+2026-03-11 20:48:26.598 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@406] [Resource] InitPython end
+
+2026-03-11 20:48:26.598 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@413] [Resource] CreateFtpTempDirAndCollectTempFiles end
+
+2026-03-11 20:48:26.642 INFO  [12724] [CParseProtocol::SetMVDAuthorizeTypeProcess@10708] Set mvd authorize type
+
+2026-03-11 20:48:26.657 INFO  [29924] [CMVDExportManager::E_MVD_SetLockType@265] [Init] Set SDK lock type[4], product[4]
+
+2026-03-11 20:48:26.657 INFO  [29924] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@141] Create global init tool instance, nInit=1
+
+2026-03-11 20:48:26.657 INFO  [29924] [CMVDExportManager::E_MVD_CreateGlobalInitToolInstance@154] [Init] Create global init tool instance, bWarmupGpu=0
+
+2026-03-11 20:48:26.671 INFO  [12724] [CParseProtocol::SelectAllModule2UploadResultProcess@8746] Selete all module upload result
+
+2026-03-11 20:48:26.673 INFO  [12724] [CParseProtocol::GetGlobalParam@11301] Get global param ProcedureCallbackMode = 0
+
+2026-03-11 20:48:26.673 INFO  [12724] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 20:48:26.673 INFO  [12724] [CModuProxyManager::SetMsgMode@1911] Set msg mode 1 -> true
+
+2026-03-11 20:48:26.981 INFO  [29924] [CMVDExportManager::E_MVD_SetImageBufferNodeNum@210] [Init] Set image buffer node num 2
+
+2026-03-11 20:48:27.149 INFO  [29924] [CMVDExportManager::SetClockGpuImpl@418] reset gpu clocks, ret 0
+
+2026-03-11 20:48:27.149 INFO  [29924] [CParseProtocol::SetAddModuleEnableSingle@5211] Resources are ready
+
+2026-03-11 20:48:27.149 INFO  [29924] [CModuProxyManager::SetImageSrcTempPath@922] start
+
+2026-03-11 20:48:27.163 ERROR [29924] [CCommonFunction::IsProcessExist@1580] CreateToolhelp32Snapshot fail, error:[299]
+
+2026-03-11 20:48:27.163 INFO  [29924] [CModuProxyManager::SetImageSrcTempPath@981] Delete Last image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM10984ImgSrcTemp]
+
+2026-03-11 20:48:27.164 INFO  [29924] [CModuProxyManager::SetImageSrcTempPath@1017] Proxy: Current image source temp path:[F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM12360ImgSrcTemp]
+
+2026-03-11 20:48:27.164 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@427] [Resource] StartAwakGPUTool start
+
+2026-03-11 20:48:27.208 INFO  [29924] [CModuProxyManager::StartAwakGPUTool@1085] Awake GPU Tool successed.
+
+2026-03-11 20:48:27.208 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@429] [Resource] StartAwakGPUTool end
+
+2026-03-11 20:48:27.209 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@442] Delete image temp path F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM10984ImgSrcTemp, success
+
+2026-03-11 20:48:27.209 INFO  [29924] [CModuProxyManager::ResourceThreadProcess@446] [Resource] Init finish
+

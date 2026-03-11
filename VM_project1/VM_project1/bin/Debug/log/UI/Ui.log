@@ -13533,3 +13533,821 @@ Level：INFO  MSG：ProcessID-23932-,2026-03-10 22:39:09.639 [28] [VmSolution::M
 
 Level：INFO  MSG：ProcessID-23932-,2026-03-10 22:39:09.644 [13] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
 
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:46:09.896 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:46:10.678 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,212F9C96F50
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:46:21.343 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:46:22.045 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.316 [20] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调开始
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.316 [20] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 开始获取界面数据
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.322 [20] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 结束获取界面数据
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.322 [20] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调结束
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.372 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CalibData
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.379 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为GUID
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.386 [1] [VmModule::PreAddModuleTo] Add module:流程1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.393 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取前
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.398 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取后
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.493 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.496 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.499 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取前
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.504 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取后
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.533 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为GUID
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.535 [1] [VmModule::PreAddModuleTo] Add module:图像源1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.543 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为GUID
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.544 [1] [VmModule::PreAddModuleTo] Add module:颜色转换1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.622 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为GUID
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.626 [1] [VmModule::PreAddModuleTo] Add module:字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.646 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为GUID
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.647 [1] [VmModule::PreAddModuleTo] Add module:格式化1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.650 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---begin
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.650 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---end
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.709 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.710 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.710 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.730 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsReady
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.731 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.732 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.812 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.814 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.840 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasOrignalPoint
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.844 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasWidthNum
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.844 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasHeightNum
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.853 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.872 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsReady
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.873 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.875 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsReady
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.876 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.877 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsReady
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.878 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.878 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsReady
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.882 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为PathPoints颜色转换1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.883 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为PathPoints字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:54.883 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为PathPoints格式化1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.115 [18] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------begin
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.115 [18] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------end
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.115 [18] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.416 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.662 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.666 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%输出图像%_[Child]
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.666 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%原始图像%_[Child]
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.682 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.687 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.699 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.758 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.891 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.RoiSelect
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.896 [1] [ROISelecter::GetBinaryData] ComName：RoiType,valueLength:[2]
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.902 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.InheritWay
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.911 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.ExternRoiSelect
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.914 [1] [ROISelecter::GetBinaryData] ComName：ExternRoiType,valueLength:[2]
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:55.918 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.SelectWay
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.086 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.099 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.293 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunScaleY
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.326 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunScaleX
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.369 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunAngle
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.384 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunPointY
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.407 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunPointX
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.431 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@Assist0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:48:56.625 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@OutputMaskImage
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:07.376 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:08.047 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData_CreatImageBuffer
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:08.062 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData_CreatImageBuffer
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:08.076 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_PointsData
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:08.291 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_FlagsData
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:30.307 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:35.965 [20] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:35.984 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:36.009 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:36.671 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:36.674 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:36.674 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:36.674 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:36.693 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:37.841 [6] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:37.848 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:37.864 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.256 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.257 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.257 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.257 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.261 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.978 [21] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:38.982 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:39.010 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:39.516 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:39.516 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:39.516 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:39.516 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:39.541 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:40.663 [22] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:40.667 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:40.671 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.064 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.064 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.064 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.064 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.068 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.789 [21] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.794 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:41.819 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:42.306 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:42.306 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:42.306 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:42.306 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:42.327 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.434 [3] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.438 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.452 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.829 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.829 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.829 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.829 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:43.856 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:44.548 [4] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:44.553 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:44.581 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:45.064 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:45.064 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:45.064 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:45.064 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:45.066 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.188 [7] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.192 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.221 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.584 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.585 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.585 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.585 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:46.602 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.309 [17] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.312 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.322 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.850 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.850 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.850 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.850 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:47.852 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:48.977 [30] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:48.981 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:48.997 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:49.380 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:49.380 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:49.380 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:49.380 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:49.400 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.127 [28] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.132 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.148 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.661 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.661 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.661 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.661 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:50.688 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:51.807 [7] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:51.811 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:51.835 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.221 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.221 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.221 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.221 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.249 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.931 [19] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.933 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:52.940 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:53.441 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:53.441 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:53.441 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:53.441 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:53.463 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.542 [22] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.545 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.555 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.951 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.951 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.951 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.951 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:54.958 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:56.083 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:58.083 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:49:58.876 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.293 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.298 [14] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.325 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.800 [24] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.800 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.800 [24] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.800 [24] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-9612-,2026-03-11 15:50:00.819 [12] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-27280-,2026-03-11 18:23:49.180 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-27280-,2026-03-11 18:23:50.039 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,220FE25EFB0
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-21056-,2026-03-11 19:18:27.370 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-21056-,2026-03-11 19:18:28.064 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,22398704A80
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:14.971 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:15.444 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,2774E8DECC0
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:37.651 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:38.389 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.692 [19] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调开始
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.693 [19] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 开始获取界面数据
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.699 [19] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 结束获取界面数据
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.699 [19] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调结束
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.750 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CalibData
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.757 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为GUID
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.764 [1] [VmModule::PreAddModuleTo] Add module:流程1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.789 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取前
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.797 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取后
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.892 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.895 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.899 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取前
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.909 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取后
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.942 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为GUID
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.944 [1] [VmModule::PreAddModuleTo] Add module:图像源1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.955 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为GUID
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:51.956 [1] [VmModule::PreAddModuleTo] Add module:颜色转换1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.034 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为GUID
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.035 [18] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------begin
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.036 [18] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------end
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.036 [18] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.037 [1] [VmModule::PreAddModuleTo] Add module:字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.054 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为GUID
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.055 [1] [VmModule::PreAddModuleTo] Add module:格式化1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.065 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---begin
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.066 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---end
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.123 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.125 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.125 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.144 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsReady
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.145 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.147 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.221 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.223 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.250 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasOrignalPoint
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.253 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasWidthNum
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.254 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasHeightNum
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.262 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.280 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsReady
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.280 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.282 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsReady
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.283 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.285 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsReady
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.285 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.286 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsReady
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.290 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为PathPoints颜色转换1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.291 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为PathPoints字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.291 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为PathPoints格式化1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:52.824 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.122 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.125 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%输出图像%_[Child]
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.126 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%原始图像%_[Child]
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.140 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.145 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.157 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:31:53.194 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.022 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.041 [21] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.054 [11] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.679 [23] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.682 [23] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.682 [23] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.682 [23] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:10.708 [11] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:29.601 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:35.266 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.386 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.390 [21] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.396 [11] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.966 [23] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.967 [23] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.967 [23] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.967 [23] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-25036-,2026-03-11 19:32:36.988 [11] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:16.446 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:17.180 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,26C69B7C190
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:32.214 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:32.901 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.305 [22] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调开始
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.305 [22] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 开始获取界面数据
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.310 [22] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 结束获取界面数据
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.310 [22] [VmSolution::MSolutionManager_OnUIGlobalProcessObjectIDCallBack] 通知获取界面数据回调结束
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.354 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CalibData
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.362 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为GUID
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.369 [1] [VmModule::PreAddModuleTo] Add module:流程1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.375 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取前
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.388 [1] [VmModuleBaseDecorator::.cctor] ------yytest----------displaytype获取后
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.468 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.473 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.477 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取前
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.481 [1] [VmModuleSet::LoadModules] GetFirstLayerModuleTree获取后
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.512 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为GUID
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.514 [1] [VmModule::PreAddModuleTo] Add module:图像源1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.523 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为GUID
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.523 [1] [VmModule::PreAddModuleTo] Add module:颜色转换1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.546 [10] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------begin
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.546 [10] [VmSolution::MSolutionManager_OnSolutionLoadEndCallBack] 加载方案后失败状态 ------end
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.546 [10] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.611 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为GUID
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.614 [1] [VmModule::PreAddModuleTo] Add module:字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.928 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为GUID
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.929 [1] [VmModule::PreAddModuleTo] Add module:格式化1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.942 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---begin
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.942 [1] [VmModuleSet::LoadConnections] 加载方案后失败状态 ---VmModuleSet---end
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:46.998 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.000 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.000 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasType
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.028 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsReady
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.029 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为ProceZoomIndex
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.031 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.099 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.101 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为IsOpenSubscriptionView
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.137 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasOrignalPoint
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.140 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasWidthNum
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.141 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为CanvasHeightNum
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.150 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.168 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为IsReady
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.169 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.171 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为IsReady
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.171 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.173 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsReady
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.173 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsNoted
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.175 [1] [UserData::get_Item] 获取userdata模块ID名为3 格式化1,key为IsReady
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.179 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为PathPoints颜色转换1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.180 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为PathPoints字符缺陷检测1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.180 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为PathPoints格式化1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.669 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.888 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.891 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%输出图像%_[Child]
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.892 [1] [UserData::get_Item] 获取userdata模块ID名为10000 流程1,key为DynamicObject_%原始图像%_[Child]
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.914 [1] [UserData::get_Item] 获取userdata模块ID名为0 图像源1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.920 [1] [UserData::get_Item] 获取userdata模块ID名为1 颜色转换1,key为DynamicObject
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.936 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:47.992 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.112 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.RoiSelect
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.116 [1] [ROISelecter::GetBinaryData] ComName：RoiType,valueLength:[2]
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.121 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.InheritWay
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.128 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.ExternRoiSelect
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.130 [1] [ROISelecter::GetBinaryData] ComName：ExternRoiType,valueLength:[2]
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.133 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为Param.SelectWay
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.236 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为CheckedImages
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.254 [1] [RenderControlBase::OnModuleSourceChanged] VmRenderControl Binding Process [流程1]
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.363 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunScaleY
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.395 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunScaleX
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.409 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunAngle
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.432 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunPointY
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.446 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IsExpressionMode_RunPointX
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.472 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@Assist0
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:43:48.666 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为@OutputMaskImage
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:00.322 [1] [ModuleManager::SetParamValue] 设置参数:(ID)0 (参数名)ClearImage (参数值)
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:00.341 [27] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为1
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:00.349 [13] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateRunStatus流程ID为10000空闲状态为item.IsRunningTrue
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:01.010 [28] [VmSolution::MProcessManager_OnWorkStatusCallBack] 入队MProcessManager_OnWorkStatusCallBack回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:01.012 [28] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 流程停止状态MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调，流程ID为10000ContinusRunStatus状态为false
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:01.013 [28] [VmProcedure::UpdateContinusRunStatus] 实际进入UpdateContinusRunStatus--给continousRunEnable设值False
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:01.013 [28] [VmSolution::MProcessManager_OnModuleStopRunProcessStatusCallBack] 入队MProcessManager_OnModuleStopRunProcessStatusCallBack流程停止回调流程ID为10000空闲状态为0
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:01.036 [13] [VmSolution::<CallBackWaitNotify>b__219_0] 队列开始向界面发送实际状态UpdateContinusRunStatus流程ID为10000空闲状态为item.IsRunningFalse
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:17.344 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:18.173 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData_CreatImageBuffer
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:18.188 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_TrainData_CreatImageBuffer
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:18.202 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_PointsData
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:18.434 [1] [UserData::get_Item] 获取userdata模块ID名为2 字符缺陷检测1,key为IMVSMarkInspModuVA_FlagsData
+
+Level：INFO  MSG：ProcessID-23616-,2026-03-11 19:44:20.048 [1] [ModuleManager::SetParamValue] 设置参数:(ID)2 (参数名)RoughMatchInfoSour (参数值)0
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-24956-,2026-03-11 19:53:15.615 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-24956-,2026-03-11 19:53:16.107 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,2262E1CA190
+
+Level：INFO  MSG：ProcessID-24956-,2026-03-11 19:53:22.195 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-24956-,2026-03-11 19:53:22.885 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-2340-,2026-03-11 20:19:23.588 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-2340-,2026-03-11 20:19:24.283 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,1546AE68EA0
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-10984-,2026-03-11 20:36:18.660 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-10984-,2026-03-11 20:36:19.194 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,149CBBDF420
+
+Level：INFO  MSG：ProcessID-10984-,2026-03-11 20:36:37.938 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-10984-,2026-03-11 20:36:38.614 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+
+Level：INFO  MSG：ProcessID-12360-,2026-03-11 20:48:25.995 [1] [CVmObjectBase::.ctor] Start CreateHandleDll:127.0.0.1,5556
+
+Level：INFO  MSG：ProcessID-12360-,2026-03-11 20:48:26.678 [1] [CVmObjectBase::.ctor] CreateHandleDll success:127.0.0.1,5556,24E63457550
+
+Level：INFO  MSG：ProcessID-12360-,2026-03-11 20:48:30.262 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(start)
+
+Level：INFO  MSG：ProcessID-12360-,2026-03-11 20:48:30.909 [1] [ToolBoxData::LoadData] ToolBoxData.LoadData(end)
+
+Level：INFO  MSG：F:\apps\VM5.0\VisionMaster5.0.0\Development\V4.x\ComControls\Assembly\\ColorCFG\ColorStyleSet.cfg
+
+Level：INFO  MSG：color resource loaded successfully
+

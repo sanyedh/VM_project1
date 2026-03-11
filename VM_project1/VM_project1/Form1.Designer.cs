@@ -1,4 +1,4 @@
-﻿namespace VM_project1
+namespace VM_project1
 {
     partial class Form1
     {
@@ -65,11 +65,23 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.Scheme_save = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.pnlModelConfig = new System.Windows.Forms.Panel();
             this.pnlLogs = new System.Windows.Forms.Panel();
             this.groupBoxLogs = new System.Windows.Forms.GroupBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
-            this.pnlModelConfig = new System.Windows.Forms.Panel();
-            this.vmParamsConfigWithRenderControl1 = new VMControls.Winform.Release.VmParamsConfigWithRenderControl();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.vmRenderControl2 = new VMControls.Winform.Release.VmRenderControl();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.pnlMenu.SuspendLayout();
             this.pnlTopBar.SuspendLayout();
             this.pnlMain.SuspendLayout();
@@ -91,9 +103,16 @@
             this.splitContainer1.SuspendLayout();
             this.groupBoxFlow.SuspendLayout();
             this.groupBoxConfigTop.SuspendLayout();
+            this.pnlModelConfig.SuspendLayout();
             this.pnlLogs.SuspendLayout();
             this.groupBoxLogs.SuspendLayout();
-            this.pnlModelConfig.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.groupBox4.SuspendLayout();
+            this.groupBox5.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlMenu
@@ -105,9 +124,9 @@
             this.pnlMenu.Controls.Add(this.btnNavDashboard);
             this.pnlMenu.Controls.Add(this.lblLogo);
             this.pnlMenu.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pnlMenu.Location = new System.Drawing.Point(0, 0);
+            this.pnlMenu.Location = new System.Drawing.Point(0, 70);
             this.pnlMenu.Name = "pnlMenu";
-            this.pnlMenu.Size = new System.Drawing.Size(200, 850);
+            this.pnlMenu.Size = new System.Drawing.Size(200, 780);
             this.pnlMenu.TabIndex = 0;
             // 
             // btnNavModelConfig
@@ -118,7 +137,7 @@
             this.btnNavModelConfig.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNavModelConfig.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnNavModelConfig.ForeColor = System.Drawing.Color.White;
-            this.btnNavModelConfig.Location = new System.Drawing.Point(0, 190);
+            this.btnNavModelConfig.Location = new System.Drawing.Point(0, 250);
             this.btnNavModelConfig.Name = "btnNavModelConfig";
             this.btnNavModelConfig.Size = new System.Drawing.Size(200, 60);
             this.btnNavModelConfig.TabIndex = 4;
@@ -134,7 +153,7 @@
             this.btnNavLogs.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNavLogs.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.btnNavLogs.ForeColor = System.Drawing.Color.White;
-            this.btnNavLogs.Location = new System.Drawing.Point(0, 250);
+            this.btnNavLogs.Location = new System.Drawing.Point(0, 190);
             this.btnNavLogs.Name = "btnNavLogs";
             this.btnNavLogs.Size = new System.Drawing.Size(200, 60);
             this.btnNavLogs.TabIndex = 3;
@@ -201,9 +220,9 @@
             this.pnlTopBar.Controls.Add(this.lblUptime);
             this.pnlTopBar.Controls.Add(this.labelTitle);
             this.pnlTopBar.Dock = System.Windows.Forms.DockStyle.Top;
-            this.pnlTopBar.Location = new System.Drawing.Point(200, 0);
+            this.pnlTopBar.Location = new System.Drawing.Point(0, 0);
             this.pnlTopBar.Name = "pnlTopBar";
-            this.pnlTopBar.Size = new System.Drawing.Size(1282, 70);
+            this.pnlTopBar.Size = new System.Drawing.Size(1482, 70);
             this.pnlTopBar.TabIndex = 1;
             // 
             // btnImportSample
@@ -213,7 +232,7 @@
             this.btnImportSample.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnImportSample.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Bold);
             this.btnImportSample.ForeColor = System.Drawing.Color.White;
-            this.btnImportSample.Location = new System.Drawing.Point(796, 15);
+            this.btnImportSample.Location = new System.Drawing.Point(996, 15);
             this.btnImportSample.Name = "btnImportSample";
             this.btnImportSample.Size = new System.Drawing.Size(110, 40);
             this.btnImportSample.TabIndex = 9;
@@ -228,7 +247,7 @@
             this.btnStopRun.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnStopRun.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Bold);
             this.btnStopRun.ForeColor = System.Drawing.Color.White;
-            this.btnStopRun.Location = new System.Drawing.Point(1170, 15);
+            this.btnStopRun.Location = new System.Drawing.Point(1370, 15);
             this.btnStopRun.Name = "btnStopRun";
             this.btnStopRun.Size = new System.Drawing.Size(100, 40);
             this.btnStopRun.TabIndex = 8;
@@ -243,7 +262,7 @@
             this.btnContinuousRun.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnContinuousRun.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Bold);
             this.btnContinuousRun.ForeColor = System.Drawing.Color.White;
-            this.btnContinuousRun.Location = new System.Drawing.Point(1037, 15);
+            this.btnContinuousRun.Location = new System.Drawing.Point(1237, 15);
             this.btnContinuousRun.Name = "btnContinuousRun";
             this.btnContinuousRun.Size = new System.Drawing.Size(118, 40);
             this.btnContinuousRun.TabIndex = 7;
@@ -258,7 +277,7 @@
             this.Scheme_run.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Scheme_run.Font = new System.Drawing.Font("微软雅黑", 10F, System.Drawing.FontStyle.Bold);
             this.Scheme_run.ForeColor = System.Drawing.Color.White;
-            this.Scheme_run.Location = new System.Drawing.Point(916, 15);
+            this.Scheme_run.Location = new System.Drawing.Point(1116, 15);
             this.Scheme_run.Name = "Scheme_run";
             this.Scheme_run.Size = new System.Drawing.Size(100, 40);
             this.Scheme_run.TabIndex = 6;
@@ -335,9 +354,9 @@
             // pnlMain
             // 
             this.pnlMain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
+            this.pnlMain.Controls.Add(this.pnlModelConfig);
             this.pnlMain.Controls.Add(this.pnlDashboard);
             this.pnlMain.Controls.Add(this.pnlConfig);
-            this.pnlMain.Controls.Add(this.pnlModelConfig);
             this.pnlMain.Controls.Add(this.pnlLogs);
             this.pnlMain.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlMain.Location = new System.Drawing.Point(200, 70);
@@ -593,6 +612,7 @@
             this.vmProcedureConfigControl1.Name = "vmProcedureConfigControl1";
             this.vmProcedureConfigControl1.Size = new System.Drawing.Size(594, 651);
             this.vmProcedureConfigControl1.TabIndex = 0;
+// TODO: “”的代码生成失败，原因是出现异常“无效的基元类型: System.IntPtr。请考虑使用 CodeObjectCreateExpression。”。
             // 
             // groupBoxConfigTop
             // 
@@ -656,6 +676,17 @@
             this.label1.TabIndex = 4;
             this.label1.Text = "方案路径";
             // 
+            // pnlModelConfig
+            // 
+            this.pnlModelConfig.Controls.Add(this.groupBox2);
+            this.pnlModelConfig.Controls.Add(this.groupBox1);
+            this.pnlModelConfig.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlModelConfig.Location = new System.Drawing.Point(10, 10);
+            this.pnlModelConfig.Name = "pnlModelConfig";
+            this.pnlModelConfig.Size = new System.Drawing.Size(1262, 760);
+            this.pnlModelConfig.TabIndex = 2;
+            this.pnlModelConfig.Visible = false;
+            // 
             // pnlLogs
             // 
             this.pnlLogs.Controls.Add(this.groupBoxLogs);
@@ -688,31 +719,137 @@
             this.listBox1.Size = new System.Drawing.Size(1256, 731);
             this.listBox1.TabIndex = 0;
             // 
-            // pnlModelConfig
+            // groupBox1
             // 
-            this.pnlModelConfig.Controls.Add(this.vmParamsConfigWithRenderControl1);
-            this.pnlModelConfig.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlModelConfig.Location = new System.Drawing.Point(10, 10);
-            this.pnlModelConfig.Name = "pnlModelConfig";
-            this.pnlModelConfig.Size = new System.Drawing.Size(1262, 760);
-            this.pnlModelConfig.TabIndex = 2;
-            this.pnlModelConfig.Visible = false;
+            this.groupBox1.Controls.Add(this.tabControl1);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.groupBox1.Location = new System.Drawing.Point(0, 6);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(427, 764);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "配置";
             // 
-            // vmParamsConfigWithRenderControl1
+            // groupBox2
             // 
-            this.vmParamsConfigWithRenderControl1.BackColor = System.Drawing.Color.White;
-            this.vmParamsConfigWithRenderControl1.CoordinateInfoVisible = true;
-            this.vmParamsConfigWithRenderControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.vmParamsConfigWithRenderControl1.ImageSource = null;
-            this.vmParamsConfigWithRenderControl1.Location = new System.Drawing.Point(0, 0);
-            this.vmParamsConfigWithRenderControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.vmParamsConfigWithRenderControl1.ModuleSource = null;
-            this.vmParamsConfigWithRenderControl1.MultiImageButtonVisible = true;
-            this.vmParamsConfigWithRenderControl1.Name = "vmParamsConfigWithRenderControl1";
-            this.vmParamsConfigWithRenderControl1.ParamsConfig = null;
-            this.vmParamsConfigWithRenderControl1.ROIVisible = true;
-            this.vmParamsConfigWithRenderControl1.Size = new System.Drawing.Size(1262, 760);
-            this.vmParamsConfigWithRenderControl1.TabIndex = 0;
+            this.groupBox2.Controls.Add(this.vmRenderControl2);
+            this.groupBox2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.groupBox2.Location = new System.Drawing.Point(433, 9);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(826, 761);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "图像显示";
+            // 
+            // vmRenderControl2
+            // 
+            this.vmRenderControl2.BackColor = System.Drawing.Color.Black;
+            this.vmRenderControl2.CoordinateInfoVisible = true;
+            this.vmRenderControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.vmRenderControl2.ImageSource = null;
+            this.vmRenderControl2.IsShowCustomROIMenu = false;
+            this.vmRenderControl2.Location = new System.Drawing.Point(3, 21);
+            this.vmRenderControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.vmRenderControl2.ModuleSource = null;
+            this.vmRenderControl2.Name = "vmRenderControl2";
+            this.vmRenderControl2.Size = new System.Drawing.Size(820, 737);
+            this.vmRenderControl2.TabIndex = 0;
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(3, 13);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(418, 745);
+            this.tabControl1.TabIndex = 0;
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.groupBox5);
+            this.tabPage1.Controls.Add(this.groupBox4);
+            this.tabPage1.Controls.Add(this.groupBox3);
+            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Size = new System.Drawing.Size(410, 716);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "1、裁切定位";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Size = new System.Drawing.Size(410, 716);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "2、检测配置";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.textBox4);
+            this.groupBox3.Controls.Add(this.textBox3);
+            this.groupBox3.Location = new System.Drawing.Point(3, 17);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(396, 145);
+            this.groupBox3.TabIndex = 0;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "1、导入基准图像";
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.textBox5);
+            this.groupBox4.Location = new System.Drawing.Point(3, 168);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(396, 145);
+            this.groupBox4.TabIndex = 1;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "2、裁剪检测区域";
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.textBox2);
+            this.groupBox5.Location = new System.Drawing.Point(3, 319);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(396, 145);
+            this.groupBox5.TabIndex = 1;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "3、绘制定位点框";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(3, 21);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(387, 37);
+            this.textBox2.TabIndex = 0;
+            this.textBox2.Text = "在检测区域内，绘制点框进行建模，从而实现剪切小图\r\n与样张小图对齐，且支持绘制多个定位框";
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(6, 25);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(217, 25);
+            this.textBox3.TabIndex = 0;
+            this.textBox3.Text = "导入一张OK图像进行建模配置";
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(6, 81);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(76, 25);
+            this.textBox4.TabIndex = 1;
+            this.textBox4.Text = "导入图像";
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(7, 28);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(296, 25);
+            this.textBox5.TabIndex = 0;
+            this.textBox5.Text = "在放大图中绘制裁切区域，以明确检测区域";
             // 
             // Form1
             // 
@@ -720,8 +857,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1482, 850);
             this.Controls.Add(this.pnlMain);
-            this.Controls.Add(this.pnlTopBar);
             this.Controls.Add(this.pnlMenu);
+            this.Controls.Add(this.pnlTopBar);
             this.Name = "Form1";
             this.Text = "印刷质量检测软件";
             this.pnlMenu.ResumeLayout(false);
@@ -747,9 +884,19 @@
             this.groupBoxFlow.ResumeLayout(false);
             this.groupBoxConfigTop.ResumeLayout(false);
             this.groupBoxConfigTop.PerformLayout();
+            this.pnlModelConfig.ResumeLayout(false);
             this.pnlLogs.ResumeLayout(false);
             this.groupBoxLogs.ResumeLayout(false);
-            this.pnlModelConfig.ResumeLayout(false);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -814,11 +961,23 @@
 
         // 子页面3：建模配置
         private System.Windows.Forms.Panel pnlModelConfig;
-        private VMControls.Winform.Release.VmParamsConfigWithRenderControl vmParamsConfigWithRenderControl1;
 
         // 子页面4：系统日志
         private System.Windows.Forms.Panel pnlLogs;
         private System.Windows.Forms.GroupBox groupBoxLogs;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private VMControls.Winform.Release.VmRenderControl vmRenderControl2;
+        private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBox3;
     }
 }
