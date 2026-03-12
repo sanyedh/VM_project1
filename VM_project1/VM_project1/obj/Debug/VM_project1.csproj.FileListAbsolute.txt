@@ -8,3 +8,5 @@ F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.csproj.CoreCompile
 F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.exe
 F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.pdb
 F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_project1.Form1.resources
+F:\c_program\VM\VM_project1\VM_project1\bin\Debug\VMControls.WPF.dll
+F:\c_program\VM\VM_project1\VM_project1\obj\Debug\VM_proje.7D7B2569.Up2Date

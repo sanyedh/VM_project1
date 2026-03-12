@@ -39,6 +39,20 @@ namespace VM_project1
             this.lblUptime = new System.Windows.Forms.Label();
             this.labelTitle = new System.Windows.Forms.Label();
             this.pnlMain = new System.Windows.Forms.Panel();
+            this.pnlModelConfig = new System.Windows.Forms.Panel();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.vmRenderControl2 = new VMControls.Winform.Release.VmRenderControl();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.pnlDashboard = new System.Windows.Forms.Panel();
             this.tlpMain = new System.Windows.Forms.TableLayoutPanel();
             this.tlpLeft = new System.Windows.Forms.TableLayoutPanel();
@@ -65,26 +79,28 @@ namespace VM_project1
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.Scheme_save = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
-            this.pnlModelConfig = new System.Windows.Forms.Panel();
             this.pnlLogs = new System.Windows.Forms.Panel();
             this.groupBoxLogs = new System.Windows.Forms.GroupBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.vmRenderControl2 = new VMControls.Winform.Release.VmRenderControl();
-            this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.groupBox7 = new System.Windows.Forms.GroupBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.pnlMenu.SuspendLayout();
             this.pnlTopBar.SuspendLayout();
             this.pnlMain.SuspendLayout();
+            this.pnlModelConfig.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.tabControl1.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            this.groupBox5.SuspendLayout();
+            this.groupBox4.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.tabPage2.SuspendLayout();
             this.pnlDashboard.SuspendLayout();
             this.tlpMain.SuspendLayout();
             this.tlpLeft.SuspendLayout();
@@ -103,16 +119,9 @@ namespace VM_project1
             this.splitContainer1.SuspendLayout();
             this.groupBoxFlow.SuspendLayout();
             this.groupBoxConfigTop.SuspendLayout();
-            this.pnlModelConfig.SuspendLayout();
             this.pnlLogs.SuspendLayout();
             this.groupBoxLogs.SuspendLayout();
-            this.groupBox1.SuspendLayout();
-            this.groupBox2.SuspendLayout();
-            this.tabControl1.SuspendLayout();
-            this.tabPage1.SuspendLayout();
-            this.groupBox3.SuspendLayout();
-            this.groupBox4.SuspendLayout();
-            this.groupBox5.SuspendLayout();
+            this.groupBox6.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlMenu
@@ -364,6 +373,152 @@ namespace VM_project1
             this.pnlMain.Padding = new System.Windows.Forms.Padding(10);
             this.pnlMain.Size = new System.Drawing.Size(1282, 780);
             this.pnlMain.TabIndex = 2;
+            // 
+            // pnlModelConfig
+            // 
+            this.pnlModelConfig.Controls.Add(this.groupBox2);
+            this.pnlModelConfig.Controls.Add(this.groupBox1);
+            this.pnlModelConfig.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlModelConfig.Location = new System.Drawing.Point(10, 10);
+            this.pnlModelConfig.Name = "pnlModelConfig";
+            this.pnlModelConfig.Size = new System.Drawing.Size(1262, 760);
+            this.pnlModelConfig.TabIndex = 2;
+            this.pnlModelConfig.Visible = false;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.vmRenderControl2);
+            this.groupBox2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.groupBox2.Location = new System.Drawing.Point(433, 9);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(826, 761);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "图像显示";
+            // 
+            // vmRenderControl2
+            // 
+            this.vmRenderControl2.BackColor = System.Drawing.Color.Black;
+            this.vmRenderControl2.CoordinateInfoVisible = true;
+            this.vmRenderControl2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.vmRenderControl2.ImageSource = null;
+            this.vmRenderControl2.IsShowCustomROIMenu = false;
+            this.vmRenderControl2.Location = new System.Drawing.Point(3, 21);
+            this.vmRenderControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.vmRenderControl2.ModuleSource = null;
+            this.vmRenderControl2.Name = "vmRenderControl2";
+            this.vmRenderControl2.Size = new System.Drawing.Size(820, 737);
+            this.vmRenderControl2.TabIndex = 0;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.tabControl1);
+            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.groupBox1.Location = new System.Drawing.Point(0, 6);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(427, 764);
+            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "配置";
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Location = new System.Drawing.Point(3, 13);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(418, 745);
+            this.tabControl1.TabIndex = 0;
+            this.tabControl1.SelectedIndexChanged += new System.EventHandler(this.tabControl1_SelectedIndexChanged);
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.groupBox5);
+            this.tabPage1.Controls.Add(this.groupBox4);
+            this.tabPage1.Controls.Add(this.groupBox3);
+            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Size = new System.Drawing.Size(410, 716);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "1、裁切定位";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.textBox2);
+            this.groupBox5.Location = new System.Drawing.Point(3, 319);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(396, 145);
+            this.groupBox5.TabIndex = 1;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "3、绘制定位点框";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(3, 21);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(387, 37);
+            this.textBox2.TabIndex = 0;
+            this.textBox2.Text = "在检测区域内，绘制点框进行建模，从而实现剪切小图\r\n与样张小图对齐，且支持绘制多个定位框";
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            // 
+            // groupBox4
+            // 
+            this.groupBox4.Controls.Add(this.textBox5);
+            this.groupBox4.Location = new System.Drawing.Point(3, 168);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(396, 145);
+            this.groupBox4.TabIndex = 1;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "2、裁剪检测区域";
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(7, 28);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(296, 25);
+            this.textBox5.TabIndex = 0;
+            this.textBox5.Text = "在放大图中绘制裁切区域，以明确检测区域";
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.textBox4);
+            this.groupBox3.Controls.Add(this.textBox3);
+            this.groupBox3.Location = new System.Drawing.Point(3, 17);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(396, 145);
+            this.groupBox3.TabIndex = 0;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "1、导入基准图像";
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(6, 81);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(76, 25);
+            this.textBox4.TabIndex = 1;
+            this.textBox4.Text = "导入图像";
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(6, 25);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(217, 25);
+            this.textBox3.TabIndex = 0;
+            this.textBox3.Text = "导入一张OK图像进行建模配置";
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.groupBox7);
+            this.tabPage2.Controls.Add(this.groupBox6);
+            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Size = new System.Drawing.Size(410, 716);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "2、检测配置";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // pnlDashboard
             // 
@@ -676,17 +831,6 @@ namespace VM_project1
             this.label1.TabIndex = 4;
             this.label1.Text = "方案路径";
             // 
-            // pnlModelConfig
-            // 
-            this.pnlModelConfig.Controls.Add(this.groupBox2);
-            this.pnlModelConfig.Controls.Add(this.groupBox1);
-            this.pnlModelConfig.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlModelConfig.Location = new System.Drawing.Point(10, 10);
-            this.pnlModelConfig.Name = "pnlModelConfig";
-            this.pnlModelConfig.Size = new System.Drawing.Size(1262, 760);
-            this.pnlModelConfig.TabIndex = 2;
-            this.pnlModelConfig.Visible = false;
-            // 
             // pnlLogs
             // 
             this.pnlLogs.Controls.Add(this.groupBoxLogs);
@@ -719,137 +863,81 @@ namespace VM_project1
             this.listBox1.Size = new System.Drawing.Size(1256, 731);
             this.listBox1.TabIndex = 0;
             // 
-            // groupBox1
+            // groupBox6
             // 
-            this.groupBox1.Controls.Add(this.tabControl1);
-            this.groupBox1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.groupBox1.Location = new System.Drawing.Point(0, 6);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(427, 764);
-            this.groupBox1.TabIndex = 0;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "配置";
+            this.groupBox6.Controls.Add(this.radioButton3);
+            this.groupBox6.Controls.Add(this.radioButton2);
+            this.groupBox6.Controls.Add(this.radioButton1);
+            this.groupBox6.Controls.Add(this.textBox7);
+            this.groupBox6.Controls.Add(this.textBox6);
+            this.groupBox6.Location = new System.Drawing.Point(17, 17);
+            this.groupBox6.Name = "groupBox6";
+            this.groupBox6.Size = new System.Drawing.Size(378, 144);
+            this.groupBox6.TabIndex = 0;
+            this.groupBox6.TabStop = false;
+            this.groupBox6.Text = "检测区域";
             // 
-            // groupBox2
+            // groupBox7
             // 
-            this.groupBox2.Controls.Add(this.vmRenderControl2);
-            this.groupBox2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.groupBox2.Location = new System.Drawing.Point(433, 9);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(826, 761);
-            this.groupBox2.TabIndex = 1;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "图像显示";
+            this.groupBox7.Location = new System.Drawing.Point(17, 167);
+            this.groupBox7.Name = "groupBox7";
+            this.groupBox7.Size = new System.Drawing.Size(378, 537);
+            this.groupBox7.TabIndex = 1;
+            this.groupBox7.TabStop = false;
+            this.groupBox7.Text = "参数设置";
             // 
-            // vmRenderControl2
+            // textBox6
             // 
-            this.vmRenderControl2.BackColor = System.Drawing.Color.Black;
-            this.vmRenderControl2.CoordinateInfoVisible = true;
-            this.vmRenderControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.vmRenderControl2.ImageSource = null;
-            this.vmRenderControl2.IsShowCustomROIMenu = false;
-            this.vmRenderControl2.Location = new System.Drawing.Point(3, 21);
-            this.vmRenderControl2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.vmRenderControl2.ModuleSource = null;
-            this.vmRenderControl2.Name = "vmRenderControl2";
-            this.vmRenderControl2.Size = new System.Drawing.Size(820, 737);
-            this.vmRenderControl2.TabIndex = 0;
+            this.textBox6.Location = new System.Drawing.Point(7, 25);
+            this.textBox6.Multiline = true;
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(365, 41);
+            this.textBox6.TabIndex = 0;
+            this.textBox6.Text = "检测内容包括一维码、二维码（个数可变，尽量考虑多个码的场景）、文字图案";
             // 
-            // tabControl1
+            // textBox7
             // 
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Location = new System.Drawing.Point(3, 13);
-            this.tabControl1.Name = "tabControl1";
-            this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(418, 745);
-            this.tabControl1.TabIndex = 0;
+            this.textBox7.Location = new System.Drawing.Point(7, 93);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(67, 25);
+            this.textBox7.TabIndex = 1;
+            this.textBox7.Text = "ROI绘制";
             // 
-            // tabPage1
+            // radioButton1
             // 
-            this.tabPage1.Controls.Add(this.groupBox5);
-            this.tabPage1.Controls.Add(this.groupBox4);
-            this.tabPage1.Controls.Add(this.groupBox3);
-            this.tabPage1.Location = new System.Drawing.Point(4, 25);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Size = new System.Drawing.Size(410, 716);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "1、裁切定位";
-            this.tabPage1.UseVisualStyleBackColor = true;
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.radioButton1.Location = new System.Drawing.Point(92, 94);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(73, 19);
+            this.radioButton1.TabIndex = 2;
+            this.radioButton1.Text = "一维码";
+            this.radioButton1.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
+            // radioButton2
             // 
-            this.tabPage2.Location = new System.Drawing.Point(4, 25);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Size = new System.Drawing.Size(410, 716);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "2、检测配置";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.radioButton2.Location = new System.Drawing.Point(186, 93);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(73, 19);
+            this.radioButton2.TabIndex = 3;
+            this.radioButton2.Text = "二维码";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
-            // groupBox3
+            // radioButton3
             // 
-            this.groupBox3.Controls.Add(this.textBox4);
-            this.groupBox3.Controls.Add(this.textBox3);
-            this.groupBox3.Location = new System.Drawing.Point(3, 17);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(396, 145);
-            this.groupBox3.TabIndex = 0;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "1、导入基准图像";
-            // 
-            // groupBox4
-            // 
-            this.groupBox4.Controls.Add(this.textBox5);
-            this.groupBox4.Location = new System.Drawing.Point(3, 168);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(396, 145);
-            this.groupBox4.TabIndex = 1;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "2、裁剪检测区域";
-            // 
-            // groupBox5
-            // 
-            this.groupBox5.Controls.Add(this.textBox2);
-            this.groupBox5.Location = new System.Drawing.Point(3, 319);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(396, 145);
-            this.groupBox5.TabIndex = 1;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "3、绘制定位点框";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(3, 21);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(387, 37);
-            this.textBox2.TabIndex = 0;
-            this.textBox2.Text = "在检测区域内，绘制点框进行建模，从而实现剪切小图\r\n与样张小图对齐，且支持绘制多个定位框";
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(6, 25);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(217, 25);
-            this.textBox3.TabIndex = 0;
-            this.textBox3.Text = "导入一张OK图像进行建模配置";
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(6, 81);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(76, 25);
-            this.textBox4.TabIndex = 1;
-            this.textBox4.Text = "导入图像";
-            // 
-            // textBox5
-            // 
-            this.textBox5.Location = new System.Drawing.Point(7, 28);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(296, 25);
-            this.textBox5.TabIndex = 0;
-            this.textBox5.Text = "在放大图中绘制裁切区域，以明确检测区域";
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.radioButton3.Location = new System.Drawing.Point(279, 94);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(88, 19);
+            this.radioButton3.TabIndex = 4;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "文字图案";
+            this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // Form1
             // 
@@ -865,6 +953,18 @@ namespace VM_project1
             this.pnlTopBar.ResumeLayout(false);
             this.pnlTopBar.PerformLayout();
             this.pnlMain.ResumeLayout(false);
+            this.pnlModelConfig.ResumeLayout(false);
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox1.ResumeLayout(false);
+            this.tabControl1.ResumeLayout(false);
+            this.tabPage1.ResumeLayout(false);
+            this.groupBox5.ResumeLayout(false);
+            this.groupBox5.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.tabPage2.ResumeLayout(false);
             this.pnlDashboard.ResumeLayout(false);
             this.tlpMain.ResumeLayout(false);
             this.tlpLeft.ResumeLayout(false);
@@ -884,19 +984,10 @@ namespace VM_project1
             this.groupBoxFlow.ResumeLayout(false);
             this.groupBoxConfigTop.ResumeLayout(false);
             this.groupBoxConfigTop.PerformLayout();
-            this.pnlModelConfig.ResumeLayout(false);
             this.pnlLogs.ResumeLayout(false);
             this.groupBoxLogs.ResumeLayout(false);
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox2.ResumeLayout(false);
-            this.tabControl1.ResumeLayout(false);
-            this.tabPage1.ResumeLayout(false);
-            this.groupBox3.ResumeLayout(false);
-            this.groupBox3.PerformLayout();
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox5.PerformLayout();
+            this.groupBox6.ResumeLayout(false);
+            this.groupBox6.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -979,5 +1070,12 @@ namespace VM_project1
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.GroupBox groupBox6;
+        private System.Windows.Forms.GroupBox groupBox7;
+        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.RadioButton radioButton3;
     }
 }

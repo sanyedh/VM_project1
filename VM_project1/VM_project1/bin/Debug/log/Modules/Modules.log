@@ -2146,3 +2146,453 @@
 
 2026-03-11 20:48:26.389 ERROR [29924] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
 
+2026-03-12 10:17:33.204 ERROR [15848] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 10:17:39.179 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:17:39.179 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:17:39.179 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:17:39.179 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:17:39.180 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:17:39.202 ERROR [2868] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-12 10:17:39.547 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:17:39.552 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:17:46.496 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:17:46.496 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:17:46.496 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:17:46.496 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:17:46.496 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:17:46.506 ERROR [13192] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-12 10:17:46.812 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:17:46.812 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:17:52.550 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:17:52.550 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:17:52.550 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:17:52.550 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:17:52.550 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:17:52.556 ERROR [24920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-12 10:17:52.862 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:17:52.862 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:18:11.433 ERROR [14940] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM5680ImgSrcTemp
+
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-12 10:18:11.623 ERROR [3768] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-12 10:18:11.864 ERROR [9608] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-12 10:18:12.162 ERROR [9608] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:18:23.539 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:18:23.539 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:18:23.539 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:18:23.539 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:18:23.539 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:18:23.546 ERROR [23108] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-12 10:18:23.856 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:18:23.856 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:18:25.846 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:18:25.846 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:18:25.846 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:18:25.846 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:18:25.846 ERROR [9608] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:18:25.852 ERROR [19472] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::ConvertFileImage@5007] ConvertPixelType return [e0000007]
+
+2026-03-12 10:18:26.159 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:18:26.159 ERROR [23920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:22:29.308 ERROR [3592] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 10:30:07.111 ERROR [21160] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 10:30:12.153 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:30:12.153 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:30:12.153 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:30:12.153 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:30:12.153 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:30:12.548 ERROR [22688] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:30:12.553 ERROR [22688] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:30:32.303 ERROR [22720] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM14924ImgSrcTemp
+
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-12 10:30:32.485 ERROR [17220] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-12 10:30:32.635 ERROR [10160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-12 10:30:32.970 ERROR [10160] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:30:39.714 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:30:39.714 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:30:39.714 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:30:39.714 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:30:39.714 ERROR [10160] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:30:40.029 ERROR [22688] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:30:40.029 ERROR [22688] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:31:05.367 ERROR [22688] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:31:05.671 ERROR [13800] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var5%],nRet =[e0000314]
+
+2026-03-12 10:31:05.671 ERROR [13800] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var6%],nRet =[e0000314]
+
+2026-03-12 10:31:05.671 ERROR [13800] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var7%],nRet =[e0000314]
+
+2026-03-12 10:31:05.671 ERROR [13800] [FormatModule] [ModuId:3] [CMyAlgorithmManager::GetFloatArray@2215] VM_M_GetInt get value error.szName=[%var8%],nRet =[e0000314]
+
+2026-03-12 10:38:14.162 ERROR [19620] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 10:38:39.343 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM4248ImgSrcTemp
+
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-12 10:38:39.522 ERROR [9460] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-12 10:38:40.255 ERROR [3624] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-12 10:38:40.453 ERROR [3624] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:46:33.915 ERROR [23304] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 10:46:43.103 ERROR [16640] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3608] pstLoadInfo->struModuleData.pszAttachmentsDir == F:\c_program\VM\VM_project1\VM_project1\bin\Debug\ImageTemp\VM20536ImgSrcTemp
+
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3098] m_pDynamicInDataLen error, m_pDynamicInDataLen = 0
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::SetParam@3126] m_pDynamicOutDataLen error, m_pDynamicOutDataLen = 0
+
+2026-03-12 10:46:43.258 ERROR [18336] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::LoadModuleData@3847] File C:\Users\张奕凡\Desktop\2025-10-14_svpOt7aTtf_样本图\样本图\NG\Image_20250721174613412.png is not exit
+
+2026-03-12 10:46:43.408 ERROR [23892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::NotifyEvent@6415] Load Sol end, CameraId -1, ImageType 1.
+
+2026-03-12 10:46:43.614 ERROR [23892] [ImageSourceModule] [ModuId:0] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:57:29.864 ERROR [15020] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 10:57:39.269 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:57:39.269 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:57:39.269 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:57:39.269 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:57:39.271 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:57:39.628 ERROR [5368] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:57:39.633 ERROR [5368] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 10:59:04.971 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 10:59:04.971 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 10:59:04.971 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 10:59:04.971 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 10:59:04.971 ERROR [5144] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 10:59:05.313 ERROR [5368] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 10:59:05.315 ERROR [5368] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 11:18:54.356 ERROR [24948] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 11:18:59.606 ERROR [9184] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 11:18:59.606 ERROR [9184] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 11:18:59.606 ERROR [9184] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 11:18:59.606 ERROR [9184] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 11:18:59.606 ERROR [9184] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 11:18:59.971 ERROR [25044] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 11:18:59.976 ERROR [25044] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 11:52:09.339 ERROR [25320] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 11:52:13.148 ERROR [10468] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 11:52:13.148 ERROR [10468] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 11:52:13.148 ERROR [10468] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 11:52:13.148 ERROR [10468] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 11:52:13.148 ERROR [10468] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 11:52:13.510 ERROR [9648] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 11:52:13.515 ERROR [9648] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:06:14.856 ERROR [6252] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:06:19.360 ERROR [2944] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:06:19.360 ERROR [2944] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:06:19.360 ERROR [2944] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:06:19.360 ERROR [2944] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:06:19.360 ERROR [2944] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:06:19.733 ERROR [3092] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:06:19.738 ERROR [3092] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:11:39.580 ERROR [17128] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:11:43.745 ERROR [11068] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:11:43.745 ERROR [11068] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:11:43.745 ERROR [11068] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:11:43.745 ERROR [11068] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:11:43.745 ERROR [11068] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:11:44.103 ERROR [20032] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:11:44.107 ERROR [20032] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:14:02.283 ERROR [9368] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:14:06.609 ERROR [25452] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:14:06.609 ERROR [25452] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:14:06.609 ERROR [25452] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:14:06.609 ERROR [25452] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:14:06.609 ERROR [25452] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:14:06.984 ERROR [24620] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:14:06.988 ERROR [24620] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:20:26.755 ERROR [12876] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:20:30.836 ERROR [24844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:20:30.836 ERROR [24844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:20:30.836 ERROR [24844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:20:30.836 ERROR [24844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:20:30.836 ERROR [24844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:20:31.197 ERROR [12676] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:20:31.202 ERROR [12676] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:37:36.484 ERROR [3376] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:37:40.691 ERROR [7820] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:37:40.691 ERROR [7820] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:37:40.691 ERROR [7820] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:37:40.691 ERROR [7820] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:37:40.691 ERROR [7820] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:37:41.053 ERROR [8644] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:37:41.058 ERROR [8644] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:43:06.921 ERROR [3276] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:43:10.976 ERROR [14920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:43:10.976 ERROR [14920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:43:10.976 ERROR [14920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:43:10.976 ERROR [14920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:43:10.976 ERROR [14920] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:43:11.332 ERROR [21328] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:43:11.336 ERROR [21328] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:48:58.627 ERROR [5228] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:49:02.692 ERROR [4844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:49:02.692 ERROR [4844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:49:02.692 ERROR [4844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:49:02.692 ERROR [4844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:49:02.692 ERROR [4844] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:49:03.071 ERROR [13924] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:49:03.075 ERROR [13924] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 12:54:44.004 ERROR [5228] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 12:54:48.046 ERROR [24152] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 12:54:48.046 ERROR [24152] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 12:54:48.046 ERROR [24152] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 12:54:48.046 ERROR [24152] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 12:54:48.046 ERROR [24152] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 12:54:48.404 ERROR [16460] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 12:54:48.409 ERROR [16460] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 13:04:34.385 ERROR [8580] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 13:04:40.808 ERROR [19132] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 13:04:40.808 ERROR [19132] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 13:04:40.808 ERROR [19132] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 13:04:40.808 ERROR [19132] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 13:04:40.808 ERROR [19132] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 13:04:41.169 ERROR [23632] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 13:04:41.172 ERROR [23632] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 13:08:45.609 ERROR [2320] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
+2026-03-12 13:08:50.027 ERROR [19220] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 13:08:50.027 ERROR [19220] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 13:08:50.027 ERROR [19220] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 13:08:50.027 ERROR [19220] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 13:08:50.027 ERROR [19220] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 13:08:50.384 ERROR [16892] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 13:08:50.387 ERROR [16892] [ImageSourceModule] [ModuId:160000] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 13:08:53.418 ERROR [19220] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::SetParam@2422] ClearCacheImage return [e0000302]
+
+2026-03-12 13:08:53.418 ERROR [19220] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::SetParam@2902] Set camera id : -1[-1].
+
+2026-03-12 13:08:53.418 ERROR [19220] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::SetParam@2232] SubscribeFolderPath: Image file not exist, path=
+
+2026-03-12 13:08:53.418 ERROR [19220] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::SetParam@3071] Set CameraParamWaitTime 0
+
+2026-03-12 13:08:53.418 ERROR [19220] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::Init@1409] 250519
+
+2026-03-12 13:08:53.435 ERROR [16892] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::GetParam@2090] m_pDynamicInDataLen = 0
+
+2026-03-12 13:08:53.435 ERROR [16892] [ImageSourceModule] [ModuId:160001] [CMyAlgorithmManager::GetParam@2104] m_pDynamicOutDataLen = 0
+
+2026-03-12 13:15:27.341 ERROR [23680] [SaveImageTool] [ModuId:9999] [SIL_Init@98] ----------------sil start----------------
+
